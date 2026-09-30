@@ -28,7 +28,7 @@ schema = StructType([
     StructField("start_time", StringType(), False),
     StructField("duration_minutes", IntegerType(), False),
     StructField("waiting_minutes", IntegerType(), False),
-    StructField("emergency", BooleanType(), False),
+    StructField("emergency", IntegerType(), False),
     StructField("outcome", StringType(), False),
 ])
 
@@ -47,6 +47,7 @@ def transform(df):
         .dropDuplicates(["surgery_id"])
         .filter(F.col("duration_minutes") > 0)
         .filter(F.col("waiting_minutes") >= 0)
+        .withColumn("emergency", F.col("emergency").cast("boolean"))
         .withColumn("year", F.year("scheduled_date"))
         .withColumn("month", F.month("scheduled_date"))
         .withColumn(
