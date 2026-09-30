@@ -1,0 +1,2501 @@
+surgery_id,patient_id,specialty,hospital,room_id,scheduled_date,start_time,duration_minutes,waiting_minutes,emergency,outcome
+S00001,P00246,General Surgery,Hospital_B,OR_02,2025-02-02,15:00,107,67,0,Completed
+S00002,P00578,General Surgery,Hospital_B,OR_05,2025-10-10,11:45,89,19,0,Completed
+S00003,P00746,General Surgery,Hospital_B,OR_02,2025-08-27,13:30,52,19,0,Cancelled
+S00004,P00802,Gynecology,Hospital_C,OR_02,2025-06-10,08:45,85,21,0,Completed
+S00005,P00875,General Surgery,Hospital_B,OR_03,2025-06-08,07:30,63,30,0,Completed
+S00006,P00585,Urology,Hospital_C,OR_07,2025-11-10,14:15,54,22,0,Completed
+S00007,P00370,Urology,Hospital_B,OR_05,2025-02-01,16:45,111,26,0,Completed
+S00008,P00581,Urology,Hospital_B,OR_04,2025-09-12,07:45,126,0,0,Completed
+S00009,P00120,Cardiology,Hospital_A,OR_05,2025-03-15,09:45,171,29,0,Completed
+S00010,P00735,ENT,Hospital_A,OR_05,2025-02-04,16:30,87,28,0,Completed
+S00011,P00481,General Surgery,Hospital_B,OR_04,2025-07-12,16:45,46,47,0,Completed
+S00012,P00149,Orthopedics,Hospital_A,OR_07,2025-12-23,12:00,72,52,0,Completed
+S00013,P00383,Orthopedics,Hospital_C,OR_06,2025-09-26,11:45,254,25,0,Completed
+S00014,P00271,ENT,Hospital_A,OR_02,2025-10-05,09:45,47,43,0,Completed
+S00015,P00315,Cardiology,Hospital_A,OR_07,2025-09-19,08:30,177,8,0,Completed
+S00016,P00046,Urology,Hospital_C,OR_02,2025-10-14,14:00,81,54,1,Completed
+S00017,P00015,General Surgery,Hospital_A,OR_01,2025-07-07,12:00,98,18,0,Completed
+S00018,P00315,ENT,Hospital_A,OR_04,2025-02-16,11:45,55,7,0,Completed
+S00019,P00272,Cardiology,Hospital_A,OR_04,2025-11-03,07:45,173,25,0,Completed
+S00020,P00898,Cardiology,Hospital_C,OR_07,2025-06-14,14:30,147,53,0,Completed
+S00021,P00237,ENT,Hospital_C,OR_06,2025-07-02,10:45,59,31,0,Completed
+S00022,P00297,Orthopedics,Hospital_A,OR_01,2025-05-16,09:30,81,55,0,Completed
+S00023,P00823,Orthopedics,Hospital_B,OR_04,2025-03-08,07:45,133,15,0,Completed
+S00024,P00773,Gynecology,Hospital_B,OR_07,2025-12-05,14:00,54,47,0,Completed
+S00025,P00052,General Surgery,Hospital_C,OR_06,2025-10-13,14:00,112,16,0,Completed
+S00026,P00078,Orthopedics,Hospital_B,OR_05,2025-08-24,11:30,326,44,1,Completed
+S00027,P00086,General Surgery,Hospital_B,OR_05,2025-05-27,17:15,159,44,1,Completed
+S00028,P00414,General Surgery,Hospital_B,OR_05,2025-10-28,07:15,125,40,0,Completed
+S00029,P00515,Urology,Hospital_A,OR_02,2025-07-19,17:45,102,33,0,Cancelled
+S00030,P00316,Gynecology,Hospital_B,OR_05,2025-06-11,07:00,41,15,0,Completed
+S00031,P00012,Orthopedics,Hospital_B,OR_06,2025-06-14,15:30,73,56,1,Completed
+S00032,P00182,Orthopedics,Hospital_C,OR_01,2025-03-24,13:00,195,59,0,Completed
+S00033,P00553,Orthopedics,Hospital_B,OR_06,2025-02-03,10:45,89,17,0,Completed
+S00034,P00335,Gynecology,Hospital_C,OR_02,2025-07-22,08:00,65,0,0,Completed
+S00035,P00112,ENT,Hospital_B,OR_01,2025-11-21,11:30,66,37,0,Completed
+S00036,P00586,ENT,Hospital_C,OR_07,2025-01-24,16:30,47,34,1,Completed
+S00037,P00552,Orthopedics,Hospital_C,OR_04,2025-11-10,12:15,75,26,0,Completed
+S00038,P00441,Orthopedics,Hospital_A,OR_04,2025-10-30,07:15,118,38,0,Completed
+S00039,P00846,Cardiology,Hospital_B,OR_05,2025-04-12,09:00,100,20,0,Completed
+S00040,P00760,Cardiology,Hospital_C,OR_05,2025-08-19,15:15,106,23,0,Completed
+S00041,P00036,Cardiology,Hospital_B,OR_05,2025-03-02,12:00,104,26,0,Completed
+S00042,P00814,Gynecology,Hospital_C,OR_08,2025-10-04,13:00,104,66,1,Completed
+S00043,P00045,Cardiology,Hospital_B,OR_06,2025-09-13,14:30,128,29,0,Completed
+S00044,P00434,Orthopedics,Hospital_C,OR_01,2025-05-10,10:00,112,6,0,Completed
+S00045,P00811,Orthopedics,Hospital_B,OR_02,2025-01-25,15:00,151,6,0,Completed
+S00046,P00883,Orthopedics,Hospital_B,OR_04,2025-12-21,08:15,114,31,0,Completed
+S00047,P00021,General Surgery,Hospital_A,OR_04,2025-06-12,17:15,85,8,0,Completed
+S00048,P00065,General Surgery,Hospital_A,OR_03,2025-11-22,09:30,114,0,0,Completed
+S00049,P00217,Gynecology,Hospital_A,OR_02,2025-09-05,10:30,110,39,0,Completed
+S00050,P00249,Orthopedics,Hospital_C,OR_01,2025-10-12,11:30,113,40,0,Completed
+S00051,P00252,General Surgery,Hospital_B,OR_02,2025-10-05,11:15,98,21,0,Completed
+S00052,P00375,Cardiology,Hospital_B,OR_08,2025-03-13,11:15,104,33,0,Completed
+S00053,P00287,Urology,Hospital_B,OR_04,2025-05-13,17:15,76,31,0,Completed
+S00054,P00524,Orthopedics,Hospital_B,OR_08,2025-06-20,15:30,161,39,0,Completed
+S00055,P00768,Urology,Hospital_C,OR_03,2025-07-01,12:15,124,51,1,Completed
+S00056,P00491,ENT,Hospital_B,OR_03,2025-01-16,12:45,83,0,0,Completed
+S00057,P00299,Gynecology,Hospital_B,OR_04,2025-07-19,09:30,95,36,1,Completed
+S00058,P00511,Gynecology,Hospital_B,OR_08,2025-02-26,15:30,87,37,0,Completed
+S00059,P00558,General Surgery,Hospital_B,OR_05,2025-09-29,08:30,124,21,0,Completed
+S00060,P00806,ENT,Hospital_B,OR_01,2025-09-07,09:45,100,29,0,Completed
+S00061,P00852,Orthopedics,Hospital_A,OR_03,2025-12-03,10:15,170,42,0,Completed
+S00062,P00250,ENT,Hospital_C,OR_08,2025-09-29,16:15,67,29,0,Completed
+S00063,P00826,Cardiology,Hospital_B,OR_02,2025-05-14,09:45,237,55,0,Completed
+S00064,P00735,General Surgery,Hospital_B,OR_07,2025-12-20,14:30,104,48,0,Completed
+S00065,P00116,General Surgery,Hospital_B,OR_08,2025-05-30,07:15,121,26,0,Completed
+S00066,P00502,Gynecology,Hospital_B,OR_02,2025-04-29,12:15,95,24,0,Completed
+S00067,P00137,Cardiology,Hospital_C,OR_05,2025-11-27,13:00,154,0,0,Completed
+S00068,P00441,General Surgery,Hospital_A,OR_05,2025-05-16,12:45,72,22,0,Completed
+S00069,P00041,Urology,Hospital_A,OR_07,2025-01-28,15:15,137,4,0,Completed
+S00070,P00270,Urology,Hospital_C,OR_07,2025-06-21,09:00,310,32,0,Completed
+S00071,P00529,Cardiology,Hospital_C,OR_01,2025-10-18,10:00,121,31,0,Completed
+S00072,P00274,Cardiology,Hospital_B,OR_03,2025-03-11,08:45,144,41,0,Completed
+S00073,P00010,General Surgery,Hospital_B,OR_08,2025-06-18,16:30,80,65,1,Completed
+S00074,P00350,Urology,Hospital_B,OR_03,2025-02-17,15:15,87,28,0,Completed
+S00075,P00487,Orthopedics,Hospital_C,OR_02,2025-09-08,13:45,216,69,0,Completed
+S00076,P00687,Urology,Hospital_B,OR_06,2025-06-23,07:15,81,32,0,Completed
+S00077,P00123,Orthopedics,Hospital_C,OR_02,2025-05-01,08:45,100,4,0,Completed
+S00078,P00429,Cardiology,Hospital_B,OR_02,2025-03-24,16:30,77,18,0,Completed
+S00079,P00179,Orthopedics,Hospital_B,OR_07,2025-07-26,13:15,90,21,0,Completed
+S00080,P00139,General Surgery,Hospital_C,OR_01,2025-09-02,07:45,50,39,0,Completed
+S00081,P00110,Urology,Hospital_B,OR_08,2025-12-10,16:45,133,11,0,Cancelled
+S00082,P00684,Cardiology,Hospital_A,OR_02,2025-06-09,10:00,406,23,0,Completed
+S00083,P00827,Cardiology,Hospital_A,OR_01,2025-02-28,14:00,122,25,0,Completed
+S00084,P00597,ENT,Hospital_C,OR_06,2025-10-31,07:45,37,20,0,Completed
+S00085,P00341,ENT,Hospital_B,OR_02,2025-08-18,17:15,99,43,0,Completed
+S00086,P00854,Urology,Hospital_A,OR_03,2025-09-13,12:30,80,40,0,Completed
+S00087,P00447,General Surgery,Hospital_C,OR_03,2025-02-05,08:00,156,49,0,Completed
+S00088,P00476,Gynecology,Hospital_C,OR_05,2025-04-25,10:45,76,22,0,Completed
+S00089,P00571,Urology,Hospital_B,OR_04,2025-10-08,11:30,83,50,0,Completed
+S00090,P00589,Orthopedics,Hospital_B,OR_02,2025-10-31,09:45,112,3,0,Completed
+S00091,P00443,General Surgery,Hospital_C,OR_02,2025-06-08,16:15,127,15,1,Completed
+S00092,P00431,Urology,Hospital_A,OR_02,2025-10-21,09:45,96,6,0,Completed
+S00093,P00286,Cardiology,Hospital_A,OR_01,2025-11-04,15:30,116,28,0,Completed
+S00094,P00613,Cardiology,Hospital_B,OR_06,2025-05-22,09:30,130,50,0,Completed
+S00095,P00605,ENT,Hospital_B,OR_04,2025-11-24,11:30,43,17,0,Completed
+S00096,P00393,Gynecology,Hospital_A,OR_01,2025-04-16,16:15,99,19,0,Completed
+S00097,P00641,Orthopedics,Hospital_A,OR_03,2025-03-29,07:30,61,24,0,Completed
+S00098,P00124,Orthopedics,Hospital_C,OR_06,2025-09-07,16:00,101,50,1,Completed
+S00099,P00375,Orthopedics,Hospital_B,OR_03,2025-08-21,17:15,160,19,0,Completed
+S00100,P00888,General Surgery,Hospital_C,OR_04,2025-02-21,14:30,107,18,0,Completed
+S00101,P00660,Urology,Hospital_B,OR_06,2025-10-31,09:00,131,4,0,Completed
+S00102,P00648,Urology,Hospital_B,OR_06,2025-03-14,17:30,102,18,0,Completed
+S00103,P00777,Orthopedics,Hospital_B,OR_06,2025-10-21,13:15,187,49,0,Completed
+S00104,P00548,Orthopedics,Hospital_B,OR_04,2025-01-03,08:15,171,30,0,Completed
+S00105,P00596,Urology,Hospital_C,OR_04,2025-10-18,13:30,124,15,0,Completed
+S00106,P00433,General Surgery,Hospital_C,OR_07,2025-10-15,10:00,135,50,0,Completed
+S00107,P00743,Cardiology,Hospital_C,OR_07,2025-10-12,09:45,186,17,0,Completed
+S00108,P00640,Cardiology,Hospital_C,OR_01,2025-08-31,13:45,118,54,0,Completed
+S00109,P00471,Gynecology,Hospital_A,OR_07,2025-06-22,07:15,51,53,0,Completed
+S00110,P00114,General Surgery,Hospital_B,OR_08,2025-09-15,12:15,111,29,0,Completed
+S00111,P00725,Gynecology,Hospital_C,OR_08,2025-04-12,11:00,105,1,0,Completed
+S00112,P00294,Orthopedics,Hospital_B,OR_03,2025-10-12,07:45,182,69,0,Completed
+S00113,P00323,Gynecology,Hospital_B,OR_05,2025-07-22,11:00,60,35,0,Completed
+S00114,P00113,General Surgery,Hospital_A,OR_01,2025-06-17,10:45,67,22,0,Completed
+S00115,P00196,Cardiology,Hospital_A,OR_01,2025-07-04,12:45,167,45,0,Completed
+S00116,P00114,Cardiology,Hospital_C,OR_05,2025-07-27,08:00,136,41,0,Cancelled
+S00117,P00088,General Surgery,Hospital_A,OR_02,2025-01-14,13:30,46,52,0,Completed
+S00118,P00020,General Surgery,Hospital_B,OR_02,2025-02-21,17:15,110,28,1,Completed
+S00119,P00265,General Surgery,Hospital_B,OR_03,2025-03-31,09:30,47,34,0,Completed
+S00120,P00680,Orthopedics,Hospital_C,OR_04,2025-02-11,10:00,84,7,0,Completed
+S00121,P00777,General Surgery,Hospital_C,OR_02,2025-06-10,07:30,159,40,0,Completed
+S00122,P00205,ENT,Hospital_B,OR_07,2025-09-01,14:00,140,28,0,Completed
+S00123,P00382,Orthopedics,Hospital_A,OR_06,2025-08-27,13:45,76,33,0,Completed
+S00124,P00748,Urology,Hospital_B,OR_07,2025-06-21,15:15,93,25,0,Completed
+S00125,P00636,ENT,Hospital_C,OR_08,2025-11-09,07:30,71,23,0,Completed
+S00126,P00814,General Surgery,Hospital_B,OR_05,2025-07-26,12:45,187,24,1,Completed
+S00127,P00378,Gynecology,Hospital_B,OR_03,2025-01-29,13:30,70,42,0,Cancelled
+S00128,P00152,Urology,Hospital_C,OR_08,2025-10-07,12:30,88,55,0,Completed
+S00129,P00129,Gynecology,Hospital_B,OR_05,2025-07-29,10:15,153,18,0,Completed
+S00130,P00638,Orthopedics,Hospital_B,OR_04,2025-08-20,10:15,104,38,0,Completed
+S00131,P00024,Orthopedics,Hospital_B,OR_04,2025-07-26,17:15,158,36,0,Completed
+S00132,P00414,General Surgery,Hospital_C,OR_01,2025-07-22,12:45,54,28,0,Completed
+S00133,P00318,Cardiology,Hospital_B,OR_08,2025-02-03,08:15,131,1,0,Completed
+S00134,P00827,ENT,Hospital_A,OR_07,2025-07-24,12:15,37,5,0,Completed
+S00135,P00898,ENT,Hospital_B,OR_06,2025-10-18,10:45,47,14,0,Completed
+S00136,P00436,General Surgery,Hospital_C,OR_02,2025-04-21,12:15,131,0,0,Completed
+S00137,P00522,Gynecology,Hospital_C,OR_08,2025-08-09,12:45,83,53,0,Completed
+S00138,P00341,Orthopedics,Hospital_C,OR_02,2025-01-12,17:00,106,35,0,Completed
+S00139,P00699,ENT,Hospital_C,OR_02,2025-05-07,07:00,53,27,0,Completed
+S00140,P00265,General Surgery,Hospital_C,OR_01,2025-06-09,11:30,87,0,0,Completed
+S00141,P00670,ENT,Hospital_B,OR_03,2025-12-25,07:30,78,0,0,Cancelled
+S00142,P00813,Urology,Hospital_B,OR_03,2025-03-20,11:45,153,28,0,Completed
+S00143,P00155,General Surgery,Hospital_B,OR_07,2025-04-11,13:15,35,63,0,Completed
+S00144,P00204,General Surgery,Hospital_C,OR_03,2025-05-30,13:00,69,15,0,Completed
+S00145,P00341,Urology,Hospital_B,OR_08,2025-12-29,12:15,112,44,0,Completed
+S00146,P00745,General Surgery,Hospital_A,OR_03,2025-11-08,08:15,91,19,0,Cancelled
+S00147,P00577,Cardiology,Hospital_A,OR_05,2025-01-13,14:30,163,29,0,Completed
+S00148,P00175,ENT,Hospital_A,OR_05,2025-03-27,17:15,77,50,0,Completed
+S00149,P00331,Cardiology,Hospital_B,OR_07,2025-10-27,14:30,125,22,0,Completed
+S00150,P00579,Orthopedics,Hospital_C,OR_07,2025-01-22,16:45,98,16,0,Completed
+S00151,P00868,Cardiology,Hospital_C,OR_07,2025-11-09,14:15,128,54,0,Completed
+S00152,P00406,General Surgery,Hospital_C,OR_08,2025-04-13,12:30,147,29,0,Completed
+S00153,P00068,ENT,Hospital_C,OR_01,2025-12-01,15:00,53,60,1,Completed
+S00154,P00095,Orthopedics,Hospital_A,OR_01,2025-04-18,16:45,117,16,0,Completed
+S00155,P00026,General Surgery,Hospital_C,OR_04,2025-06-08,07:15,102,53,0,Completed
+S00156,P00114,Orthopedics,Hospital_C,OR_02,2025-08-30,09:30,217,33,0,Completed
+S00157,P00371,ENT,Hospital_C,OR_04,2025-02-16,09:15,62,48,1,Completed
+S00158,P00254,General Surgery,Hospital_B,OR_05,2025-07-23,09:00,137,30,0,Completed
+S00159,P00271,Urology,Hospital_A,OR_03,2025-07-04,12:15,168,19,0,Completed
+S00160,P00690,Gynecology,Hospital_C,OR_01,2025-10-14,12:00,83,28,0,Completed
+S00161,P00429,Urology,Hospital_A,OR_08,2025-12-30,10:45,97,20,0,Completed
+S00162,P00656,ENT,Hospital_C,OR_03,2025-08-31,15:15,62,45,0,Completed
+S00163,P00488,Urology,Hospital_C,OR_07,2025-05-30,08:45,95,24,0,Completed
+S00164,P00185,ENT,Hospital_C,OR_05,2025-05-29,14:15,97,1,0,Completed
+S00165,P00853,General Surgery,Hospital_B,OR_06,2025-06-02,14:00,104,0,0,Completed
+S00166,P00429,Urology,Hospital_C,OR_07,2025-10-25,11:15,115,0,0,Completed
+S00167,P00752,Cardiology,Hospital_C,OR_03,2025-04-28,14:00,91,39,0,Completed
+S00168,P00088,Cardiology,Hospital_C,OR_02,2025-03-02,12:45,97,7,0,Completed
+S00169,P00764,ENT,Hospital_B,OR_08,2025-05-03,09:00,158,45,1,Completed
+S00170,P00644,ENT,Hospital_B,OR_06,2025-01-09,16:45,65,42,1,Completed
+S00171,P00225,Gynecology,Hospital_C,OR_03,2025-02-08,11:00,63,27,0,Completed
+S00172,P00714,Cardiology,Hospital_A,OR_06,2025-02-02,12:15,241,36,0,Completed
+S00173,P00668,Cardiology,Hospital_A,OR_04,2025-10-09,13:00,156,31,0,Completed
+S00174,P00804,Orthopedics,Hospital_B,OR_07,2025-09-21,15:30,149,0,1,Completed
+S00175,P00189,Orthopedics,Hospital_B,OR_05,2025-09-12,14:30,114,22,0,Completed
+S00176,P00797,Orthopedics,Hospital_C,OR_03,2025-06-18,09:45,106,36,0,Completed
+S00177,P00686,General Surgery,Hospital_C,OR_06,2025-09-19,09:15,89,58,0,Completed
+S00178,P00304,General Surgery,Hospital_A,OR_07,2025-02-28,17:00,56,58,0,Completed
+S00179,P00316,Urology,Hospital_A,OR_03,2025-11-25,08:45,102,3,0,Completed
+S00180,P00229,Cardiology,Hospital_C,OR_07,2025-07-02,11:30,157,22,0,Completed
+S00181,P00429,ENT,Hospital_B,OR_02,2025-12-09,13:45,141,0,0,Completed
+S00182,P00807,Gynecology,Hospital_A,OR_02,2025-02-25,13:15,88,55,0,Completed
+S00183,P00754,General Surgery,Hospital_B,OR_07,2025-07-01,13:30,39,46,0,Completed
+S00184,P00132,General Surgery,Hospital_C,OR_05,2025-09-12,11:00,92,34,0,Completed
+S00185,P00119,General Surgery,Hospital_B,OR_01,2025-06-30,12:45,269,43,1,Completed
+S00186,P00054,ENT,Hospital_B,OR_06,2025-06-12,08:00,97,53,0,Completed
+S00187,P00553,General Surgery,Hospital_B,OR_03,2025-03-02,17:45,70,50,0,Cancelled
+S00188,P00283,Cardiology,Hospital_C,OR_03,2025-05-20,08:00,175,49,0,Completed
+S00189,P00684,ENT,Hospital_B,OR_04,2025-03-29,14:45,53,36,0,Completed
+S00190,P00684,ENT,Hospital_C,OR_04,2025-04-21,15:45,42,22,0,Completed
+S00191,P00178,General Surgery,Hospital_C,OR_08,2025-09-07,12:45,83,54,1,Completed
+S00192,P00625,General Surgery,Hospital_B,OR_04,2025-08-19,13:15,98,43,0,Completed
+S00193,P00688,General Surgery,Hospital_B,OR_03,2025-08-10,14:15,47,25,0,Completed
+S00194,P00888,General Surgery,Hospital_C,OR_07,2025-05-13,13:45,61,22,0,Completed
+S00195,P00650,General Surgery,Hospital_A,OR_05,2025-12-17,17:30,95,48,0,Completed
+S00196,P00324,Cardiology,Hospital_A,OR_01,2025-02-01,07:30,120,58,0,Completed
+S00197,P00899,ENT,Hospital_A,OR_06,2025-05-06,09:00,81,15,0,Completed
+S00198,P00248,Cardiology,Hospital_C,OR_05,2025-02-13,16:15,88,23,0,Completed
+S00199,P00724,Gynecology,Hospital_C,OR_05,2025-05-04,15:15,111,34,0,Completed
+S00200,P00341,General Surgery,Hospital_C,OR_02,2025-12-18,13:30,61,37,0,Completed
+S00201,P00841,Urology,Hospital_A,OR_04,2025-05-14,16:00,196,19,0,Cancelled
+S00202,P00704,Gynecology,Hospital_A,OR_06,2025-11-28,13:15,44,62,0,Completed
+S00203,P00540,Urology,Hospital_A,OR_06,2025-06-30,12:45,69,36,0,Completed
+S00204,P00193,ENT,Hospital_A,OR_06,2025-09-13,08:30,82,38,0,Completed
+S00205,P00170,Orthopedics,Hospital_A,OR_08,2025-06-16,11:45,226,72,1,Completed
+S00206,P00853,General Surgery,Hospital_B,OR_05,2025-04-08,09:00,107,20,0,Completed
+S00207,P00721,General Surgery,Hospital_C,OR_04,2025-10-06,07:15,118,26,0,Completed
+S00208,P00461,Orthopedics,Hospital_A,OR_05,2025-12-20,07:30,121,5,0,Completed
+S00209,P00789,ENT,Hospital_C,OR_03,2025-04-07,09:15,47,25,0,Completed
+S00210,P00705,Orthopedics,Hospital_C,OR_03,2025-10-12,13:30,100,13,1,Completed
+S00211,P00349,Urology,Hospital_A,OR_06,2025-04-06,07:00,66,41,0,Completed
+S00212,P00744,Cardiology,Hospital_A,OR_03,2025-09-19,10:30,86,36,0,Completed
+S00213,P00716,General Surgery,Hospital_B,OR_06,2025-10-15,16:00,111,23,0,Completed
+S00214,P00431,Orthopedics,Hospital_C,OR_06,2025-06-14,07:30,78,26,0,Completed
+S00215,P00018,Gynecology,Hospital_C,OR_08,2025-09-26,17:45,96,42,0,Cancelled
+S00216,P00667,Gynecology,Hospital_C,OR_02,2025-04-10,13:00,52,20,1,Completed
+S00217,P00306,Orthopedics,Hospital_A,OR_03,2025-01-29,13:15,134,32,0,Completed
+S00218,P00328,General Surgery,Hospital_C,OR_07,2025-02-05,11:15,79,41,0,Completed
+S00219,P00642,Gynecology,Hospital_C,OR_04,2025-06-13,13:30,145,0,0,Completed
+S00220,P00730,General Surgery,Hospital_B,OR_06,2025-11-26,09:00,107,40,0,Completed
+S00221,P00079,ENT,Hospital_A,OR_06,2025-02-16,07:15,112,0,0,Completed
+S00222,P00741,General Surgery,Hospital_A,OR_08,2025-06-16,12:45,71,26,0,Completed
+S00223,P00264,General Surgery,Hospital_A,OR_02,2025-09-14,11:30,97,7,0,Completed
+S00224,P00510,Cardiology,Hospital_C,OR_03,2025-03-15,17:30,96,54,0,Completed
+S00225,P00781,Cardiology,Hospital_A,OR_04,2025-09-21,14:15,120,19,1,Completed
+S00226,P00197,Cardiology,Hospital_C,OR_05,2025-04-22,08:45,127,0,0,Completed
+S00227,P00199,Orthopedics,Hospital_A,OR_08,2025-10-23,13:00,91,42,1,Completed
+S00228,P00873,ENT,Hospital_C,OR_01,2025-07-31,12:00,44,21,0,Completed
+S00229,P00336,Cardiology,Hospital_C,OR_02,2025-07-19,17:30,82,1,0,Completed
+S00230,P00852,Cardiology,Hospital_B,OR_08,2025-03-06,15:15,58,37,0,Completed
+S00231,P00322,Orthopedics,Hospital_B,OR_05,2025-06-19,07:30,80,0,0,Completed
+S00232,P00558,General Surgery,Hospital_A,OR_06,2025-11-09,14:00,121,9,0,Completed
+S00233,P00459,Gynecology,Hospital_A,OR_02,2025-01-08,14:00,46,18,0,Cancelled
+S00234,P00885,General Surgery,Hospital_C,OR_05,2025-10-04,14:30,56,42,0,Completed
+S00235,P00495,Gynecology,Hospital_C,OR_03,2025-06-29,08:15,168,51,0,Completed
+S00236,P00453,General Surgery,Hospital_C,OR_06,2025-09-20,08:30,75,48,0,Completed
+S00237,P00420,ENT,Hospital_B,OR_01,2025-08-31,09:30,79,25,0,Completed
+S00238,P00338,Cardiology,Hospital_A,OR_03,2025-06-07,11:00,179,0,0,Completed
+S00239,P00396,ENT,Hospital_A,OR_06,2025-04-23,16:30,90,35,0,Completed
+S00240,P00414,Cardiology,Hospital_C,OR_05,2025-08-17,09:45,79,54,0,Completed
+S00241,P00687,General Surgery,Hospital_A,OR_07,2025-02-21,14:45,87,50,0,Completed
+S00242,P00042,Urology,Hospital_A,OR_07,2025-08-02,08:00,57,36,0,Completed
+S00243,P00451,Gynecology,Hospital_A,OR_01,2025-02-04,07:30,215,7,0,Completed
+S00244,P00494,Urology,Hospital_B,OR_01,2025-08-26,15:45,57,19,0,Completed
+S00245,P00678,Orthopedics,Hospital_C,OR_03,2025-08-18,17:30,81,63,0,Completed
+S00246,P00599,Gynecology,Hospital_B,OR_08,2025-01-31,13:15,57,2,0,Completed
+S00247,P00389,Urology,Hospital_C,OR_04,2025-10-04,07:00,59,7,0,Completed
+S00248,P00099,Gynecology,Hospital_B,OR_08,2025-06-01,07:30,142,57,1,Completed
+S00249,P00335,Orthopedics,Hospital_C,OR_01,2025-10-15,12:45,301,20,0,Completed
+S00250,P00230,Gynecology,Hospital_A,OR_08,2025-01-16,08:45,71,7,0,Completed
+S00251,P00184,Gynecology,Hospital_B,OR_01,2025-03-07,14:45,51,56,0,Completed
+S00252,P00649,ENT,Hospital_A,OR_07,2025-06-30,14:15,30,36,0,Completed
+S00253,P00430,Orthopedics,Hospital_C,OR_08,2025-03-10,13:30,109,21,0,Completed
+S00254,P00714,Orthopedics,Hospital_B,OR_03,2025-05-01,08:00,106,19,1,Completed
+S00255,P00125,Urology,Hospital_A,OR_03,2025-08-30,14:00,82,65,0,Completed
+S00256,P00887,Cardiology,Hospital_A,OR_05,2025-02-22,08:00,152,28,0,Completed
+S00257,P00426,Gynecology,Hospital_B,OR_06,2025-09-05,13:45,99,53,0,Cancelled
+S00258,P00228,Cardiology,Hospital_B,OR_01,2025-02-07,12:00,158,44,0,Completed
+S00259,P00327,General Surgery,Hospital_A,OR_02,2025-03-05,12:15,84,19,0,Completed
+S00260,P00757,Urology,Hospital_B,OR_07,2025-08-03,13:15,69,19,0,Completed
+S00261,P00639,General Surgery,Hospital_C,OR_07,2025-10-17,12:15,122,54,0,Completed
+S00262,P00155,General Surgery,Hospital_C,OR_02,2025-03-04,16:30,95,54,0,Completed
+S00263,P00891,Gynecology,Hospital_A,OR_08,2025-04-20,10:00,119,6,1,Completed
+S00264,P00118,Urology,Hospital_C,OR_07,2025-12-04,14:15,142,50,1,Completed
+S00265,P00248,ENT,Hospital_C,OR_07,2025-12-28,09:15,41,26,0,Completed
+S00266,P00656,Orthopedics,Hospital_A,OR_02,2025-08-01,12:45,70,9,0,Completed
+S00267,P00477,General Surgery,Hospital_A,OR_06,2025-06-13,12:30,71,33,0,Completed
+S00268,P00401,ENT,Hospital_A,OR_02,2025-05-07,14:45,47,4,0,Completed
+S00269,P00833,General Surgery,Hospital_C,OR_02,2025-08-12,07:15,127,20,0,Cancelled
+S00270,P00714,General Surgery,Hospital_C,OR_01,2025-08-04,14:00,109,14,0,Completed
+S00271,P00865,Orthopedics,Hospital_B,OR_04,2025-04-18,11:15,182,19,0,Completed
+S00272,P00255,Cardiology,Hospital_C,OR_06,2025-01-09,15:45,163,39,1,Completed
+S00273,P00765,ENT,Hospital_B,OR_02,2025-02-25,08:00,76,10,0,Completed
+S00274,P00192,Urology,Hospital_C,OR_02,2025-12-16,15:00,166,56,0,Completed
+S00275,P00725,Gynecology,Hospital_C,OR_03,2025-06-02,12:45,102,37,0,Completed
+S00276,P00494,General Surgery,Hospital_C,OR_02,2025-06-26,17:45,97,60,0,Completed
+S00277,P00538,Orthopedics,Hospital_B,OR_07,2025-06-20,08:00,211,25,0,Completed
+S00278,P00104,Cardiology,Hospital_B,OR_02,2025-10-13,08:45,146,18,0,Completed
+S00279,P00791,General Surgery,Hospital_A,OR_03,2025-01-24,08:15,85,72,1,Completed
+S00280,P00251,Orthopedics,Hospital_C,OR_03,2025-01-31,16:15,87,18,0,Completed
+S00281,P00538,Orthopedics,Hospital_A,OR_02,2025-04-11,17:15,157,25,0,Completed
+S00282,P00150,General Surgery,Hospital_B,OR_08,2025-06-27,11:45,152,41,0,Completed
+S00283,P00833,Cardiology,Hospital_B,OR_02,2025-09-02,13:00,137,6,0,Completed
+S00284,P00288,Gynecology,Hospital_C,OR_04,2025-06-29,13:45,140,41,0,Completed
+S00285,P00686,General Surgery,Hospital_C,OR_05,2025-06-11,16:00,45,39,0,Completed
+S00286,P00689,Cardiology,Hospital_C,OR_03,2025-12-09,08:30,137,51,0,Completed
+S00287,P00495,Urology,Hospital_C,OR_04,2025-02-28,15:30,103,44,0,Completed
+S00288,P00109,Urology,Hospital_C,OR_02,2025-07-28,11:45,80,51,0,Completed
+S00289,P00252,Urology,Hospital_B,OR_04,2025-07-17,13:45,260,26,0,Cancelled
+S00290,P00551,Cardiology,Hospital_B,OR_01,2025-06-22,11:45,137,12,0,Completed
+S00291,P00482,Urology,Hospital_C,OR_04,2025-10-22,08:30,90,66,0,Completed
+S00292,P00526,Orthopedics,Hospital_B,OR_03,2025-04-08,15:15,121,1,0,Completed
+S00293,P00225,Orthopedics,Hospital_B,OR_03,2025-12-15,07:45,56,2,0,Completed
+S00294,P00484,General Surgery,Hospital_A,OR_01,2025-05-02,07:15,71,38,0,Completed
+S00295,P00077,Cardiology,Hospital_B,OR_08,2025-07-18,07:15,203,57,0,Completed
+S00296,P00436,Orthopedics,Hospital_B,OR_01,2025-07-10,16:30,94,31,0,Completed
+S00297,P00083,Orthopedics,Hospital_A,OR_02,2025-11-07,09:15,88,46,0,Completed
+S00298,P00597,Urology,Hospital_C,OR_01,2025-06-10,08:30,173,0,0,Completed
+S00299,P00510,Orthopedics,Hospital_C,OR_08,2025-04-14,07:15,200,31,1,Completed
+S00300,P00766,Orthopedics,Hospital_C,OR_03,2025-01-08,07:00,146,0,0,Completed
+S00301,P00416,General Surgery,Hospital_A,OR_04,2025-05-13,07:45,80,42,0,Completed
+S00302,P00146,Orthopedics,Hospital_A,OR_07,2025-10-29,15:45,110,0,0,Completed
+S00303,P00212,Orthopedics,Hospital_A,OR_01,2025-01-04,14:15,88,5,0,Completed
+S00304,P00732,Orthopedics,Hospital_C,OR_01,2025-11-24,08:45,82,37,0,Completed
+S00305,P00862,General Surgery,Hospital_C,OR_02,2025-07-18,17:15,64,47,0,Completed
+S00306,P00056,Urology,Hospital_B,OR_06,2025-02-21,09:15,83,25,0,Completed
+S00307,P00609,ENT,Hospital_A,OR_08,2025-04-21,11:45,47,38,0,Completed
+S00308,P00434,Cardiology,Hospital_B,OR_05,2025-07-22,07:30,77,38,0,Completed
+S00309,P00232,Gynecology,Hospital_C,OR_07,2025-04-26,15:45,92,24,0,Completed
+S00310,P00460,Urology,Hospital_B,OR_08,2025-02-09,09:15,115,20,1,Completed
+S00311,P00842,ENT,Hospital_A,OR_03,2025-09-01,10:15,134,38,0,Completed
+S00312,P00178,Gynecology,Hospital_B,OR_02,2025-09-03,07:00,66,39,0,Completed
+S00313,P00753,ENT,Hospital_C,OR_02,2025-02-13,07:45,78,44,0,Cancelled
+S00314,P00081,ENT,Hospital_C,OR_07,2025-04-13,11:00,79,34,0,Completed
+S00315,P00648,Urology,Hospital_B,OR_06,2025-03-31,15:15,95,7,0,Completed
+S00316,P00068,Cardiology,Hospital_C,OR_07,2025-08-29,11:00,186,40,0,Completed
+S00317,P00055,General Surgery,Hospital_A,OR_05,2025-09-24,11:30,128,40,1,Completed
+S00318,P00034,General Surgery,Hospital_C,OR_08,2025-09-23,13:15,108,19,0,Completed
+S00319,P00724,Cardiology,Hospital_A,OR_08,2025-12-09,13:45,127,23,0,Completed
+S00320,P00516,Cardiology,Hospital_B,OR_07,2025-10-08,17:30,122,16,0,Completed
+S00321,P00621,Orthopedics,Hospital_B,OR_07,2025-04-28,09:00,71,44,0,Completed
+S00322,P00140,Cardiology,Hospital_C,OR_01,2025-02-09,08:00,103,2,0,Completed
+S00323,P00829,Cardiology,Hospital_A,OR_06,2025-08-13,13:00,111,10,0,Completed
+S00324,P00728,Urology,Hospital_A,OR_08,2025-12-01,09:30,69,22,0,Completed
+S00325,P00440,General Surgery,Hospital_C,OR_03,2025-12-22,10:45,112,57,0,Completed
+S00326,P00809,General Surgery,Hospital_B,OR_07,2025-03-26,08:15,150,47,0,Completed
+S00327,P00129,Urology,Hospital_C,OR_03,2025-03-28,07:30,74,0,0,Completed
+S00328,P00263,Urology,Hospital_B,OR_02,2025-01-14,08:00,117,52,0,Completed
+S00329,P00044,ENT,Hospital_B,OR_06,2025-02-21,15:45,47,52,0,Completed
+S00330,P00148,Urology,Hospital_C,OR_02,2025-07-22,12:45,94,7,0,Completed
+S00331,P00757,ENT,Hospital_C,OR_04,2025-07-19,15:45,54,0,0,Completed
+S00332,P00369,Orthopedics,Hospital_C,OR_08,2025-05-16,17:00,151,27,0,Completed
+S00333,P00581,Orthopedics,Hospital_C,OR_02,2025-04-24,09:15,93,60,1,Completed
+S00334,P00793,Orthopedics,Hospital_A,OR_02,2025-10-30,13:45,176,57,0,Completed
+S00335,P00687,Gynecology,Hospital_A,OR_08,2025-06-17,08:00,77,12,0,Completed
+S00336,P00360,ENT,Hospital_C,OR_07,2025-10-23,10:30,55,72,1,Completed
+S00337,P00314,Orthopedics,Hospital_B,OR_04,2025-12-18,17:45,75,0,0,Completed
+S00338,P00098,Cardiology,Hospital_A,OR_04,2025-04-26,15:45,154,21,0,Completed
+S00339,P00746,Orthopedics,Hospital_A,OR_08,2025-03-15,11:30,169,20,0,Completed
+S00340,P00886,General Surgery,Hospital_B,OR_06,2025-12-14,08:30,105,49,0,Completed
+S00341,P00450,General Surgery,Hospital_B,OR_08,2025-08-20,10:45,222,51,0,Completed
+S00342,P00450,General Surgery,Hospital_C,OR_01,2025-04-17,11:15,164,57,1,Completed
+S00343,P00763,ENT,Hospital_C,OR_05,2025-08-15,11:45,62,4,0,Completed
+S00344,P00308,Orthopedics,Hospital_C,OR_06,2025-07-07,17:15,106,44,0,Completed
+S00345,P00366,Urology,Hospital_B,OR_01,2025-11-27,17:45,126,37,0,Completed
+S00346,P00804,Gynecology,Hospital_C,OR_05,2025-04-04,16:45,62,10,1,Completed
+S00347,P00342,General Surgery,Hospital_C,OR_01,2025-12-28,10:30,148,0,0,Completed
+S00348,P00834,General Surgery,Hospital_C,OR_08,2025-12-08,10:15,109,47,0,Completed
+S00349,P00146,Urology,Hospital_B,OR_06,2025-03-07,12:00,116,25,0,Cancelled
+S00350,P00447,Orthopedics,Hospital_A,OR_02,2025-03-02,09:45,156,5,0,Completed
+S00351,P00441,ENT,Hospital_A,OR_05,2025-07-14,08:30,135,24,0,Completed
+S00352,P00276,General Surgery,Hospital_C,OR_01,2025-01-17,15:15,101,35,0,Completed
+S00353,P00866,Gynecology,Hospital_C,OR_07,2025-04-20,12:45,81,27,0,Completed
+S00354,P00434,Urology,Hospital_C,OR_02,2025-06-08,16:45,186,0,0,Completed
+S00355,P00791,General Surgery,Hospital_C,OR_05,2025-12-20,13:45,137,62,0,Completed
+S00356,P00198,Orthopedics,Hospital_B,OR_01,2025-12-29,11:30,106,46,0,Completed
+S00357,P00314,ENT,Hospital_A,OR_02,2025-02-25,14:45,70,22,0,Completed
+S00358,P00430,Orthopedics,Hospital_A,OR_08,2025-11-22,11:45,129,23,0,Completed
+S00359,P00508,Orthopedics,Hospital_C,OR_04,2025-02-03,12:00,138,34,0,Completed
+S00360,P00207,Orthopedics,Hospital_A,OR_01,2025-10-01,14:45,72,8,0,Completed
+S00361,P00282,Orthopedics,Hospital_B,OR_06,2025-11-05,11:30,67,34,0,Completed
+S00362,P00560,Urology,Hospital_C,OR_02,2025-11-22,17:45,75,16,1,Cancelled
+S00363,P00251,Urology,Hospital_B,OR_05,2025-03-23,11:45,73,27,0,Completed
+S00364,P00684,Orthopedics,Hospital_C,OR_07,2025-11-23,13:30,94,7,0,Completed
+S00365,P00429,Urology,Hospital_B,OR_06,2025-02-12,14:15,134,8,0,Completed
+S00366,P00872,General Surgery,Hospital_C,OR_02,2025-07-09,10:00,89,70,1,Completed
+S00367,P00214,General Surgery,Hospital_A,OR_02,2025-06-21,16:15,102,29,0,Completed
+S00368,P00758,Cardiology,Hospital_B,OR_02,2025-04-26,14:30,88,32,0,Completed
+S00369,P00441,ENT,Hospital_A,OR_06,2025-01-09,14:45,59,0,0,Completed
+S00370,P00078,General Surgery,Hospital_A,OR_06,2025-10-09,16:00,119,17,0,Completed
+S00371,P00634,General Surgery,Hospital_C,OR_05,2025-05-03,16:00,119,48,1,Completed
+S00372,P00191,Cardiology,Hospital_B,OR_04,2025-08-30,14:30,106,43,1,Cancelled
+S00373,P00125,Urology,Hospital_B,OR_01,2025-05-30,07:15,112,0,0,Completed
+S00374,P00478,General Surgery,Hospital_B,OR_07,2025-05-17,17:00,219,32,0,Completed
+S00375,P00707,Orthopedics,Hospital_A,OR_06,2025-11-20,09:00,119,35,0,Completed
+S00376,P00232,Urology,Hospital_A,OR_06,2025-02-04,08:30,81,51,0,Completed
+S00377,P00561,Orthopedics,Hospital_C,OR_01,2025-09-26,16:30,112,28,1,Completed
+S00378,P00013,General Surgery,Hospital_A,OR_03,2025-09-30,10:45,98,0,0,Completed
+S00379,P00166,General Surgery,Hospital_B,OR_03,2025-05-19,11:15,90,10,0,Completed
+S00380,P00679,Orthopedics,Hospital_A,OR_05,2025-04-06,12:00,119,8,0,Completed
+S00381,P00012,Cardiology,Hospital_C,OR_07,2025-01-02,10:45,81,41,0,Completed
+S00382,P00322,Urology,Hospital_A,OR_07,2025-12-08,13:45,73,0,0,Completed
+S00383,P00457,Gynecology,Hospital_B,OR_05,2025-12-12,15:15,80,20,0,Completed
+S00384,P00060,Gynecology,Hospital_C,OR_03,2025-03-29,15:45,80,54,0,Completed
+S00385,P00880,ENT,Hospital_B,OR_04,2025-01-12,13:45,56,28,0,Completed
+S00386,P00458,Orthopedics,Hospital_B,OR_06,2025-02-14,12:45,112,44,0,Cancelled
+S00387,P00305,Orthopedics,Hospital_B,OR_03,2025-01-25,09:15,123,10,1,Completed
+S00388,P00879,ENT,Hospital_B,OR_04,2025-10-31,09:00,98,0,0,Completed
+S00389,P00503,Orthopedics,Hospital_A,OR_07,2025-11-22,13:00,116,54,0,Completed
+S00390,P00611,Gynecology,Hospital_B,OR_05,2025-02-25,09:45,99,30,0,Completed
+S00391,P00082,Urology,Hospital_B,OR_04,2025-09-30,09:45,85,30,0,Completed
+S00392,P00143,General Surgery,Hospital_C,OR_06,2025-03-07,07:15,118,8,0,Completed
+S00393,P00041,Cardiology,Hospital_B,OR_03,2025-05-15,07:00,161,30,0,Completed
+S00394,P00463,General Surgery,Hospital_C,OR_01,2025-08-07,15:00,132,7,0,Completed
+S00395,P00752,General Surgery,Hospital_A,OR_07,2025-09-20,16:30,125,49,0,Completed
+S00396,P00811,Cardiology,Hospital_B,OR_04,2025-11-16,12:45,175,77,0,Completed
+S00397,P00517,Orthopedics,Hospital_B,OR_03,2025-01-17,11:15,116,37,0,Completed
+S00398,P00049,Urology,Hospital_C,OR_01,2025-03-13,11:30,115,17,0,Completed
+S00399,P00563,ENT,Hospital_B,OR_08,2025-04-13,16:30,105,0,0,Completed
+S00400,P00574,Urology,Hospital_C,OR_06,2025-04-24,10:45,82,0,0,Completed
+S00401,P00537,Orthopedics,Hospital_A,OR_03,2025-12-31,13:45,95,56,0,Completed
+S00402,P00649,Orthopedics,Hospital_C,OR_05,2025-10-11,11:00,129,9,0,Completed
+S00403,P00501,Orthopedics,Hospital_C,OR_04,2025-04-27,17:30,141,21,0,Completed
+S00404,P00633,General Surgery,Hospital_B,OR_03,2025-12-21,10:45,69,40,0,Completed
+S00405,P00438,ENT,Hospital_A,OR_03,2025-07-02,07:45,68,55,0,Completed
+S00406,P00136,Orthopedics,Hospital_B,OR_01,2025-07-02,13:30,116,24,0,Completed
+S00407,P00072,General Surgery,Hospital_C,OR_08,2025-06-08,07:00,41,21,0,Completed
+S00408,P00816,Urology,Hospital_B,OR_08,2025-02-22,14:30,97,29,0,Completed
+S00409,P00397,Orthopedics,Hospital_A,OR_07,2025-12-08,08:30,113,17,0,Completed
+S00410,P00290,General Surgery,Hospital_B,OR_03,2025-01-06,15:15,89,18,0,Completed
+S00411,P00264,General Surgery,Hospital_C,OR_08,2025-03-05,14:45,163,35,0,Completed
+S00412,P00047,Gynecology,Hospital_A,OR_03,2025-03-25,12:00,54,31,0,Completed
+S00413,P00850,Urology,Hospital_B,OR_07,2025-04-12,17:45,77,66,0,Completed
+S00414,P00075,General Surgery,Hospital_B,OR_01,2025-02-18,12:15,35,36,0,Completed
+S00415,P00197,ENT,Hospital_C,OR_03,2025-01-07,16:00,58,49,0,Completed
+S00416,P00412,Urology,Hospital_B,OR_05,2025-09-05,10:30,90,9,0,Completed
+S00417,P00322,Urology,Hospital_B,OR_08,2025-12-20,14:30,87,37,0,Completed
+S00418,P00036,General Surgery,Hospital_B,OR_03,2025-02-14,11:45,145,15,0,Completed
+S00419,P00296,General Surgery,Hospital_B,OR_04,2025-04-19,14:30,132,35,0,Completed
+S00420,P00701,Urology,Hospital_B,OR_07,2025-07-04,17:00,108,52,1,Completed
+S00421,P00226,Orthopedics,Hospital_A,OR_04,2025-12-05,14:45,104,29,0,Completed
+S00422,P00779,Gynecology,Hospital_A,OR_06,2025-09-11,14:30,126,71,0,Completed
+S00423,P00324,Urology,Hospital_C,OR_04,2025-10-07,11:15,104,54,0,Completed
+S00424,P00013,General Surgery,Hospital_B,OR_01,2025-08-01,13:45,70,49,0,Completed
+S00425,P00098,Urology,Hospital_B,OR_03,2025-06-02,12:00,55,42,0,Completed
+S00426,P00729,ENT,Hospital_B,OR_05,2025-03-14,12:00,59,60,0,Completed
+S00427,P00365,Gynecology,Hospital_C,OR_01,2025-11-12,17:30,113,2,0,Completed
+S00428,P00883,Cardiology,Hospital_C,OR_02,2025-10-21,09:30,333,53,0,Completed
+S00429,P00710,Urology,Hospital_B,OR_08,2025-01-10,12:30,107,10,0,Completed
+S00430,P00028,Cardiology,Hospital_A,OR_01,2025-09-19,13:45,105,18,0,Completed
+S00431,P00281,Urology,Hospital_C,OR_02,2025-01-31,16:15,67,38,0,Completed
+S00432,P00652,Urology,Hospital_A,OR_05,2025-09-27,09:45,130,50,0,Completed
+S00433,P00057,Urology,Hospital_A,OR_05,2025-10-29,14:00,54,7,0,Completed
+S00434,P00899,Orthopedics,Hospital_A,OR_02,2025-02-17,12:00,148,19,0,Completed
+S00435,P00150,General Surgery,Hospital_B,OR_01,2025-06-08,07:00,130,30,0,Completed
+S00436,P00717,General Surgery,Hospital_B,OR_08,2025-02-15,09:00,112,25,0,Completed
+S00437,P00756,Cardiology,Hospital_A,OR_05,2025-07-27,16:15,129,43,0,Completed
+S00438,P00455,Cardiology,Hospital_A,OR_05,2025-12-05,13:45,174,102,1,Completed
+S00439,P00723,Gynecology,Hospital_A,OR_01,2025-01-30,16:45,91,36,0,Completed
+S00440,P00796,Orthopedics,Hospital_B,OR_02,2025-05-26,09:30,89,15,0,Cancelled
+S00441,P00661,Urology,Hospital_A,OR_01,2025-12-22,17:00,212,5,0,Completed
+S00442,P00637,ENT,Hospital_B,OR_08,2025-04-20,16:45,61,34,1,Completed
+S00443,P00350,Orthopedics,Hospital_B,OR_07,2025-02-18,16:15,161,11,0,Cancelled
+S00444,P00263,Gynecology,Hospital_C,OR_05,2025-06-28,09:30,34,36,0,Completed
+S00445,P00781,Gynecology,Hospital_C,OR_06,2025-07-05,13:30,138,36,0,Completed
+S00446,P00202,Cardiology,Hospital_B,OR_02,2025-08-30,09:00,245,20,0,Completed
+S00447,P00373,General Surgery,Hospital_B,OR_08,2025-04-25,16:30,96,76,1,Completed
+S00448,P00461,Urology,Hospital_A,OR_05,2025-12-15,16:45,130,15,0,Completed
+S00449,P00352,ENT,Hospital_B,OR_05,2025-07-10,12:15,87,26,0,Completed
+S00450,P00336,Gynecology,Hospital_B,OR_08,2025-04-15,16:30,67,40,0,Completed
+S00451,P00539,ENT,Hospital_A,OR_01,2025-12-17,14:45,86,44,0,Completed
+S00452,P00297,ENT,Hospital_C,OR_04,2025-12-04,09:15,51,51,0,Completed
+S00453,P00889,Orthopedics,Hospital_A,OR_01,2025-07-02,07:15,95,36,0,Completed
+S00454,P00160,Gynecology,Hospital_A,OR_04,2025-01-10,11:15,130,47,0,Completed
+S00455,P00350,Cardiology,Hospital_C,OR_03,2025-08-06,08:45,203,16,0,Completed
+S00456,P00760,ENT,Hospital_C,OR_04,2025-07-22,12:15,54,45,0,Completed
+S00457,P00428,General Surgery,Hospital_B,OR_06,2025-02-24,16:15,72,44,0,Completed
+S00458,P00634,Orthopedics,Hospital_B,OR_03,2025-08-20,16:00,94,67,1,Completed
+S00459,P00582,Urology,Hospital_C,OR_01,2025-11-03,16:45,139,0,0,Completed
+S00460,P00298,Orthopedics,Hospital_A,OR_02,2025-02-08,15:45,82,12,0,Completed
+S00461,P00669,Urology,Hospital_B,OR_06,2025-09-22,15:30,120,43,0,Completed
+S00462,P00214,Orthopedics,Hospital_A,OR_05,2025-02-21,15:45,159,0,0,Completed
+S00463,P00675,ENT,Hospital_B,OR_08,2025-10-01,13:30,68,37,0,Completed
+S00464,P00116,ENT,Hospital_C,OR_08,2025-06-02,07:45,103,47,0,Completed
+S00465,P00624,Orthopedics,Hospital_B,OR_02,2025-01-03,15:00,107,18,0,Completed
+S00466,P00102,Urology,Hospital_C,OR_06,2025-12-19,10:00,97,20,0,Completed
+S00467,P00782,Orthopedics,Hospital_B,OR_01,2025-03-02,10:45,83,9,0,Completed
+S00468,P00563,Gynecology,Hospital_C,OR_01,2025-08-06,12:15,125,19,0,Completed
+S00469,P00037,Gynecology,Hospital_A,OR_07,2025-03-08,15:15,64,19,0,Completed
+S00470,P00098,Urology,Hospital_A,OR_04,2025-12-07,16:45,120,16,0,Completed
+S00471,P00169,General Surgery,Hospital_A,OR_08,2025-09-27,09:30,92,15,0,Completed
+S00472,P00864,General Surgery,Hospital_C,OR_01,2025-10-21,12:15,64,23,0,Completed
+S00473,P00530,Gynecology,Hospital_B,OR_05,2025-06-07,16:15,67,23,0,Completed
+S00474,P00251,Cardiology,Hospital_A,OR_03,2025-06-20,08:15,237,62,0,Completed
+S00475,P00249,Cardiology,Hospital_A,OR_08,2025-08-20,12:00,151,21,0,Completed
+S00476,P00024,General Surgery,Hospital_B,OR_06,2025-10-14,15:00,65,34,0,Completed
+S00477,P00183,Orthopedics,Hospital_A,OR_07,2025-11-06,08:30,135,18,0,Completed
+S00478,P00769,Urology,Hospital_C,OR_03,2025-01-07,08:45,99,17,0,Completed
+S00479,P00539,General Surgery,Hospital_C,OR_08,2025-08-31,07:15,353,0,0,Completed
+S00480,P00331,Orthopedics,Hospital_C,OR_07,2025-02-09,07:15,134,0,0,Completed
+S00481,P00020,ENT,Hospital_A,OR_07,2025-04-16,17:30,61,6,0,Completed
+S00482,P00309,General Surgery,Hospital_B,OR_04,2025-10-30,12:00,163,31,0,Completed
+S00483,P00345,Urology,Hospital_B,OR_08,2025-04-02,10:15,52,47,0,Completed
+S00484,P00107,Orthopedics,Hospital_B,OR_06,2025-10-18,13:00,124,0,0,Completed
+S00485,P00546,Urology,Hospital_B,OR_01,2025-06-18,17:30,224,18,0,Completed
+S00486,P00594,Urology,Hospital_A,OR_08,2025-03-26,10:00,100,3,0,Completed
+S00487,P00898,ENT,Hospital_A,OR_01,2025-05-02,13:15,36,23,0,Completed
+S00488,P00323,General Surgery,Hospital_B,OR_06,2025-07-13,14:30,82,47,0,Completed
+S00489,P00249,Cardiology,Hospital_A,OR_02,2025-10-07,14:45,243,32,1,Completed
+S00490,P00740,Urology,Hospital_A,OR_08,2025-08-10,12:30,121,27,0,Cancelled
+S00491,P00316,Orthopedics,Hospital_B,OR_06,2025-12-07,10:45,87,54,0,Cancelled
+S00492,P00567,General Surgery,Hospital_C,OR_07,2025-11-13,11:30,73,48,1,Completed
+S00493,P00664,General Surgery,Hospital_B,OR_06,2025-10-02,17:15,77,14,0,Completed
+S00494,P00792,ENT,Hospital_A,OR_05,2025-08-09,08:00,80,31,0,Completed
+S00495,P00287,Gynecology,Hospital_C,OR_07,2025-04-16,09:00,141,13,0,Completed
+S00496,P00560,Gynecology,Hospital_C,OR_03,2025-05-31,12:15,127,36,0,Completed
+S00497,P00118,Urology,Hospital_A,OR_05,2025-02-13,08:00,125,37,0,Completed
+S00498,P00701,Cardiology,Hospital_A,OR_03,2025-05-17,10:15,84,3,0,Completed
+S00499,P00041,Cardiology,Hospital_C,OR_01,2025-12-05,17:30,85,31,0,Completed
+S00500,P00627,Cardiology,Hospital_B,OR_08,2025-06-05,14:30,171,26,0,Completed
+S00501,P00188,Gynecology,Hospital_A,OR_04,2025-02-11,15:15,51,38,0,Completed
+S00502,P00416,General Surgery,Hospital_A,OR_01,2025-08-26,08:30,87,43,0,Completed
+S00503,P00069,ENT,Hospital_A,OR_07,2025-12-18,07:00,79,37,0,Completed
+S00504,P00620,Urology,Hospital_B,OR_08,2025-11-13,15:30,68,35,1,Completed
+S00505,P00434,Orthopedics,Hospital_B,OR_06,2025-04-11,14:30,81,45,0,Completed
+S00506,P00597,Cardiology,Hospital_B,OR_03,2025-06-15,12:15,135,24,1,Completed
+S00507,P00313,General Surgery,Hospital_A,OR_07,2025-07-13,09:15,115,4,0,Completed
+S00508,P00007,ENT,Hospital_B,OR_06,2025-04-01,15:45,105,0,0,Completed
+S00509,P00523,ENT,Hospital_B,OR_03,2025-04-09,07:30,88,27,0,Completed
+S00510,P00629,ENT,Hospital_C,OR_03,2025-03-28,12:30,72,13,0,Completed
+S00511,P00598,Orthopedics,Hospital_C,OR_08,2025-12-30,09:00,90,35,0,Completed
+S00512,P00236,General Surgery,Hospital_A,OR_08,2025-09-30,09:00,63,0,0,Completed
+S00513,P00645,General Surgery,Hospital_A,OR_06,2025-11-03,07:15,78,16,0,Completed
+S00514,P00488,General Surgery,Hospital_B,OR_01,2025-10-26,14:45,111,36,0,Completed
+S00515,P00189,General Surgery,Hospital_B,OR_02,2025-12-17,14:00,108,9,0,Completed
+S00516,P00101,General Surgery,Hospital_C,OR_03,2025-02-08,10:15,43,35,0,Cancelled
+S00517,P00293,ENT,Hospital_B,OR_05,2025-11-18,09:45,52,18,0,Completed
+S00518,P00021,General Surgery,Hospital_A,OR_07,2025-01-25,14:15,150,39,1,Completed
+S00519,P00644,General Surgery,Hospital_B,OR_07,2025-06-23,11:15,98,39,0,Completed
+S00520,P00014,Urology,Hospital_C,OR_03,2025-08-05,11:30,61,45,0,Completed
+S00521,P00044,Gynecology,Hospital_A,OR_01,2025-05-11,17:15,208,30,0,Completed
+S00522,P00143,Urology,Hospital_C,OR_03,2025-02-23,09:45,104,13,0,Completed
+S00523,P00294,Gynecology,Hospital_A,OR_02,2025-03-12,10:00,98,32,1,Completed
+S00524,P00018,ENT,Hospital_C,OR_08,2025-10-29,12:45,81,51,1,Completed
+S00525,P00567,Gynecology,Hospital_B,OR_01,2025-04-27,09:15,74,10,0,Completed
+S00526,P00120,Cardiology,Hospital_B,OR_07,2025-04-24,10:45,106,37,1,Completed
+S00527,P00723,Gynecology,Hospital_A,OR_06,2025-12-04,17:45,190,21,0,Completed
+S00528,P00503,Cardiology,Hospital_C,OR_01,2025-02-22,09:45,205,26,0,Completed
+S00529,P00075,Orthopedics,Hospital_B,OR_06,2025-12-01,10:45,164,10,0,Cancelled
+S00530,P00360,Cardiology,Hospital_B,OR_05,2025-12-03,17:30,174,0,0,Completed
+S00531,P00127,General Surgery,Hospital_B,OR_01,2025-08-07,17:00,65,37,0,Completed
+S00532,P00882,Urology,Hospital_B,OR_02,2025-03-02,14:00,171,45,0,Completed
+S00533,P00533,Orthopedics,Hospital_B,OR_03,2025-02-26,14:15,87,0,0,Completed
+S00534,P00728,General Surgery,Hospital_C,OR_02,2025-04-14,17:15,106,47,1,Completed
+S00535,P00337,Orthopedics,Hospital_A,OR_05,2025-07-30,15:15,64,59,1,Completed
+S00536,P00132,Urology,Hospital_A,OR_05,2025-02-26,07:30,48,39,0,Completed
+S00537,P00212,Orthopedics,Hospital_C,OR_02,2025-06-16,09:30,135,20,0,Completed
+S00538,P00375,Gynecology,Hospital_C,OR_01,2025-02-12,12:45,63,11,0,Completed
+S00539,P00693,Urology,Hospital_B,OR_06,2025-07-17,10:15,49,29,0,Completed
+S00540,P00388,General Surgery,Hospital_B,OR_04,2025-01-08,15:45,117,32,0,Completed
+S00541,P00835,Urology,Hospital_A,OR_03,2025-09-16,08:30,235,30,0,Completed
+S00542,P00326,Orthopedics,Hospital_A,OR_03,2025-01-21,12:45,203,25,0,Completed
+S00543,P00210,General Surgery,Hospital_C,OR_01,2025-03-13,13:45,86,9,0,Completed
+S00544,P00446,Gynecology,Hospital_B,OR_07,2025-03-05,10:15,85,36,0,Cancelled
+S00545,P00100,ENT,Hospital_A,OR_07,2025-10-31,15:00,98,36,0,Completed
+S00546,P00603,Orthopedics,Hospital_C,OR_05,2025-01-20,13:45,184,44,1,Completed
+S00547,P00091,Cardiology,Hospital_B,OR_03,2025-06-06,17:30,123,30,0,Completed
+S00548,P00577,Orthopedics,Hospital_B,OR_02,2025-08-04,12:45,122,58,0,Cancelled
+S00549,P00344,Cardiology,Hospital_C,OR_03,2025-07-08,07:45,157,17,0,Completed
+S00550,P00322,Gynecology,Hospital_C,OR_08,2025-09-06,09:30,105,51,0,Completed
+S00551,P00550,Gynecology,Hospital_A,OR_01,2025-10-21,10:45,81,15,0,Completed
+S00552,P00634,Gynecology,Hospital_B,OR_07,2025-05-24,13:45,81,48,0,Completed
+S00553,P00836,General Surgery,Hospital_A,OR_03,2025-10-30,15:45,160,50,0,Completed
+S00554,P00261,Gynecology,Hospital_C,OR_03,2025-04-27,08:15,135,23,0,Completed
+S00555,P00730,Gynecology,Hospital_C,OR_07,2025-12-26,11:00,102,58,0,Completed
+S00556,P00752,Gynecology,Hospital_B,OR_08,2025-07-04,07:00,163,36,0,Completed
+S00557,P00896,General Surgery,Hospital_A,OR_08,2025-09-26,15:15,82,12,0,Completed
+S00558,P00867,Cardiology,Hospital_C,OR_03,2025-11-16,15:45,259,21,0,Completed
+S00559,P00711,Orthopedics,Hospital_B,OR_05,2025-10-17,07:45,147,48,0,Completed
+S00560,P00265,General Surgery,Hospital_A,OR_03,2025-11-07,09:15,329,45,0,Completed
+S00561,P00625,General Surgery,Hospital_B,OR_02,2025-07-15,17:15,60,9,0,Completed
+S00562,P00706,Cardiology,Hospital_B,OR_04,2025-01-16,17:30,108,25,0,Completed
+S00563,P00263,Urology,Hospital_A,OR_01,2025-06-29,07:45,123,32,0,Completed
+S00564,P00732,General Surgery,Hospital_C,OR_02,2025-03-08,07:30,110,19,0,Completed
+S00565,P00632,Urology,Hospital_C,OR_05,2025-11-21,12:00,220,70,0,Completed
+S00566,P00442,Cardiology,Hospital_A,OR_06,2025-03-28,12:15,109,32,0,Completed
+S00567,P00775,Urology,Hospital_C,OR_03,2025-03-25,08:30,148,27,0,Cancelled
+S00568,P00079,Cardiology,Hospital_B,OR_05,2025-04-02,07:30,218,49,0,Completed
+S00569,P00615,Cardiology,Hospital_C,OR_07,2025-08-23,09:45,183,33,1,Completed
+S00570,P00707,Gynecology,Hospital_C,OR_08,2025-07-28,17:45,59,58,1,Completed
+S00571,P00037,ENT,Hospital_B,OR_05,2025-12-13,17:00,120,0,0,Completed
+S00572,P00367,Cardiology,Hospital_C,OR_02,2025-06-01,12:00,223,20,0,Completed
+S00573,P00465,Cardiology,Hospital_C,OR_06,2025-04-14,08:15,176,47,0,Completed
+S00574,P00188,Gynecology,Hospital_C,OR_02,2025-01-18,11:15,92,56,0,Completed
+S00575,P00791,Gynecology,Hospital_B,OR_02,2025-01-03,08:15,93,14,0,Completed
+S00576,P00564,General Surgery,Hospital_C,OR_03,2025-05-17,08:00,92,12,0,Completed
+S00577,P00248,Cardiology,Hospital_C,OR_03,2025-12-04,11:00,179,38,0,Completed
+S00578,P00393,Cardiology,Hospital_C,OR_02,2025-07-11,17:45,142,17,0,Completed
+S00579,P00101,ENT,Hospital_A,OR_01,2025-11-23,17:00,51,23,0,Completed
+S00580,P00079,Cardiology,Hospital_B,OR_08,2025-02-07,12:45,94,44,0,Completed
+S00581,P00672,Cardiology,Hospital_B,OR_06,2025-02-04,13:15,105,30,1,Completed
+S00582,P00885,ENT,Hospital_B,OR_06,2025-11-01,16:15,76,0,0,Completed
+S00583,P00249,Cardiology,Hospital_B,OR_01,2025-02-08,17:00,139,5,0,Cancelled
+S00584,P00220,General Surgery,Hospital_C,OR_07,2025-01-19,14:00,103,40,1,Completed
+S00585,P00615,General Surgery,Hospital_B,OR_03,2025-05-28,17:15,115,0,0,Completed
+S00586,P00460,General Surgery,Hospital_C,OR_06,2025-12-04,07:45,75,23,0,Completed
+S00587,P00126,General Surgery,Hospital_C,OR_04,2025-09-09,17:45,166,3,0,Completed
+S00588,P00600,Orthopedics,Hospital_A,OR_02,2025-02-06,12:00,108,58,0,Completed
+S00589,P00189,Urology,Hospital_B,OR_03,2025-11-02,09:00,89,67,0,Completed
+S00590,P00104,Gynecology,Hospital_B,OR_02,2025-11-04,07:00,102,9,0,Completed
+S00591,P00418,General Surgery,Hospital_C,OR_07,2025-10-20,13:45,47,33,0,Completed
+S00592,P00665,Cardiology,Hospital_B,OR_04,2025-11-26,13:00,104,11,0,Completed
+S00593,P00469,General Surgery,Hospital_B,OR_07,2025-03-29,13:00,138,34,1,Completed
+S00594,P00583,ENT,Hospital_C,OR_07,2025-12-24,12:45,36,60,0,Completed
+S00595,P00214,General Surgery,Hospital_A,OR_02,2025-04-28,08:45,145,20,0,Completed
+S00596,P00444,Gynecology,Hospital_B,OR_03,2025-10-20,09:30,151,23,0,Completed
+S00597,P00641,Orthopedics,Hospital_C,OR_01,2025-07-31,09:00,104,11,0,Completed
+S00598,P00475,Gynecology,Hospital_C,OR_01,2025-10-12,11:15,95,49,0,Completed
+S00599,P00216,Orthopedics,Hospital_A,OR_08,2025-08-18,12:00,184,0,0,Completed
+S00600,P00859,Urology,Hospital_C,OR_06,2025-08-23,17:30,88,32,1,Completed
+S00601,P00061,General Surgery,Hospital_A,OR_04,2025-08-13,16:45,132,27,0,Completed
+S00602,P00819,ENT,Hospital_A,OR_02,2025-10-12,14:00,54,16,0,Completed
+S00603,P00652,Cardiology,Hospital_C,OR_05,2025-09-27,13:45,117,44,0,Completed
+S00604,P00101,Urology,Hospital_B,OR_05,2025-02-19,08:15,77,50,0,Completed
+S00605,P00230,Urology,Hospital_B,OR_02,2025-10-29,09:45,120,3,0,Completed
+S00606,P00332,ENT,Hospital_B,OR_01,2025-07-15,17:00,109,66,0,Completed
+S00607,P00861,General Surgery,Hospital_C,OR_04,2025-04-28,15:15,89,2,0,Completed
+S00608,P00465,Orthopedics,Hospital_A,OR_05,2025-07-07,17:00,74,51,0,Completed
+S00609,P00233,Orthopedics,Hospital_A,OR_07,2025-12-19,09:30,80,31,0,Completed
+S00610,P00828,Orthopedics,Hospital_B,OR_04,2025-11-10,15:00,139,19,0,Completed
+S00611,P00107,Gynecology,Hospital_C,OR_01,2025-11-01,08:15,171,21,0,Completed
+S00612,P00735,ENT,Hospital_B,OR_08,2025-06-18,07:45,81,39,1,Completed
+S00613,P00747,ENT,Hospital_C,OR_04,2025-10-14,14:30,60,32,0,Completed
+S00614,P00348,Cardiology,Hospital_C,OR_06,2025-05-21,12:30,187,23,1,Completed
+S00615,P00039,Gynecology,Hospital_C,OR_01,2025-09-08,13:30,78,24,0,Completed
+S00616,P00797,Urology,Hospital_B,OR_01,2025-08-22,11:30,91,14,0,Completed
+S00617,P00870,ENT,Hospital_B,OR_01,2025-04-02,14:30,49,6,0,Completed
+S00618,P00340,General Surgery,Hospital_A,OR_07,2025-04-08,16:15,162,13,0,Completed
+S00619,P00167,Cardiology,Hospital_A,OR_02,2025-01-23,16:00,53,7,0,Completed
+S00620,P00244,Urology,Hospital_B,OR_07,2025-02-21,12:15,142,20,0,Completed
+S00621,P00123,Orthopedics,Hospital_C,OR_08,2025-06-08,16:00,101,48,1,Completed
+S00622,P00549,Orthopedics,Hospital_C,OR_06,2025-06-24,09:15,103,30,0,Completed
+S00623,P00467,ENT,Hospital_B,OR_08,2025-03-02,15:15,133,64,0,Completed
+S00624,P00320,ENT,Hospital_B,OR_08,2025-06-02,14:00,53,0,0,Completed
+S00625,P00585,ENT,Hospital_C,OR_06,2025-08-09,17:45,54,36,0,Completed
+S00626,P00560,Urology,Hospital_A,OR_07,2025-03-26,07:30,100,28,0,Completed
+S00627,P00011,Orthopedics,Hospital_A,OR_05,2025-05-04,08:30,140,43,0,Completed
+S00628,P00369,Orthopedics,Hospital_C,OR_02,2025-05-15,14:45,101,41,0,Completed
+S00629,P00777,Cardiology,Hospital_B,OR_01,2025-07-04,07:15,77,25,0,Completed
+S00630,P00716,Cardiology,Hospital_A,OR_04,2025-05-14,14:15,101,31,0,Completed
+S00631,P00769,Cardiology,Hospital_A,OR_04,2025-09-26,14:00,228,15,0,Completed
+S00632,P00858,Gynecology,Hospital_A,OR_03,2025-04-30,08:30,87,39,0,Completed
+S00633,P00056,Orthopedics,Hospital_A,OR_01,2025-06-08,14:00,142,0,0,Cancelled
+S00634,P00244,Urology,Hospital_B,OR_05,2025-05-19,16:45,95,54,1,Completed
+S00635,P00413,Orthopedics,Hospital_C,OR_04,2025-03-08,07:15,93,28,0,Completed
+S00636,P00459,Orthopedics,Hospital_C,OR_08,2025-09-08,13:15,227,31,1,Completed
+S00637,P00707,General Surgery,Hospital_C,OR_08,2025-03-27,09:30,88,24,0,Completed
+S00638,P00652,General Surgery,Hospital_C,OR_05,2025-04-19,17:15,80,25,0,Completed
+S00639,P00635,Urology,Hospital_A,OR_07,2025-10-17,09:30,159,51,0,Completed
+S00640,P00143,Cardiology,Hospital_A,OR_03,2025-12-13,13:30,106,86,0,Cancelled
+S00641,P00610,General Surgery,Hospital_A,OR_08,2025-09-02,14:45,76,50,0,Completed
+S00642,P00716,Urology,Hospital_C,OR_08,2025-12-01,15:30,105,18,0,Completed
+S00643,P00677,Cardiology,Hospital_B,OR_02,2025-11-08,11:15,140,39,0,Completed
+S00644,P00525,General Surgery,Hospital_C,OR_06,2025-06-25,09:15,105,52,1,Completed
+S00645,P00080,Orthopedics,Hospital_B,OR_04,2025-10-09,13:30,266,11,0,Completed
+S00646,P00135,General Surgery,Hospital_C,OR_03,2025-04-30,15:15,108,5,0,Cancelled
+S00647,P00669,Gynecology,Hospital_B,OR_04,2025-06-18,15:15,34,27,0,Completed
+S00648,P00781,Orthopedics,Hospital_C,OR_08,2025-07-15,10:00,136,43,0,Completed
+S00649,P00742,General Surgery,Hospital_A,OR_08,2025-12-17,09:30,96,0,0,Completed
+S00650,P00384,General Surgery,Hospital_C,OR_03,2025-11-06,09:00,97,15,0,Completed
+S00651,P00528,Gynecology,Hospital_B,OR_04,2025-06-28,09:45,93,38,0,Completed
+S00652,P00159,General Surgery,Hospital_A,OR_05,2025-08-27,08:00,94,29,0,Completed
+S00653,P00533,Urology,Hospital_A,OR_06,2025-03-15,11:15,103,53,0,Completed
+S00654,P00176,General Surgery,Hospital_A,OR_04,2025-10-21,17:00,120,3,0,Completed
+S00655,P00715,Gynecology,Hospital_A,OR_04,2025-07-21,11:15,69,70,0,Completed
+S00656,P00707,Cardiology,Hospital_C,OR_08,2025-07-14,09:15,98,0,0,Completed
+S00657,P00046,Cardiology,Hospital_A,OR_03,2025-10-07,09:30,442,0,0,Completed
+S00658,P00842,General Surgery,Hospital_B,OR_03,2025-08-20,15:00,72,39,1,Completed
+S00659,P00716,Urology,Hospital_B,OR_03,2025-01-27,12:15,109,8,0,Completed
+S00660,P00341,ENT,Hospital_B,OR_03,2025-04-16,16:00,40,27,0,Completed
+S00661,P00406,General Surgery,Hospital_B,OR_05,2025-03-06,11:15,99,27,0,Completed
+S00662,P00071,General Surgery,Hospital_C,OR_06,2025-09-26,10:45,67,24,0,Completed
+S00663,P00842,ENT,Hospital_C,OR_02,2025-01-13,12:15,59,13,0,Completed
+S00664,P00091,Cardiology,Hospital_C,OR_08,2025-03-15,15:45,208,36,0,Completed
+S00665,P00830,General Surgery,Hospital_B,OR_03,2025-08-07,08:15,114,34,1,Completed
+S00666,P00589,General Surgery,Hospital_C,OR_01,2025-09-11,11:15,118,60,1,Completed
+S00667,P00826,Gynecology,Hospital_A,OR_06,2025-07-03,10:45,43,25,0,Completed
+S00668,P00334,Gynecology,Hospital_C,OR_02,2025-11-11,17:00,171,11,0,Completed
+S00669,P00806,Gynecology,Hospital_A,OR_07,2025-12-02,16:45,54,0,0,Completed
+S00670,P00384,ENT,Hospital_A,OR_08,2025-02-18,11:15,125,25,0,Completed
+S00671,P00315,Cardiology,Hospital_C,OR_06,2025-12-14,08:15,206,5,0,Completed
+S00672,P00304,Orthopedics,Hospital_C,OR_07,2025-08-13,09:45,149,4,0,Completed
+S00673,P00856,Cardiology,Hospital_A,OR_04,2025-08-21,08:15,101,37,0,Completed
+S00674,P00419,Orthopedics,Hospital_C,OR_03,2025-02-04,12:45,127,0,0,Completed
+S00675,P00431,General Surgery,Hospital_A,OR_05,2025-08-15,15:45,79,53,0,Completed
+S00676,P00579,General Surgery,Hospital_A,OR_03,2025-09-22,10:15,96,31,0,Completed
+S00677,P00500,Orthopedics,Hospital_C,OR_08,2025-07-31,13:15,109,39,1,Completed
+S00678,P00487,Gynecology,Hospital_A,OR_04,2025-01-31,07:45,39,9,0,Completed
+S00679,P00341,General Surgery,Hospital_A,OR_04,2025-07-10,08:00,145,42,0,Completed
+S00680,P00148,Orthopedics,Hospital_C,OR_06,2025-12-08,17:30,116,28,0,Completed
+S00681,P00895,Gynecology,Hospital_B,OR_02,2025-09-22,14:00,71,16,0,Completed
+S00682,P00442,Gynecology,Hospital_B,OR_05,2025-02-20,09:00,69,32,0,Completed
+S00683,P00875,Urology,Hospital_C,OR_07,2025-12-17,14:30,120,0,0,Completed
+S00684,P00415,Urology,Hospital_A,OR_07,2025-12-16,10:30,75,0,0,Completed
+S00685,P00539,Gynecology,Hospital_C,OR_02,2025-03-03,15:30,36,8,0,Completed
+S00686,P00491,General Surgery,Hospital_A,OR_01,2025-10-20,08:30,111,46,1,Completed
+S00687,P00869,Cardiology,Hospital_B,OR_02,2025-05-29,09:15,171,28,0,Completed
+S00688,P00100,Gynecology,Hospital_A,OR_07,2025-08-05,17:15,79,47,0,Completed
+S00689,P00466,Orthopedics,Hospital_A,OR_03,2025-06-12,15:00,78,23,1,Completed
+S00690,P00139,General Surgery,Hospital_A,OR_01,2025-10-13,17:15,98,38,0,Completed
+S00691,P00781,General Surgery,Hospital_B,OR_05,2025-12-30,09:15,54,26,0,Completed
+S00692,P00477,Cardiology,Hospital_C,OR_08,2025-10-18,08:30,95,11,0,Completed
+S00693,P00830,Orthopedics,Hospital_A,OR_02,2025-12-06,08:00,90,35,0,Completed
+S00694,P00248,General Surgery,Hospital_B,OR_01,2025-12-12,14:00,131,27,0,Completed
+S00695,P00147,Urology,Hospital_C,OR_02,2025-02-02,11:30,91,17,0,Completed
+S00696,P00566,ENT,Hospital_C,OR_02,2025-04-03,11:00,59,41,1,Completed
+S00697,P00132,General Surgery,Hospital_C,OR_02,2025-09-21,08:45,200,26,0,Cancelled
+S00698,P00336,ENT,Hospital_A,OR_02,2025-08-04,15:15,80,25,0,Completed
+S00699,P00283,General Surgery,Hospital_B,OR_06,2025-01-19,16:00,108,21,0,Completed
+S00700,P00199,ENT,Hospital_B,OR_02,2025-02-04,07:45,61,17,1,Completed
+S00701,P00118,ENT,Hospital_B,OR_05,2025-07-09,14:30,56,29,0,Completed
+S00702,P00591,General Surgery,Hospital_A,OR_04,2025-08-13,10:45,41,14,0,Completed
+S00703,P00682,Urology,Hospital_A,OR_06,2025-03-03,13:15,152,10,0,Completed
+S00704,P00355,ENT,Hospital_C,OR_06,2025-03-04,11:15,83,24,0,Completed
+S00705,P00253,ENT,Hospital_A,OR_05,2025-02-17,13:30,65,53,1,Cancelled
+S00706,P00142,ENT,Hospital_C,OR_08,2025-07-26,15:15,66,43,1,Completed
+S00707,P00609,Cardiology,Hospital_A,OR_02,2025-01-03,09:30,185,18,0,Cancelled
+S00708,P00728,General Surgery,Hospital_B,OR_05,2025-07-28,13:15,53,18,0,Completed
+S00709,P00493,Urology,Hospital_B,OR_04,2025-06-23,07:15,84,39,0,Completed
+S00710,P00389,Gynecology,Hospital_C,OR_05,2025-06-20,07:00,55,0,0,Completed
+S00711,P00583,Gynecology,Hospital_C,OR_02,2025-09-05,17:45,167,42,0,Completed
+S00712,P00823,Orthopedics,Hospital_A,OR_03,2025-07-10,07:15,167,0,0,Completed
+S00713,P00890,Cardiology,Hospital_C,OR_08,2025-09-23,09:45,61,3,0,Completed
+S00714,P00174,General Surgery,Hospital_A,OR_07,2025-10-06,11:15,53,31,1,Completed
+S00715,P00429,Gynecology,Hospital_C,OR_04,2025-12-02,13:15,81,67,0,Completed
+S00716,P00788,General Surgery,Hospital_C,OR_01,2025-10-19,09:15,79,58,0,Completed
+S00717,P00569,Gynecology,Hospital_A,OR_06,2025-07-08,08:30,51,41,0,Completed
+S00718,P00734,Urology,Hospital_B,OR_03,2025-06-29,17:45,220,34,0,Completed
+S00719,P00896,Cardiology,Hospital_C,OR_03,2025-03-28,11:15,158,0,0,Completed
+S00720,P00094,Cardiology,Hospital_C,OR_01,2025-08-07,07:15,168,31,0,Completed
+S00721,P00551,Orthopedics,Hospital_B,OR_03,2025-02-20,07:30,92,18,0,Completed
+S00722,P00478,ENT,Hospital_A,OR_02,2025-12-06,17:00,92,13,0,Completed
+S00723,P00256,Gynecology,Hospital_B,OR_01,2025-11-05,14:30,74,43,1,Completed
+S00724,P00588,Orthopedics,Hospital_C,OR_05,2025-02-13,11:30,108,32,1,Completed
+S00725,P00094,General Surgery,Hospital_B,OR_08,2025-10-14,14:15,120,44,0,Completed
+S00726,P00446,General Surgery,Hospital_A,OR_02,2025-02-12,15:30,51,0,0,Completed
+S00727,P00373,Cardiology,Hospital_A,OR_01,2025-09-21,10:30,257,29,0,Completed
+S00728,P00351,ENT,Hospital_A,OR_01,2025-02-02,14:00,75,12,0,Completed
+S00729,P00553,Gynecology,Hospital_B,OR_05,2025-06-28,08:15,138,33,1,Completed
+S00730,P00849,General Surgery,Hospital_B,OR_07,2025-08-29,07:15,63,45,1,Completed
+S00731,P00852,Urology,Hospital_B,OR_03,2025-09-24,12:45,74,8,0,Completed
+S00732,P00631,Orthopedics,Hospital_C,OR_01,2025-06-02,08:30,77,31,0,Completed
+S00733,P00298,Urology,Hospital_B,OR_01,2025-12-03,14:15,115,24,0,Completed
+S00734,P00869,Orthopedics,Hospital_B,OR_05,2025-10-10,16:15,123,16,0,Completed
+S00735,P00898,Gynecology,Hospital_B,OR_03,2025-03-18,11:00,71,32,1,Completed
+S00736,P00761,ENT,Hospital_B,OR_03,2025-09-02,11:00,48,25,0,Completed
+S00737,P00785,Orthopedics,Hospital_C,OR_02,2025-09-24,17:00,74,14,0,Completed
+S00738,P00735,Gynecology,Hospital_A,OR_08,2025-05-02,15:00,83,28,0,Completed
+S00739,P00684,ENT,Hospital_B,OR_03,2025-09-27,10:00,59,23,0,Completed
+S00740,P00653,General Surgery,Hospital_A,OR_06,2025-11-24,11:30,73,17,0,Completed
+S00741,P00574,General Surgery,Hospital_A,OR_06,2025-10-26,11:30,171,57,0,Completed
+S00742,P00581,Gynecology,Hospital_A,OR_01,2025-10-06,15:00,82,35,0,Completed
+S00743,P00351,Orthopedics,Hospital_B,OR_02,2025-08-20,11:30,194,21,0,Completed
+S00744,P00798,General Surgery,Hospital_C,OR_08,2025-04-09,12:00,78,31,0,Completed
+S00745,P00571,Cardiology,Hospital_C,OR_08,2025-10-18,09:15,154,10,0,Completed
+S00746,P00552,Urology,Hospital_A,OR_04,2025-05-13,14:45,103,20,0,Completed
+S00747,P00667,Orthopedics,Hospital_C,OR_02,2025-07-14,11:30,63,22,0,Completed
+S00748,P00068,Orthopedics,Hospital_A,OR_03,2025-04-25,10:00,206,6,0,Completed
+S00749,P00827,Urology,Hospital_A,OR_08,2025-04-25,11:15,100,35,0,Completed
+S00750,P00524,Cardiology,Hospital_B,OR_06,2025-02-27,08:30,186,19,0,Completed
+S00751,P00850,Urology,Hospital_C,OR_01,2025-12-17,09:00,79,22,0,Completed
+S00752,P00093,Cardiology,Hospital_B,OR_06,2025-02-23,11:45,131,30,1,Completed
+S00753,P00211,ENT,Hospital_A,OR_02,2025-02-01,14:15,50,81,0,Completed
+S00754,P00854,Gynecology,Hospital_B,OR_03,2025-12-08,16:00,136,16,0,Cancelled
+S00755,P00623,General Surgery,Hospital_A,OR_04,2025-07-22,10:30,107,0,0,Completed
+S00756,P00582,ENT,Hospital_A,OR_03,2025-06-09,12:30,80,0,0,Completed
+S00757,P00364,Cardiology,Hospital_A,OR_06,2025-09-27,14:15,235,42,0,Completed
+S00758,P00500,General Surgery,Hospital_B,OR_02,2025-05-20,17:45,147,52,0,Completed
+S00759,P00492,General Surgery,Hospital_A,OR_08,2025-02-16,12:45,127,16,0,Completed
+S00760,P00178,Gynecology,Hospital_C,OR_05,2025-09-24,14:00,50,51,0,Completed
+S00761,P00510,General Surgery,Hospital_A,OR_03,2025-03-06,08:00,73,41,0,Completed
+S00762,P00464,Orthopedics,Hospital_A,OR_08,2025-07-21,09:15,82,37,1,Completed
+S00763,P00282,General Surgery,Hospital_C,OR_04,2025-12-13,07:30,125,23,0,Completed
+S00764,P00308,Cardiology,Hospital_C,OR_04,2025-12-08,11:30,149,43,1,Completed
+S00765,P00691,Orthopedics,Hospital_B,OR_01,2025-05-12,12:15,71,44,0,Completed
+S00766,P00608,Cardiology,Hospital_A,OR_08,2025-10-12,13:45,130,35,0,Completed
+S00767,P00423,Orthopedics,Hospital_A,OR_07,2025-08-12,10:15,68,16,0,Completed
+S00768,P00544,General Surgery,Hospital_C,OR_02,2025-06-24,12:45,93,25,0,Completed
+S00769,P00217,Gynecology,Hospital_C,OR_08,2025-02-21,12:45,45,64,0,Completed
+S00770,P00449,Orthopedics,Hospital_C,OR_07,2025-05-18,07:00,147,33,0,Completed
+S00771,P00506,Gynecology,Hospital_C,OR_04,2025-08-26,11:00,98,44,0,Completed
+S00772,P00228,General Surgery,Hospital_A,OR_08,2025-12-27,07:00,196,38,0,Completed
+S00773,P00153,General Surgery,Hospital_C,OR_05,2025-01-02,09:45,131,33,0,Completed
+S00774,P00473,Orthopedics,Hospital_B,OR_06,2025-09-19,15:15,102,30,0,Completed
+S00775,P00846,Cardiology,Hospital_C,OR_02,2025-11-05,17:45,191,44,0,Completed
+S00776,P00416,Orthopedics,Hospital_B,OR_01,2025-12-14,09:15,71,41,0,Completed
+S00777,P00811,Urology,Hospital_C,OR_05,2025-06-04,17:15,73,33,0,Completed
+S00778,P00766,Orthopedics,Hospital_C,OR_03,2025-02-13,11:45,136,16,0,Completed
+S00779,P00670,Cardiology,Hospital_C,OR_08,2025-04-09,14:15,62,35,0,Completed
+S00780,P00805,Gynecology,Hospital_B,OR_01,2025-11-07,16:30,84,27,0,Completed
+S00781,P00370,General Surgery,Hospital_A,OR_07,2025-11-17,10:15,64,22,0,Completed
+S00782,P00683,Cardiology,Hospital_B,OR_05,2025-08-21,07:00,145,76,0,Completed
+S00783,P00131,Orthopedics,Hospital_B,OR_08,2025-02-14,17:00,80,0,0,Completed
+S00784,P00288,Orthopedics,Hospital_A,OR_08,2025-02-14,16:00,141,45,0,Completed
+S00785,P00510,General Surgery,Hospital_C,OR_07,2025-06-24,12:30,96,12,0,Completed
+S00786,P00035,Urology,Hospital_A,OR_03,2025-08-03,17:15,179,30,0,Completed
+S00787,P00688,ENT,Hospital_B,OR_06,2025-01-12,17:15,70,74,0,Completed
+S00788,P00832,General Surgery,Hospital_C,OR_02,2025-09-08,16:00,71,11,0,Completed
+S00789,P00095,Gynecology,Hospital_C,OR_04,2025-07-18,09:30,77,15,0,Cancelled
+S00790,P00892,Urology,Hospital_B,OR_03,2025-01-05,14:45,63,28,0,Completed
+S00791,P00080,Orthopedics,Hospital_C,OR_03,2025-02-04,10:30,140,13,0,Completed
+S00792,P00115,Urology,Hospital_C,OR_05,2025-06-15,13:45,131,44,0,Completed
+S00793,P00686,Gynecology,Hospital_A,OR_02,2025-09-21,08:00,217,18,0,Completed
+S00794,P00617,ENT,Hospital_C,OR_05,2025-10-29,13:00,55,40,0,Completed
+S00795,P00842,ENT,Hospital_B,OR_04,2025-06-07,09:30,63,16,1,Completed
+S00796,P00383,General Surgery,Hospital_B,OR_02,2025-04-18,09:15,76,0,0,Completed
+S00797,P00515,Cardiology,Hospital_A,OR_05,2025-12-20,10:30,152,24,0,Cancelled
+S00798,P00134,Cardiology,Hospital_B,OR_07,2025-06-17,11:45,162,0,0,Completed
+S00799,P00622,General Surgery,Hospital_C,OR_05,2025-04-26,08:00,93,55,0,Completed
+S00800,P00898,Orthopedics,Hospital_C,OR_01,2025-06-11,08:45,181,12,1,Completed
+S00801,P00537,ENT,Hospital_C,OR_05,2025-01-05,10:00,55,9,0,Completed
+S00802,P00839,General Surgery,Hospital_C,OR_05,2025-04-21,10:30,138,35,0,Completed
+S00803,P00354,Cardiology,Hospital_B,OR_06,2025-07-08,10:15,172,17,0,Completed
+S00804,P00884,Urology,Hospital_C,OR_04,2025-12-02,07:30,105,1,0,Cancelled
+S00805,P00483,Orthopedics,Hospital_A,OR_01,2025-09-27,09:00,106,65,0,Completed
+S00806,P00130,Cardiology,Hospital_C,OR_02,2025-10-13,14:45,352,10,0,Completed
+S00807,P00326,ENT,Hospital_A,OR_03,2025-07-18,13:45,51,36,1,Completed
+S00808,P00443,Cardiology,Hospital_B,OR_06,2025-02-10,11:30,157,24,0,Completed
+S00809,P00061,General Surgery,Hospital_C,OR_06,2025-05-23,10:30,71,41,0,Completed
+S00810,P00806,General Surgery,Hospital_C,OR_06,2025-12-30,16:30,187,48,1,Completed
+S00811,P00216,ENT,Hospital_C,OR_03,2025-01-17,07:30,98,13,0,Completed
+S00812,P00607,Orthopedics,Hospital_C,OR_04,2025-11-17,11:30,93,22,0,Completed
+S00813,P00828,Cardiology,Hospital_B,OR_01,2025-09-07,13:30,170,24,0,Completed
+S00814,P00391,General Surgery,Hospital_A,OR_07,2025-04-14,16:45,105,41,0,Completed
+S00815,P00548,Orthopedics,Hospital_C,OR_03,2025-10-11,17:30,99,7,0,Completed
+S00816,P00465,ENT,Hospital_B,OR_05,2025-11-02,10:00,93,64,0,Completed
+S00817,P00687,Cardiology,Hospital_C,OR_04,2025-01-16,16:45,162,14,0,Completed
+S00818,P00035,ENT,Hospital_B,OR_03,2025-02-08,07:00,76,28,0,Completed
+S00819,P00324,Orthopedics,Hospital_C,OR_02,2025-08-31,14:00,118,7,0,Completed
+S00820,P00550,Cardiology,Hospital_B,OR_08,2025-12-31,07:45,165,5,0,Completed
+S00821,P00083,Urology,Hospital_A,OR_01,2025-01-09,08:00,115,12,0,Completed
+S00822,P00773,Cardiology,Hospital_A,OR_08,2025-08-31,17:00,143,11,0,Completed
+S00823,P00569,Orthopedics,Hospital_C,OR_01,2025-02-19,15:30,94,21,0,Completed
+S00824,P00003,Urology,Hospital_C,OR_01,2025-08-26,12:45,200,10,0,Completed
+S00825,P00011,Orthopedics,Hospital_A,OR_08,2025-08-16,07:00,81,41,0,Completed
+S00826,P00144,Cardiology,Hospital_C,OR_08,2025-02-03,09:15,165,14,0,Completed
+S00827,P00597,ENT,Hospital_C,OR_08,2025-09-06,17:00,62,12,0,Completed
+S00828,P00466,General Surgery,Hospital_B,OR_07,2025-11-24,11:15,185,21,0,Completed
+S00829,P00434,Orthopedics,Hospital_C,OR_04,2025-11-12,09:15,85,46,0,Completed
+S00830,P00505,General Surgery,Hospital_A,OR_01,2025-01-11,09:00,72,32,0,Completed
+S00831,P00445,Orthopedics,Hospital_B,OR_05,2025-03-31,12:45,83,26,0,Completed
+S00832,P00309,General Surgery,Hospital_B,OR_05,2025-03-29,11:30,107,2,0,Completed
+S00833,P00007,Gynecology,Hospital_B,OR_06,2025-06-15,14:45,50,7,0,Completed
+S00834,P00026,General Surgery,Hospital_A,OR_01,2025-02-22,16:45,79,5,0,Completed
+S00835,P00620,Gynecology,Hospital_B,OR_01,2025-11-08,15:45,38,52,0,Completed
+S00836,P00669,Orthopedics,Hospital_B,OR_05,2025-10-11,17:30,131,38,0,Completed
+S00837,P00216,Orthopedics,Hospital_A,OR_07,2025-10-23,12:15,99,24,1,Completed
+S00838,P00219,Orthopedics,Hospital_B,OR_08,2025-03-14,13:45,68,18,0,Completed
+S00839,P00367,Gynecology,Hospital_B,OR_05,2025-01-06,15:30,128,13,0,Completed
+S00840,P00580,Cardiology,Hospital_C,OR_03,2025-11-29,07:15,85,12,0,Completed
+S00841,P00534,Orthopedics,Hospital_B,OR_04,2025-04-16,13:15,162,36,0,Completed
+S00842,P00503,Urology,Hospital_B,OR_05,2025-08-28,12:15,80,35,1,Completed
+S00843,P00034,Cardiology,Hospital_B,OR_05,2025-11-28,07:15,257,65,0,Completed
+S00844,P00388,General Surgery,Hospital_B,OR_02,2025-01-14,11:45,126,51,0,Completed
+S00845,P00677,ENT,Hospital_A,OR_04,2025-01-02,08:15,48,52,0,Completed
+S00846,P00531,Orthopedics,Hospital_C,OR_05,2025-01-02,16:15,85,40,0,Completed
+S00847,P00726,General Surgery,Hospital_B,OR_07,2025-02-27,10:00,120,20,0,Completed
+S00848,P00625,Cardiology,Hospital_B,OR_07,2025-01-19,13:45,127,39,0,Cancelled
+S00849,P00809,General Surgery,Hospital_A,OR_07,2025-10-27,12:15,89,34,1,Completed
+S00850,P00515,General Surgery,Hospital_C,OR_02,2025-08-10,15:15,154,57,0,Completed
+S00851,P00512,Urology,Hospital_B,OR_04,2025-12-24,11:45,79,35,0,Completed
+S00852,P00502,General Surgery,Hospital_A,OR_05,2025-10-20,10:45,98,33,0,Completed
+S00853,P00238,Urology,Hospital_A,OR_08,2025-12-18,09:30,151,30,0,Completed
+S00854,P00393,ENT,Hospital_B,OR_03,2025-03-29,09:30,95,59,0,Completed
+S00855,P00152,Gynecology,Hospital_C,OR_08,2025-04-16,11:00,80,2,0,Completed
+S00856,P00387,Gynecology,Hospital_A,OR_06,2025-11-07,15:45,76,61,0,Completed
+S00857,P00135,Gynecology,Hospital_A,OR_06,2025-03-31,07:30,44,25,0,Completed
+S00858,P00442,ENT,Hospital_B,OR_06,2025-01-21,14:30,47,3,0,Completed
+S00859,P00858,Orthopedics,Hospital_B,OR_07,2025-09-02,09:00,135,14,0,Completed
+S00860,P00407,General Surgery,Hospital_C,OR_06,2025-10-20,12:30,90,0,0,Completed
+S00861,P00665,Cardiology,Hospital_C,OR_06,2025-12-20,10:15,144,40,0,Completed
+S00862,P00395,Cardiology,Hospital_B,OR_04,2025-12-05,12:15,208,21,1,Completed
+S00863,P00815,General Surgery,Hospital_B,OR_04,2025-02-13,12:30,61,43,1,Completed
+S00864,P00190,Gynecology,Hospital_B,OR_05,2025-10-09,17:45,78,48,0,Completed
+S00865,P00751,General Surgery,Hospital_B,OR_07,2025-11-05,07:15,102,16,0,Completed
+S00866,P00652,ENT,Hospital_A,OR_06,2025-09-12,07:45,54,23,0,Completed
+S00867,P00800,Orthopedics,Hospital_B,OR_08,2025-10-27,14:00,207,5,0,Completed
+S00868,P00120,General Surgery,Hospital_C,OR_06,2025-11-02,16:30,134,21,0,Cancelled
+S00869,P00805,General Surgery,Hospital_B,OR_04,2025-06-12,07:00,106,74,0,Completed
+S00870,P00817,Orthopedics,Hospital_B,OR_05,2025-01-15,15:15,237,42,0,Completed
+S00871,P00267,Orthopedics,Hospital_C,OR_05,2025-06-16,12:45,68,23,0,Completed
+S00872,P00562,General Surgery,Hospital_A,OR_07,2025-03-15,10:00,95,17,0,Completed
+S00873,P00528,Orthopedics,Hospital_A,OR_03,2025-02-11,07:45,138,27,0,Completed
+S00874,P00044,General Surgery,Hospital_C,OR_02,2025-02-15,13:15,67,30,0,Completed
+S00875,P00473,Orthopedics,Hospital_C,OR_02,2025-09-12,07:30,135,20,0,Completed
+S00876,P00593,Orthopedics,Hospital_B,OR_01,2025-07-04,07:00,79,38,0,Completed
+S00877,P00185,Orthopedics,Hospital_C,OR_06,2025-07-17,13:30,156,11,0,Completed
+S00878,P00326,Orthopedics,Hospital_B,OR_08,2025-09-29,13:45,179,11,0,Completed
+S00879,P00527,General Surgery,Hospital_C,OR_05,2025-07-20,09:30,105,35,0,Completed
+S00880,P00836,General Surgery,Hospital_A,OR_01,2025-08-18,10:15,47,19,1,Completed
+S00881,P00055,General Surgery,Hospital_C,OR_03,2025-02-01,08:45,66,41,0,Completed
+S00882,P00842,Urology,Hospital_A,OR_08,2025-11-07,14:30,130,40,1,Completed
+S00883,P00734,ENT,Hospital_A,OR_01,2025-06-13,08:00,71,0,0,Completed
+S00884,P00761,ENT,Hospital_C,OR_05,2025-02-26,15:30,25,30,0,Completed
+S00885,P00043,Cardiology,Hospital_A,OR_04,2025-10-24,07:30,225,0,0,Completed
+S00886,P00511,Cardiology,Hospital_B,OR_08,2025-09-26,17:45,147,40,0,Completed
+S00887,P00332,Orthopedics,Hospital_C,OR_05,2025-01-20,10:15,88,24,0,Completed
+S00888,P00827,Urology,Hospital_C,OR_05,2025-03-12,15:15,153,73,1,Completed
+S00889,P00667,Urology,Hospital_B,OR_06,2025-01-06,15:45,81,47,0,Completed
+S00890,P00585,Urology,Hospital_A,OR_07,2025-04-09,11:30,81,9,0,Completed
+S00891,P00025,ENT,Hospital_A,OR_05,2025-02-06,12:30,80,0,0,Completed
+S00892,P00787,Orthopedics,Hospital_B,OR_06,2025-09-17,07:45,236,14,0,Completed
+S00893,P00441,Urology,Hospital_B,OR_07,2025-07-10,12:00,195,6,0,Completed
+S00894,P00144,Urology,Hospital_C,OR_05,2025-12-24,13:15,120,61,0,Completed
+S00895,P00786,Orthopedics,Hospital_C,OR_06,2025-10-01,16:45,143,28,0,Completed
+S00896,P00813,ENT,Hospital_B,OR_03,2025-08-12,11:30,95,45,0,Completed
+S00897,P00447,General Surgery,Hospital_B,OR_03,2025-07-05,07:45,59,23,0,Completed
+S00898,P00595,ENT,Hospital_B,OR_01,2025-01-20,12:30,89,25,0,Completed
+S00899,P00549,Urology,Hospital_A,OR_06,2025-01-26,14:15,79,27,0,Completed
+S00900,P00273,General Surgery,Hospital_B,OR_03,2025-08-13,14:15,107,48,0,Completed
+S00901,P00673,Gynecology,Hospital_C,OR_07,2025-01-02,14:00,78,34,0,Completed
+S00902,P00898,General Surgery,Hospital_C,OR_08,2025-01-16,08:45,115,9,0,Completed
+S00903,P00840,Urology,Hospital_C,OR_08,2025-03-21,15:00,110,57,0,Completed
+S00904,P00618,Urology,Hospital_C,OR_03,2025-11-19,09:30,33,23,0,Completed
+S00905,P00324,Gynecology,Hospital_B,OR_06,2025-06-17,07:15,91,20,0,Completed
+S00906,P00817,Urology,Hospital_B,OR_07,2025-09-16,10:00,134,0,0,Completed
+S00907,P00834,General Surgery,Hospital_C,OR_05,2025-05-31,10:15,113,39,0,Completed
+S00908,P00006,Orthopedics,Hospital_B,OR_05,2025-03-05,07:30,115,30,0,Completed
+S00909,P00305,Orthopedics,Hospital_C,OR_04,2025-05-16,09:00,224,30,0,Completed
+S00910,P00497,General Surgery,Hospital_B,OR_03,2025-02-03,07:45,107,21,0,Completed
+S00911,P00520,Cardiology,Hospital_A,OR_05,2025-10-09,08:45,165,18,0,Cancelled
+S00912,P00641,Orthopedics,Hospital_A,OR_08,2025-03-08,08:00,178,21,0,Cancelled
+S00913,P00462,Orthopedics,Hospital_A,OR_02,2025-05-18,13:45,138,36,0,Completed
+S00914,P00013,Orthopedics,Hospital_A,OR_01,2025-12-24,07:15,85,52,1,Completed
+S00915,P00150,Urology,Hospital_C,OR_01,2025-08-05,15:00,42,24,0,Completed
+S00916,P00686,Orthopedics,Hospital_C,OR_05,2025-06-17,08:15,100,45,0,Completed
+S00917,P00624,ENT,Hospital_C,OR_03,2025-07-18,15:45,93,27,0,Completed
+S00918,P00586,Orthopedics,Hospital_A,OR_04,2025-10-14,14:30,105,19,0,Completed
+S00919,P00397,Orthopedics,Hospital_B,OR_08,2025-04-03,07:00,163,32,0,Completed
+S00920,P00248,Cardiology,Hospital_A,OR_01,2025-08-21,17:30,148,4,0,Completed
+S00921,P00277,Orthopedics,Hospital_A,OR_02,2025-11-15,09:30,196,32,0,Completed
+S00922,P00620,Orthopedics,Hospital_B,OR_02,2025-07-28,14:30,107,0,0,Completed
+S00923,P00454,Cardiology,Hospital_C,OR_04,2025-06-12,17:30,167,10,0,Completed
+S00924,P00118,General Surgery,Hospital_A,OR_06,2025-02-22,07:45,115,0,0,Completed
+S00925,P00360,Orthopedics,Hospital_B,OR_02,2025-04-01,07:30,212,25,0,Completed
+S00926,P00741,Cardiology,Hospital_A,OR_01,2025-12-12,15:00,73,57,0,Cancelled
+S00927,P00539,Orthopedics,Hospital_C,OR_01,2025-07-17,15:45,101,26,0,Completed
+S00928,P00779,Urology,Hospital_A,OR_07,2025-04-20,14:15,145,40,0,Completed
+S00929,P00458,Orthopedics,Hospital_B,OR_01,2025-06-02,09:30,216,70,0,Completed
+S00930,P00437,ENT,Hospital_A,OR_06,2025-07-30,08:30,77,47,1,Completed
+S00931,P00854,Urology,Hospital_B,OR_05,2025-07-16,08:15,94,14,0,Completed
+S00932,P00457,ENT,Hospital_B,OR_01,2025-09-13,12:00,93,17,0,Completed
+S00933,P00122,Urology,Hospital_B,OR_05,2025-04-04,15:30,146,28,0,Completed
+S00934,P00362,General Surgery,Hospital_C,OR_03,2025-08-25,07:45,83,17,0,Completed
+S00935,P00583,Cardiology,Hospital_C,OR_05,2025-06-11,14:45,159,18,0,Completed
+S00936,P00311,General Surgery,Hospital_B,OR_02,2025-12-10,13:30,149,46,0,Completed
+S00937,P00369,Urology,Hospital_C,OR_06,2025-02-27,11:00,215,46,0,Completed
+S00938,P00785,Gynecology,Hospital_B,OR_07,2025-02-24,09:15,113,0,0,Completed
+S00939,P00392,Orthopedics,Hospital_A,OR_01,2025-06-18,10:45,122,13,0,Completed
+S00940,P00275,ENT,Hospital_B,OR_05,2025-07-05,12:15,69,20,0,Completed
+S00941,P00097,General Surgery,Hospital_C,OR_06,2025-09-10,14:30,117,39,0,Completed
+S00942,P00363,Cardiology,Hospital_A,OR_01,2025-05-28,17:15,134,61,1,Completed
+S00943,P00690,Gynecology,Hospital_B,OR_06,2025-11-30,09:00,91,77,0,Completed
+S00944,P00270,General Surgery,Hospital_B,OR_05,2025-06-23,08:30,64,20,0,Completed
+S00945,P00424,Gynecology,Hospital_A,OR_03,2025-02-17,15:30,139,33,1,Completed
+S00946,P00591,Urology,Hospital_B,OR_04,2025-02-13,17:30,68,39,0,Completed
+S00947,P00835,General Surgery,Hospital_B,OR_06,2025-12-22,16:15,81,16,0,Completed
+S00948,P00732,Cardiology,Hospital_B,OR_06,2025-02-18,10:45,145,25,0,Completed
+S00949,P00258,Orthopedics,Hospital_C,OR_07,2025-12-12,14:15,256,21,0,Completed
+S00950,P00148,Gynecology,Hospital_B,OR_01,2025-04-12,17:45,72,0,0,Completed
+S00951,P00604,General Surgery,Hospital_B,OR_07,2025-02-04,10:30,74,30,0,Completed
+S00952,P00230,ENT,Hospital_A,OR_01,2025-04-22,11:15,57,25,0,Completed
+S00953,P00353,ENT,Hospital_A,OR_06,2025-08-13,15:30,131,63,1,Completed
+S00954,P00094,General Surgery,Hospital_C,OR_03,2025-06-06,07:30,33,28,0,Completed
+S00955,P00697,Orthopedics,Hospital_C,OR_01,2025-10-14,14:30,82,5,0,Completed
+S00956,P00145,Gynecology,Hospital_C,OR_06,2025-08-12,10:30,240,35,1,Completed
+S00957,P00343,Gynecology,Hospital_A,OR_05,2025-05-27,17:00,106,0,0,Completed
+S00958,P00366,Cardiology,Hospital_C,OR_06,2025-08-20,13:45,92,6,0,Completed
+S00959,P00039,General Surgery,Hospital_A,OR_04,2025-12-21,11:15,93,39,0,Completed
+S00960,P00698,General Surgery,Hospital_A,OR_03,2025-05-31,09:00,97,24,0,Completed
+S00961,P00557,ENT,Hospital_A,OR_05,2025-02-26,11:45,97,45,0,Completed
+S00962,P00487,Cardiology,Hospital_C,OR_02,2025-05-30,08:00,282,0,0,Completed
+S00963,P00160,Urology,Hospital_B,OR_07,2025-11-03,17:45,122,24,0,Completed
+S00964,P00048,Cardiology,Hospital_B,OR_06,2025-03-21,09:15,114,19,0,Completed
+S00965,P00051,ENT,Hospital_C,OR_08,2025-12-13,11:15,94,45,0,Completed
+S00966,P00562,General Surgery,Hospital_A,OR_01,2025-08-03,08:00,73,40,0,Completed
+S00967,P00673,General Surgery,Hospital_A,OR_05,2025-08-08,13:00,64,40,0,Completed
+S00968,P00715,ENT,Hospital_C,OR_05,2025-04-26,13:00,36,56,0,Completed
+S00969,P00720,ENT,Hospital_B,OR_07,2025-12-02,08:00,39,33,1,Completed
+S00970,P00354,Orthopedics,Hospital_C,OR_04,2025-01-14,11:15,85,64,1,Completed
+S00971,P00002,Orthopedics,Hospital_B,OR_08,2025-04-20,10:15,77,9,0,Completed
+S00972,P00221,Cardiology,Hospital_A,OR_02,2025-06-02,17:15,158,9,0,Completed
+S00973,P00708,Orthopedics,Hospital_B,OR_07,2025-06-24,15:00,76,42,0,Completed
+S00974,P00687,General Surgery,Hospital_C,OR_05,2025-06-23,12:00,29,1,0,Completed
+S00975,P00457,ENT,Hospital_A,OR_08,2025-02-23,09:00,47,38,0,Completed
+S00976,P00022,Orthopedics,Hospital_A,OR_02,2025-03-24,07:00,100,30,0,Completed
+S00977,P00699,Gynecology,Hospital_B,OR_03,2025-02-04,08:15,68,47,0,Completed
+S00978,P00734,General Surgery,Hospital_B,OR_05,2025-07-28,15:00,169,27,0,Completed
+S00979,P00205,General Surgery,Hospital_B,OR_05,2025-05-09,13:15,75,29,0,Completed
+S00980,P00724,Gynecology,Hospital_A,OR_02,2025-07-26,11:45,119,49,1,Completed
+S00981,P00576,Orthopedics,Hospital_C,OR_06,2025-08-04,12:15,119,16,0,Completed
+S00982,P00799,Gynecology,Hospital_A,OR_04,2025-09-14,09:00,84,15,0,Completed
+S00983,P00564,General Surgery,Hospital_A,OR_02,2025-07-19,15:30,69,49,1,Completed
+S00984,P00081,ENT,Hospital_C,OR_05,2025-08-25,09:15,68,27,0,Completed
+S00985,P00582,Urology,Hospital_B,OR_06,2025-08-03,12:00,79,21,0,Completed
+S00986,P00097,Urology,Hospital_B,OR_01,2025-08-27,16:45,112,27,0,Completed
+S00987,P00233,General Surgery,Hospital_B,OR_08,2025-08-14,12:30,87,57,0,Completed
+S00988,P00785,Orthopedics,Hospital_A,OR_05,2025-04-26,08:45,84,20,0,Completed
+S00989,P00871,Orthopedics,Hospital_B,OR_03,2025-03-31,14:45,175,20,0,Cancelled
+S00990,P00428,Cardiology,Hospital_C,OR_07,2025-10-15,16:30,165,0,0,Completed
+S00991,P00262,Orthopedics,Hospital_A,OR_07,2025-05-06,10:30,101,27,0,Completed
+S00992,P00353,General Surgery,Hospital_C,OR_08,2025-07-20,12:15,100,40,0,Completed
+S00993,P00218,Orthopedics,Hospital_A,OR_07,2025-03-13,14:45,116,43,0,Completed
+S00994,P00516,Orthopedics,Hospital_C,OR_02,2025-06-07,08:30,86,30,0,Cancelled
+S00995,P00379,Orthopedics,Hospital_C,OR_02,2025-07-13,15:15,123,45,0,Completed
+S00996,P00053,General Surgery,Hospital_C,OR_02,2025-08-17,10:00,75,41,0,Completed
+S00997,P00549,Orthopedics,Hospital_B,OR_08,2025-07-12,10:30,84,48,0,Completed
+S00998,P00579,Gynecology,Hospital_C,OR_03,2025-05-12,17:30,46,46,0,Completed
+S00999,P00600,Orthopedics,Hospital_C,OR_03,2025-12-18,10:45,105,56,0,Completed
+S01000,P00850,Orthopedics,Hospital_B,OR_08,2025-07-07,09:00,149,25,0,Completed
+S01001,P00633,Cardiology,Hospital_C,OR_02,2025-10-23,12:45,108,4,0,Completed
+S01002,P00608,Urology,Hospital_B,OR_04,2025-09-26,09:00,274,52,1,Completed
+S01003,P00191,Orthopedics,Hospital_C,OR_03,2025-07-23,14:30,168,42,0,Completed
+S01004,P00418,Gynecology,Hospital_C,OR_03,2025-11-20,14:15,140,56,0,Completed
+S01005,P00391,ENT,Hospital_B,OR_05,2025-02-16,08:15,95,51,0,Completed
+S01006,P00864,Cardiology,Hospital_A,OR_06,2025-12-03,12:15,283,63,0,Completed
+S01007,P00427,ENT,Hospital_A,OR_03,2025-11-07,16:00,52,39,0,Completed
+S01008,P00619,Urology,Hospital_A,OR_01,2025-07-03,10:00,40,44,1,Completed
+S01009,P00487,General Surgery,Hospital_B,OR_06,2025-09-25,13:45,80,3,0,Completed
+S01010,P00052,Orthopedics,Hospital_B,OR_05,2025-07-09,16:00,148,34,0,Completed
+S01011,P00842,Gynecology,Hospital_C,OR_06,2025-04-09,11:30,90,30,1,Completed
+S01012,P00603,ENT,Hospital_A,OR_04,2025-10-19,07:30,78,32,0,Completed
+S01013,P00208,Cardiology,Hospital_A,OR_07,2025-03-31,08:00,231,29,0,Completed
+S01014,P00054,General Surgery,Hospital_B,OR_05,2025-04-25,08:45,110,36,0,Completed
+S01015,P00843,Cardiology,Hospital_A,OR_07,2025-07-09,14:45,190,26,0,Completed
+S01016,P00277,General Surgery,Hospital_C,OR_06,2025-11-02,14:45,66,57,1,Completed
+S01017,P00016,Urology,Hospital_A,OR_04,2025-05-21,12:45,69,0,0,Completed
+S01018,P00554,Cardiology,Hospital_B,OR_03,2025-06-30,07:30,259,31,0,Completed
+S01019,P00015,Gynecology,Hospital_C,OR_05,2025-01-16,15:45,88,50,0,Completed
+S01020,P00194,Urology,Hospital_B,OR_06,2025-02-12,10:00,83,74,1,Completed
+S01021,P00804,Gynecology,Hospital_C,OR_05,2025-01-21,14:00,67,41,0,Completed
+S01022,P00035,Gynecology,Hospital_B,OR_05,2025-01-27,15:30,66,58,0,Completed
+S01023,P00677,Urology,Hospital_C,OR_03,2025-11-14,14:15,80,31,0,Completed
+S01024,P00556,Urology,Hospital_C,OR_02,2025-11-04,08:30,64,40,1,Completed
+S01025,P00276,Urology,Hospital_B,OR_04,2025-10-27,10:15,59,38,0,Completed
+S01026,P00257,General Surgery,Hospital_A,OR_08,2025-01-21,09:15,88,28,0,Completed
+S01027,P00427,Cardiology,Hospital_C,OR_06,2025-01-29,16:45,112,14,0,Completed
+S01028,P00480,General Surgery,Hospital_A,OR_07,2025-04-13,10:00,145,19,0,Completed
+S01029,P00801,Urology,Hospital_B,OR_06,2025-07-26,07:00,117,8,0,Completed
+S01030,P00235,Gynecology,Hospital_B,OR_08,2025-05-02,07:30,94,38,0,Completed
+S01031,P00531,Orthopedics,Hospital_C,OR_02,2025-06-27,14:45,90,28,0,Completed
+S01032,P00618,General Surgery,Hospital_B,OR_06,2025-03-05,10:45,91,22,0,Completed
+S01033,P00012,Orthopedics,Hospital_B,OR_01,2025-09-24,08:00,138,18,0,Completed
+S01034,P00806,Gynecology,Hospital_B,OR_02,2025-04-25,17:45,112,37,0,Completed
+S01035,P00892,General Surgery,Hospital_C,OR_01,2025-01-25,13:30,92,42,0,Completed
+S01036,P00078,General Surgery,Hospital_B,OR_04,2025-09-29,14:45,143,8,0,Completed
+S01037,P00236,ENT,Hospital_C,OR_02,2025-11-26,09:00,70,17,1,Completed
+S01038,P00707,Urology,Hospital_A,OR_04,2025-01-06,09:15,142,45,0,Completed
+S01039,P00728,General Surgery,Hospital_B,OR_02,2025-06-09,09:30,79,3,0,Completed
+S01040,P00141,Orthopedics,Hospital_C,OR_01,2025-10-29,08:30,60,38,0,Completed
+S01041,P00825,ENT,Hospital_C,OR_04,2025-09-15,14:00,78,57,0,Completed
+S01042,P00297,Gynecology,Hospital_B,OR_04,2025-11-09,10:30,112,57,0,Completed
+S01043,P00264,Gynecology,Hospital_C,OR_04,2025-06-01,07:30,106,41,0,Completed
+S01044,P00322,Orthopedics,Hospital_B,OR_03,2025-05-16,15:15,141,41,0,Completed
+S01045,P00604,Orthopedics,Hospital_B,OR_04,2025-09-16,07:30,105,69,0,Cancelled
+S01046,P00186,General Surgery,Hospital_C,OR_01,2025-02-26,16:15,70,0,0,Completed
+S01047,P00489,Gynecology,Hospital_C,OR_04,2025-03-29,16:45,105,32,1,Completed
+S01048,P00068,General Surgery,Hospital_C,OR_07,2025-08-08,10:30,112,43,0,Completed
+S01049,P00133,General Surgery,Hospital_C,OR_02,2025-09-01,07:30,77,22,0,Completed
+S01050,P00691,Gynecology,Hospital_A,OR_02,2025-02-13,16:45,130,50,0,Completed
+S01051,P00345,ENT,Hospital_B,OR_07,2025-07-05,09:30,50,27,0,Completed
+S01052,P00714,Urology,Hospital_B,OR_05,2025-05-14,07:15,84,30,0,Completed
+S01053,P00664,Cardiology,Hospital_C,OR_03,2025-07-03,16:30,261,35,1,Completed
+S01054,P00897,Cardiology,Hospital_A,OR_07,2025-12-16,11:45,195,31,1,Completed
+S01055,P00124,Orthopedics,Hospital_C,OR_03,2025-01-28,15:00,105,18,0,Completed
+S01056,P00841,Orthopedics,Hospital_A,OR_05,2025-12-30,07:30,134,33,0,Completed
+S01057,P00802,Cardiology,Hospital_B,OR_05,2025-06-14,16:00,148,14,0,Completed
+S01058,P00391,Orthopedics,Hospital_C,OR_02,2025-10-09,12:45,42,45,0,Cancelled
+S01059,P00122,Gynecology,Hospital_A,OR_07,2025-06-04,16:30,60,40,0,Completed
+S01060,P00120,ENT,Hospital_A,OR_05,2025-04-24,17:45,69,48,0,Completed
+S01061,P00460,ENT,Hospital_C,OR_02,2025-10-09,16:30,61,8,0,Completed
+S01062,P00010,General Surgery,Hospital_A,OR_07,2025-09-08,17:00,104,9,1,Completed
+S01063,P00087,Orthopedics,Hospital_C,OR_05,2025-02-22,07:30,184,28,0,Cancelled
+S01064,P00478,General Surgery,Hospital_C,OR_07,2025-09-15,14:45,84,80,0,Completed
+S01065,P00507,Orthopedics,Hospital_B,OR_07,2025-10-02,14:00,80,51,0,Completed
+S01066,P00774,Orthopedics,Hospital_C,OR_03,2025-05-22,16:00,136,18,0,Completed
+S01067,P00877,General Surgery,Hospital_A,OR_08,2025-12-04,08:30,84,48,1,Completed
+S01068,P00241,Urology,Hospital_C,OR_01,2025-08-22,17:30,99,41,0,Completed
+S01069,P00297,Cardiology,Hospital_A,OR_03,2025-05-02,08:00,125,3,0,Completed
+S01070,P00179,ENT,Hospital_C,OR_05,2025-01-04,17:15,164,53,0,Completed
+S01071,P00202,General Surgery,Hospital_C,OR_05,2025-09-04,14:15,41,25,0,Completed
+S01072,P00395,General Surgery,Hospital_A,OR_02,2025-03-18,09:30,82,26,0,Completed
+S01073,P00893,Orthopedics,Hospital_C,OR_02,2025-10-04,15:15,120,28,0,Completed
+S01074,P00804,General Surgery,Hospital_B,OR_07,2025-07-11,12:15,71,49,0,Completed
+S01075,P00821,Orthopedics,Hospital_C,OR_08,2025-06-20,13:45,169,14,0,Completed
+S01076,P00407,ENT,Hospital_B,OR_06,2025-03-01,14:15,95,0,0,Completed
+S01077,P00591,General Surgery,Hospital_A,OR_05,2025-09-17,09:30,93,34,0,Completed
+S01078,P00650,General Surgery,Hospital_C,OR_07,2025-03-02,14:15,86,0,0,Completed
+S01079,P00219,Cardiology,Hospital_A,OR_02,2025-06-02,16:15,134,23,0,Completed
+S01080,P00416,Cardiology,Hospital_B,OR_08,2025-11-02,10:30,135,61,1,Completed
+S01081,P00495,Gynecology,Hospital_A,OR_01,2025-12-02,09:30,83,38,0,Completed
+S01082,P00336,Orthopedics,Hospital_A,OR_05,2025-12-28,16:45,112,47,0,Completed
+S01083,P00426,Urology,Hospital_A,OR_03,2025-12-16,11:15,116,51,1,Completed
+S01084,P00397,General Surgery,Hospital_A,OR_08,2025-07-22,12:00,126,71,0,Completed
+S01085,P00055,Orthopedics,Hospital_C,OR_02,2025-03-15,14:15,75,17,0,Completed
+S01086,P00691,Gynecology,Hospital_C,OR_06,2025-11-03,08:30,57,35,0,Completed
+S01087,P00810,Urology,Hospital_C,OR_02,2025-10-20,14:00,54,20,0,Completed
+S01088,P00679,Orthopedics,Hospital_A,OR_02,2025-12-28,11:45,167,45,0,Completed
+S01089,P00840,Cardiology,Hospital_C,OR_04,2025-08-26,14:45,154,27,0,Completed
+S01090,P00389,General Surgery,Hospital_B,OR_07,2025-02-21,11:15,115,59,0,Completed
+S01091,P00051,General Surgery,Hospital_C,OR_03,2025-07-03,12:15,55,30,1,Completed
+S01092,P00241,General Surgery,Hospital_C,OR_06,2025-06-13,08:00,187,53,0,Completed
+S01093,P00768,Gynecology,Hospital_A,OR_05,2025-11-04,16:30,67,39,0,Completed
+S01094,P00126,Orthopedics,Hospital_C,OR_08,2025-05-24,12:30,128,27,0,Completed
+S01095,P00492,Gynecology,Hospital_B,OR_03,2025-04-30,11:45,118,38,0,Completed
+S01096,P00002,General Surgery,Hospital_B,OR_02,2025-01-30,12:30,65,33,0,Completed
+S01097,P00292,Urology,Hospital_B,OR_08,2025-11-01,12:00,85,34,0,Completed
+S01098,P00102,Urology,Hospital_A,OR_03,2025-10-03,08:00,112,24,0,Completed
+S01099,P00102,General Surgery,Hospital_A,OR_02,2025-01-16,09:00,281,15,0,Completed
+S01100,P00149,General Surgery,Hospital_C,OR_07,2025-06-08,09:45,107,22,0,Completed
+S01101,P00484,General Surgery,Hospital_C,OR_07,2025-06-25,10:45,175,0,0,Completed
+S01102,P00621,Urology,Hospital_B,OR_01,2025-06-21,11:45,166,43,0,Completed
+S01103,P00260,General Surgery,Hospital_C,OR_07,2025-12-02,15:45,109,6,0,Completed
+S01104,P00736,Cardiology,Hospital_B,OR_06,2025-02-24,10:00,96,24,0,Completed
+S01105,P00353,Orthopedics,Hospital_A,OR_03,2025-04-22,10:30,180,40,0,Completed
+S01106,P00663,Urology,Hospital_C,OR_05,2025-03-08,14:30,59,43,0,Completed
+S01107,P00477,Cardiology,Hospital_C,OR_02,2025-03-31,17:00,257,0,0,Completed
+S01108,P00651,Cardiology,Hospital_A,OR_02,2025-11-28,11:15,151,26,0,Cancelled
+S01109,P00880,ENT,Hospital_C,OR_02,2025-12-10,08:30,26,36,0,Completed
+S01110,P00894,General Surgery,Hospital_B,OR_02,2025-01-17,07:45,83,29,0,Completed
+S01111,P00528,Urology,Hospital_C,OR_05,2025-08-19,07:00,135,64,1,Completed
+S01112,P00866,General Surgery,Hospital_A,OR_07,2025-03-26,08:45,87,13,0,Completed
+S01113,P00631,Cardiology,Hospital_B,OR_04,2025-03-12,16:45,184,0,0,Completed
+S01114,P00242,ENT,Hospital_A,OR_01,2025-04-17,16:45,51,55,1,Completed
+S01115,P00841,Gynecology,Hospital_C,OR_04,2025-03-12,12:00,52,18,0,Completed
+S01116,P00131,Gynecology,Hospital_B,OR_06,2025-06-28,11:00,83,0,0,Completed
+S01117,P00421,Orthopedics,Hospital_A,OR_07,2025-12-30,09:30,121,25,0,Completed
+S01118,P00138,Orthopedics,Hospital_C,OR_06,2025-08-03,08:15,105,50,0,Completed
+S01119,P00706,Orthopedics,Hospital_C,OR_03,2025-09-21,11:00,191,5,0,Completed
+S01120,P00806,Cardiology,Hospital_B,OR_06,2025-06-30,14:45,101,70,0,Completed
+S01121,P00737,Cardiology,Hospital_C,OR_01,2025-01-06,13:00,158,13,0,Completed
+S01122,P00093,Orthopedics,Hospital_C,OR_04,2025-01-31,15:15,123,30,0,Completed
+S01123,P00244,Orthopedics,Hospital_B,OR_05,2025-04-09,09:45,66,6,0,Completed
+S01124,P00306,Orthopedics,Hospital_C,OR_01,2025-03-30,16:15,73,41,1,Completed
+S01125,P00104,Orthopedics,Hospital_A,OR_01,2025-11-03,11:45,121,38,1,Completed
+S01126,P00477,General Surgery,Hospital_C,OR_07,2025-11-04,09:15,202,1,0,Completed
+S01127,P00031,Urology,Hospital_B,OR_02,2025-11-08,13:15,131,79,0,Completed
+S01128,P00552,Gynecology,Hospital_A,OR_02,2025-08-21,10:00,44,19,0,Completed
+S01129,P00517,General Surgery,Hospital_C,OR_05,2025-07-23,09:15,29,19,0,Completed
+S01130,P00536,Gynecology,Hospital_C,OR_03,2025-08-25,16:15,112,45,0,Completed
+S01131,P00821,Urology,Hospital_C,OR_08,2025-05-29,08:45,101,61,0,Completed
+S01132,P00707,General Surgery,Hospital_A,OR_08,2025-09-02,10:45,147,48,0,Completed
+S01133,P00234,General Surgery,Hospital_C,OR_07,2025-10-17,08:00,68,6,0,Completed
+S01134,P00514,General Surgery,Hospital_C,OR_03,2025-10-06,17:00,109,32,0,Completed
+S01135,P00722,General Surgery,Hospital_C,OR_08,2025-08-13,07:30,131,0,0,Completed
+S01136,P00766,Urology,Hospital_B,OR_03,2025-01-22,10:15,89,44,0,Completed
+S01137,P00579,ENT,Hospital_C,OR_02,2025-09-22,11:15,60,0,0,Completed
+S01138,P00077,General Surgery,Hospital_C,OR_08,2025-05-14,12:15,96,14,0,Completed
+S01139,P00391,Urology,Hospital_A,OR_06,2025-09-29,09:00,129,40,1,Completed
+S01140,P00773,General Surgery,Hospital_A,OR_01,2025-07-16,08:30,94,36,0,Completed
+S01141,P00067,Gynecology,Hospital_C,OR_08,2025-11-18,13:00,123,23,0,Completed
+S01142,P00531,Urology,Hospital_B,OR_02,2025-05-04,12:30,88,55,0,Completed
+S01143,P00487,Orthopedics,Hospital_A,OR_06,2025-12-06,07:15,72,41,0,Completed
+S01144,P00201,General Surgery,Hospital_A,OR_04,2025-11-05,17:15,201,40,0,Completed
+S01145,P00310,Gynecology,Hospital_C,OR_01,2025-05-01,07:30,68,6,0,Completed
+S01146,P00879,ENT,Hospital_A,OR_07,2025-06-26,11:00,56,59,0,Completed
+S01147,P00536,Orthopedics,Hospital_A,OR_06,2025-07-13,07:45,117,14,0,Completed
+S01148,P00845,General Surgery,Hospital_B,OR_08,2025-10-08,15:30,97,71,1,Completed
+S01149,P00424,General Surgery,Hospital_C,OR_05,2025-09-09,07:45,82,76,1,Completed
+S01150,P00761,Cardiology,Hospital_B,OR_07,2025-11-07,12:15,139,37,0,Completed
+S01151,P00558,Gynecology,Hospital_B,OR_08,2025-05-16,16:15,84,47,0,Completed
+S01152,P00820,Urology,Hospital_C,OR_08,2025-07-04,09:00,112,0,0,Completed
+S01153,P00294,Urology,Hospital_B,OR_05,2025-06-07,17:30,43,24,0,Completed
+S01154,P00344,ENT,Hospital_C,OR_01,2025-11-28,13:30,143,48,0,Completed
+S01155,P00037,Urology,Hospital_A,OR_03,2025-04-22,09:15,99,45,0,Completed
+S01156,P00205,Orthopedics,Hospital_B,OR_05,2025-08-03,17:00,150,6,0,Completed
+S01157,P00125,Cardiology,Hospital_A,OR_01,2025-02-13,17:15,83,23,0,Completed
+S01158,P00165,Orthopedics,Hospital_C,OR_01,2025-11-07,10:00,100,0,0,Completed
+S01159,P00278,Orthopedics,Hospital_C,OR_04,2025-05-21,14:15,93,35,0,Completed
+S01160,P00786,ENT,Hospital_C,OR_08,2025-05-05,12:30,122,0,0,Completed
+S01161,P00341,Gynecology,Hospital_A,OR_03,2025-08-01,13:45,68,48,0,Completed
+S01162,P00744,ENT,Hospital_C,OR_08,2025-07-02,13:00,93,49,0,Completed
+S01163,P00733,Orthopedics,Hospital_B,OR_07,2025-11-06,14:00,94,19,0,Completed
+S01164,P00882,Cardiology,Hospital_A,OR_03,2025-07-13,16:15,118,49,1,Completed
+S01165,P00458,Cardiology,Hospital_B,OR_02,2025-07-08,14:00,128,24,0,Cancelled
+S01166,P00763,General Surgery,Hospital_B,OR_07,2025-02-08,11:30,155,44,1,Completed
+S01167,P00378,General Surgery,Hospital_B,OR_07,2025-01-09,13:00,46,7,0,Completed
+S01168,P00569,Cardiology,Hospital_C,OR_06,2025-05-26,07:45,85,39,0,Completed
+S01169,P00730,General Surgery,Hospital_B,OR_08,2025-12-31,12:45,45,0,0,Completed
+S01170,P00128,ENT,Hospital_A,OR_01,2025-12-01,07:15,46,0,0,Completed
+S01171,P00052,General Surgery,Hospital_B,OR_04,2025-08-18,13:45,70,26,0,Completed
+S01172,P00149,General Surgery,Hospital_A,OR_05,2025-08-19,14:30,51,24,0,Completed
+S01173,P00649,Urology,Hospital_A,OR_01,2025-05-23,10:45,79,33,0,Completed
+S01174,P00426,General Surgery,Hospital_A,OR_08,2025-03-06,10:15,44,16,0,Completed
+S01175,P00252,ENT,Hospital_C,OR_05,2025-01-04,14:45,48,74,1,Completed
+S01176,P00691,Gynecology,Hospital_B,OR_03,2025-05-04,16:00,134,43,1,Completed
+S01177,P00014,General Surgery,Hospital_A,OR_02,2025-04-26,15:15,111,32,0,Completed
+S01178,P00156,Gynecology,Hospital_B,OR_01,2025-03-11,09:45,91,32,0,Completed
+S01179,P00423,Gynecology,Hospital_C,OR_05,2025-04-05,17:15,58,58,1,Completed
+S01180,P00824,Urology,Hospital_B,OR_08,2025-01-10,07:00,59,38,0,Completed
+S01181,P00674,Urology,Hospital_C,OR_01,2025-08-10,12:00,68,36,0,Completed
+S01182,P00615,Gynecology,Hospital_B,OR_04,2025-12-05,09:00,84,41,0,Completed
+S01183,P00640,Gynecology,Hospital_C,OR_06,2025-09-10,17:15,118,0,0,Completed
+S01184,P00281,Orthopedics,Hospital_B,OR_04,2025-06-13,11:15,169,0,0,Completed
+S01185,P00403,Gynecology,Hospital_B,OR_06,2025-06-03,07:30,108,27,0,Completed
+S01186,P00797,ENT,Hospital_A,OR_06,2025-04-23,17:45,53,24,0,Completed
+S01187,P00656,Gynecology,Hospital_A,OR_08,2025-02-21,09:00,86,38,0,Completed
+S01188,P00539,Gynecology,Hospital_C,OR_05,2025-08-07,15:45,75,28,0,Completed
+S01189,P00075,Orthopedics,Hospital_C,OR_06,2025-07-26,17:30,111,38,0,Completed
+S01190,P00660,Urology,Hospital_B,OR_03,2025-01-03,12:45,228,6,0,Completed
+S01191,P00329,ENT,Hospital_B,OR_02,2025-06-01,14:45,36,40,1,Completed
+S01192,P00347,General Surgery,Hospital_A,OR_01,2025-04-12,10:45,87,4,0,Completed
+S01193,P00606,General Surgery,Hospital_B,OR_01,2025-03-04,07:00,151,35,0,Completed
+S01194,P00354,Cardiology,Hospital_A,OR_07,2025-09-14,14:30,80,0,0,Completed
+S01195,P00516,Cardiology,Hospital_B,OR_01,2025-07-11,13:45,110,34,0,Completed
+S01196,P00012,Cardiology,Hospital_A,OR_04,2025-08-20,16:30,115,2,0,Completed
+S01197,P00167,General Surgery,Hospital_C,OR_05,2025-09-18,08:00,87,21,0,Completed
+S01198,P00484,Orthopedics,Hospital_C,OR_06,2025-12-25,08:30,65,44,0,Cancelled
+S01199,P00861,Gynecology,Hospital_A,OR_01,2025-10-21,14:45,107,32,0,Completed
+S01200,P00684,Gynecology,Hospital_A,OR_07,2025-08-15,08:15,109,0,0,Completed
+S01201,P00376,Gynecology,Hospital_C,OR_04,2025-11-17,10:30,103,16,0,Completed
+S01202,P00871,Gynecology,Hospital_A,OR_01,2025-06-24,07:45,61,1,0,Completed
+S01203,P00248,Gynecology,Hospital_B,OR_02,2025-12-26,07:30,88,0,0,Completed
+S01204,P00803,Urology,Hospital_A,OR_07,2025-10-05,17:00,75,30,0,Completed
+S01205,P00363,Gynecology,Hospital_B,OR_08,2025-08-26,14:30,75,38,0,Completed
+S01206,P00079,Cardiology,Hospital_A,OR_07,2025-11-26,16:30,317,36,0,Completed
+S01207,P00003,Gynecology,Hospital_A,OR_03,2025-07-08,16:15,88,39,0,Cancelled
+S01208,P00882,General Surgery,Hospital_B,OR_08,2025-09-21,08:30,60,28,0,Completed
+S01209,P00578,Orthopedics,Hospital_A,OR_03,2025-04-14,17:15,129,23,0,Completed
+S01210,P00135,Cardiology,Hospital_C,OR_02,2025-12-18,16:45,84,9,0,Completed
+S01211,P00892,Urology,Hospital_B,OR_07,2025-08-16,14:45,67,20,0,Completed
+S01212,P00037,Gynecology,Hospital_B,OR_03,2025-10-13,13:45,57,4,0,Completed
+S01213,P00301,General Surgery,Hospital_B,OR_05,2025-06-18,10:30,80,13,0,Completed
+S01214,P00674,Gynecology,Hospital_C,OR_06,2025-11-13,07:00,121,30,0,Completed
+S01215,P00048,General Surgery,Hospital_C,OR_02,2025-01-28,13:30,118,26,0,Completed
+S01216,P00815,Gynecology,Hospital_A,OR_08,2025-02-11,07:00,104,83,0,Completed
+S01217,P00610,Urology,Hospital_C,OR_02,2025-07-05,07:30,69,4,0,Completed
+S01218,P00854,Gynecology,Hospital_B,OR_08,2025-09-25,10:00,69,26,0,Completed
+S01219,P00753,Gynecology,Hospital_C,OR_03,2025-10-23,15:30,94,2,0,Completed
+S01220,P00742,Orthopedics,Hospital_C,OR_04,2025-06-10,07:30,95,33,1,Completed
+S01221,P00205,Cardiology,Hospital_C,OR_03,2025-08-26,17:15,126,22,0,Completed
+S01222,P00185,Urology,Hospital_C,OR_05,2025-07-21,17:15,124,43,0,Completed
+S01223,P00218,Gynecology,Hospital_A,OR_01,2025-12-17,07:00,74,20,0,Completed
+S01224,P00139,Cardiology,Hospital_C,OR_02,2025-08-27,07:15,153,25,0,Completed
+S01225,P00598,Orthopedics,Hospital_C,OR_05,2025-06-02,11:15,220,32,1,Completed
+S01226,P00054,General Surgery,Hospital_A,OR_06,2025-12-20,12:45,89,3,0,Cancelled
+S01227,P00386,General Surgery,Hospital_A,OR_08,2025-02-09,07:45,149,16,0,Completed
+S01228,P00524,General Surgery,Hospital_B,OR_07,2025-12-26,09:45,117,33,1,Completed
+S01229,P00485,Orthopedics,Hospital_B,OR_08,2025-02-26,08:00,69,29,0,Completed
+S01230,P00439,ENT,Hospital_C,OR_07,2025-04-16,08:15,46,38,0,Completed
+S01231,P00201,Cardiology,Hospital_B,OR_07,2025-10-27,17:15,102,24,0,Completed
+S01232,P00099,General Surgery,Hospital_A,OR_03,2025-09-25,08:30,69,23,0,Completed
+S01233,P00889,General Surgery,Hospital_B,OR_08,2025-12-21,12:30,92,0,0,Completed
+S01234,P00418,Orthopedics,Hospital_C,OR_08,2025-10-01,15:45,152,38,0,Completed
+S01235,P00535,Urology,Hospital_C,OR_05,2025-08-21,08:15,169,27,1,Completed
+S01236,P00511,Orthopedics,Hospital_A,OR_01,2025-05-07,13:30,135,41,0,Completed
+S01237,P00332,Urology,Hospital_C,OR_01,2025-01-02,17:45,89,52,0,Completed
+S01238,P00650,Urology,Hospital_A,OR_04,2025-02-15,15:00,48,25,0,Completed
+S01239,P00339,General Surgery,Hospital_C,OR_06,2025-04-19,12:45,98,10,0,Completed
+S01240,P00373,Gynecology,Hospital_C,OR_05,2025-01-15,09:30,86,40,1,Completed
+S01241,P00723,ENT,Hospital_A,OR_08,2025-07-05,09:00,75,34,0,Completed
+S01242,P00287,Orthopedics,Hospital_C,OR_05,2025-10-11,09:45,267,22,0,Completed
+S01243,P00629,General Surgery,Hospital_B,OR_06,2025-12-18,17:45,152,18,0,Completed
+S01244,P00599,ENT,Hospital_C,OR_07,2025-06-28,09:45,94,50,1,Completed
+S01245,P00028,ENT,Hospital_A,OR_08,2025-11-16,09:00,49,49,1,Completed
+S01246,P00616,Cardiology,Hospital_C,OR_05,2025-12-26,09:00,115,22,0,Completed
+S01247,P00721,Cardiology,Hospital_C,OR_05,2025-11-10,14:30,135,0,0,Completed
+S01248,P00244,General Surgery,Hospital_A,OR_01,2025-06-19,07:00,71,36,0,Completed
+S01249,P00823,Urology,Hospital_B,OR_06,2025-04-29,12:00,127,14,0,Cancelled
+S01250,P00018,Cardiology,Hospital_B,OR_02,2025-12-23,16:15,160,44,1,Completed
+S01251,P00162,General Surgery,Hospital_A,OR_03,2025-03-30,11:00,63,31,0,Completed
+S01252,P00851,Gynecology,Hospital_C,OR_05,2025-05-31,14:30,134,0,0,Completed
+S01253,P00770,ENT,Hospital_A,OR_01,2025-01-28,15:30,73,41,1,Completed
+S01254,P00680,Urology,Hospital_A,OR_06,2025-10-17,09:00,54,49,1,Completed
+S01255,P00543,Orthopedics,Hospital_B,OR_03,2025-08-26,10:30,118,39,0,Completed
+S01256,P00181,General Surgery,Hospital_B,OR_05,2025-01-31,08:00,106,42,1,Completed
+S01257,P00440,ENT,Hospital_A,OR_03,2025-03-23,09:00,101,0,0,Completed
+S01258,P00509,ENT,Hospital_C,OR_03,2025-07-22,07:15,62,51,0,Completed
+S01259,P00081,Cardiology,Hospital_A,OR_04,2025-07-17,15:15,192,35,0,Completed
+S01260,P00535,Gynecology,Hospital_A,OR_01,2025-10-20,08:15,91,18,1,Completed
+S01261,P00081,Cardiology,Hospital_B,OR_02,2025-04-08,07:30,85,26,1,Completed
+S01262,P00114,Orthopedics,Hospital_C,OR_07,2025-12-04,09:15,70,32,0,Cancelled
+S01263,P00153,General Surgery,Hospital_A,OR_01,2025-06-12,16:30,146,40,0,Completed
+S01264,P00173,General Surgery,Hospital_B,OR_04,2025-10-28,15:15,150,19,0,Completed
+S01265,P00074,General Surgery,Hospital_C,OR_02,2025-03-29,17:30,107,43,0,Completed
+S01266,P00861,Urology,Hospital_C,OR_05,2025-01-14,12:30,185,0,0,Completed
+S01267,P00722,General Surgery,Hospital_A,OR_06,2025-01-21,13:00,142,9,0,Completed
+S01268,P00457,General Surgery,Hospital_B,OR_04,2025-05-17,09:30,123,0,0,Completed
+S01269,P00332,Cardiology,Hospital_C,OR_07,2025-12-14,11:45,99,12,0,Completed
+S01270,P00173,General Surgery,Hospital_C,OR_03,2025-01-18,12:00,183,55,0,Completed
+S01271,P00854,General Surgery,Hospital_B,OR_05,2025-05-15,14:30,116,65,0,Completed
+S01272,P00718,Cardiology,Hospital_C,OR_03,2025-02-09,11:45,121,44,1,Completed
+S01273,P00677,Orthopedics,Hospital_B,OR_05,2025-12-07,10:00,93,17,0,Completed
+S01274,P00424,Gynecology,Hospital_A,OR_01,2025-09-04,08:45,94,24,0,Completed
+S01275,P00025,ENT,Hospital_B,OR_03,2025-10-06,11:15,37,37,0,Completed
+S01276,P00574,General Surgery,Hospital_B,OR_06,2025-09-18,10:30,124,12,1,Completed
+S01277,P00439,ENT,Hospital_C,OR_07,2025-08-28,13:45,49,18,0,Completed
+S01278,P00268,ENT,Hospital_C,OR_03,2025-10-10,16:45,81,54,0,Completed
+S01279,P00284,Urology,Hospital_B,OR_03,2025-01-03,10:30,86,9,0,Completed
+S01280,P00053,Gynecology,Hospital_C,OR_03,2025-11-12,10:30,77,27,1,Completed
+S01281,P00784,Gynecology,Hospital_A,OR_03,2025-09-28,15:15,64,28,0,Completed
+S01282,P00149,Gynecology,Hospital_C,OR_08,2025-09-27,16:15,80,33,0,Completed
+S01283,P00731,Gynecology,Hospital_A,OR_06,2025-05-24,17:45,174,17,0,Completed
+S01284,P00875,General Surgery,Hospital_B,OR_04,2025-10-20,07:15,161,29,0,Completed
+S01285,P00042,ENT,Hospital_C,OR_04,2025-05-20,11:45,80,51,1,Completed
+S01286,P00561,Gynecology,Hospital_B,OR_05,2025-01-18,14:00,84,75,1,Completed
+S01287,P00060,Urology,Hospital_C,OR_05,2025-11-28,16:00,145,26,0,Completed
+S01288,P00748,Orthopedics,Hospital_B,OR_04,2025-03-27,11:00,184,27,0,Completed
+S01289,P00456,General Surgery,Hospital_A,OR_08,2025-02-07,08:30,69,67,1,Completed
+S01290,P00020,Cardiology,Hospital_B,OR_03,2025-08-15,07:00,136,30,1,Cancelled
+S01291,P00695,Cardiology,Hospital_A,OR_04,2025-03-27,15:15,70,4,0,Completed
+S01292,P00689,Orthopedics,Hospital_B,OR_01,2025-11-10,14:45,184,33,0,Completed
+S01293,P00832,Orthopedics,Hospital_B,OR_04,2025-06-11,07:45,263,47,0,Completed
+S01294,P00436,Orthopedics,Hospital_A,OR_07,2025-01-02,08:45,124,46,1,Completed
+S01295,P00839,Cardiology,Hospital_B,OR_08,2025-12-14,10:00,62,26,0,Completed
+S01296,P00599,Orthopedics,Hospital_A,OR_04,2025-07-07,09:15,151,2,0,Completed
+S01297,P00473,ENT,Hospital_A,OR_02,2025-04-06,15:30,50,27,0,Completed
+S01298,P00323,General Surgery,Hospital_B,OR_06,2025-09-05,15:00,74,50,0,Completed
+S01299,P00264,Orthopedics,Hospital_C,OR_06,2025-07-13,17:15,152,6,0,Completed
+S01300,P00559,Orthopedics,Hospital_A,OR_08,2025-01-11,08:45,132,24,0,Completed
+S01301,P00665,Cardiology,Hospital_A,OR_05,2025-10-05,15:00,116,21,0,Completed
+S01302,P00033,Cardiology,Hospital_A,OR_01,2025-05-27,11:45,109,15,0,Completed
+S01303,P00371,Gynecology,Hospital_B,OR_08,2025-09-13,14:00,89,32,0,Completed
+S01304,P00041,ENT,Hospital_A,OR_06,2025-11-23,14:00,60,36,0,Completed
+S01305,P00357,Orthopedics,Hospital_B,OR_07,2025-08-11,10:00,79,36,0,Completed
+S01306,P00719,Gynecology,Hospital_C,OR_01,2025-09-03,14:45,75,10,0,Completed
+S01307,P00622,General Surgery,Hospital_A,OR_04,2025-04-03,07:30,108,0,0,Completed
+S01308,P00112,Orthopedics,Hospital_C,OR_04,2025-03-28,09:45,112,33,0,Completed
+S01309,P00645,Cardiology,Hospital_B,OR_03,2025-06-01,08:15,82,19,0,Completed
+S01310,P00013,General Surgery,Hospital_B,OR_07,2025-11-08,09:45,138,61,0,Cancelled
+S01311,P00012,Gynecology,Hospital_B,OR_02,2025-07-11,07:30,30,74,1,Completed
+S01312,P00821,Gynecology,Hospital_C,OR_01,2025-05-08,08:30,72,76,1,Completed
+S01313,P00030,Urology,Hospital_B,OR_02,2025-10-12,15:45,83,11,0,Completed
+S01314,P00239,Cardiology,Hospital_C,OR_08,2025-11-08,07:45,148,38,0,Completed
+S01315,P00119,Gynecology,Hospital_A,OR_01,2025-11-26,10:30,105,44,0,Completed
+S01316,P00524,Orthopedics,Hospital_A,OR_05,2025-04-20,17:00,184,42,0,Completed
+S01317,P00470,General Surgery,Hospital_B,OR_02,2025-09-17,10:45,72,34,1,Completed
+S01318,P00755,General Surgery,Hospital_A,OR_04,2025-08-04,08:15,119,51,0,Completed
+S01319,P00888,Gynecology,Hospital_A,OR_05,2025-06-13,13:45,92,28,0,Completed
+S01320,P00671,ENT,Hospital_A,OR_01,2025-05-25,10:15,37,30,0,Completed
+S01321,P00420,General Surgery,Hospital_A,OR_02,2025-02-11,15:00,196,0,0,Completed
+S01322,P00042,Cardiology,Hospital_A,OR_05,2025-04-11,10:15,81,52,1,Completed
+S01323,P00830,Urology,Hospital_C,OR_01,2025-07-20,11:30,123,23,0,Completed
+S01324,P00505,Urology,Hospital_B,OR_04,2025-11-20,09:15,122,36,0,Completed
+S01325,P00196,Cardiology,Hospital_A,OR_05,2025-11-13,17:45,155,32,0,Completed
+S01326,P00488,Gynecology,Hospital_A,OR_02,2025-03-10,17:30,70,43,1,Completed
+S01327,P00353,Gynecology,Hospital_C,OR_02,2025-09-05,13:00,116,27,0,Completed
+S01328,P00315,Urology,Hospital_C,OR_04,2025-01-31,08:30,58,42,0,Completed
+S01329,P00408,General Surgery,Hospital_A,OR_06,2025-09-04,11:45,93,24,0,Completed
+S01330,P00678,ENT,Hospital_B,OR_01,2025-05-05,07:45,56,2,0,Completed
+S01331,P00148,General Surgery,Hospital_A,OR_03,2025-06-14,08:15,73,38,0,Completed
+S01332,P00867,Urology,Hospital_B,OR_08,2025-09-19,10:45,124,13,0,Completed
+S01333,P00057,General Surgery,Hospital_B,OR_03,2025-06-05,14:00,143,4,0,Completed
+S01334,P00133,General Surgery,Hospital_C,OR_03,2025-10-22,16:30,83,10,0,Completed
+S01335,P00608,General Surgery,Hospital_B,OR_06,2025-07-14,07:45,128,33,0,Completed
+S01336,P00131,Cardiology,Hospital_C,OR_04,2025-12-31,07:15,143,26,0,Completed
+S01337,P00700,Orthopedics,Hospital_C,OR_04,2025-08-21,08:00,85,0,0,Completed
+S01338,P00661,General Surgery,Hospital_C,OR_07,2025-04-19,13:30,86,21,0,Completed
+S01339,P00387,Cardiology,Hospital_C,OR_01,2025-10-10,12:15,125,49,0,Completed
+S01340,P00409,Orthopedics,Hospital_C,OR_06,2025-05-29,12:00,92,20,0,Completed
+S01341,P00899,Urology,Hospital_A,OR_04,2025-07-14,07:00,124,25,0,Completed
+S01342,P00715,ENT,Hospital_C,OR_08,2025-02-19,07:45,77,47,0,Completed
+S01343,P00569,Gynecology,Hospital_C,OR_06,2025-02-13,13:00,46,42,0,Completed
+S01344,P00127,General Surgery,Hospital_B,OR_08,2025-07-29,13:15,51,46,0,Completed
+S01345,P00531,Orthopedics,Hospital_C,OR_02,2025-03-10,08:45,141,0,0,Completed
+S01346,P00036,ENT,Hospital_C,OR_02,2025-12-31,17:45,51,71,1,Completed
+S01347,P00227,General Surgery,Hospital_A,OR_08,2025-11-09,15:30,107,39,0,Completed
+S01348,P00628,Orthopedics,Hospital_A,OR_04,2025-09-13,15:30,161,84,1,Completed
+S01349,P00367,ENT,Hospital_C,OR_07,2025-09-26,08:00,43,14,0,Completed
+S01350,P00895,ENT,Hospital_B,OR_06,2025-08-06,16:15,41,0,0,Completed
+S01351,P00845,Orthopedics,Hospital_C,OR_04,2025-01-23,15:00,227,28,0,Completed
+S01352,P00086,Gynecology,Hospital_B,OR_01,2025-05-24,11:00,97,23,0,Completed
+S01353,P00795,Cardiology,Hospital_B,OR_01,2025-06-30,09:00,119,40,0,Cancelled
+S01354,P00778,Urology,Hospital_A,OR_06,2025-12-01,09:30,74,47,0,Completed
+S01355,P00096,General Surgery,Hospital_A,OR_01,2025-03-22,07:00,78,38,1,Completed
+S01356,P00347,General Surgery,Hospital_A,OR_01,2025-07-01,14:00,60,24,0,Completed
+S01357,P00853,Gynecology,Hospital_B,OR_02,2025-05-06,13:45,119,49,1,Completed
+S01358,P00016,General Surgery,Hospital_A,OR_08,2025-02-19,15:00,71,23,0,Completed
+S01359,P00053,Gynecology,Hospital_C,OR_06,2025-02-07,08:30,129,22,0,Completed
+S01360,P00459,Orthopedics,Hospital_A,OR_06,2025-05-14,10:15,103,47,0,Completed
+S01361,P00857,ENT,Hospital_C,OR_06,2025-01-31,12:30,47,51,0,Completed
+S01362,P00251,Urology,Hospital_A,OR_05,2025-01-25,11:00,89,60,1,Completed
+S01363,P00695,Cardiology,Hospital_A,OR_03,2025-05-09,08:00,52,37,1,Completed
+S01364,P00624,Urology,Hospital_B,OR_04,2025-03-15,09:45,100,1,1,Completed
+S01365,P00132,Orthopedics,Hospital_C,OR_05,2025-07-22,17:15,112,37,1,Cancelled
+S01366,P00259,Cardiology,Hospital_C,OR_08,2025-01-07,07:00,192,14,0,Completed
+S01367,P00562,General Surgery,Hospital_B,OR_08,2025-04-21,15:15,46,26,0,Completed
+S01368,P00434,Urology,Hospital_B,OR_06,2025-06-15,16:30,163,16,0,Completed
+S01369,P00214,Urology,Hospital_C,OR_07,2025-12-18,16:00,143,28,0,Completed
+S01370,P00181,ENT,Hospital_C,OR_07,2025-08-20,16:30,113,9,0,Completed
+S01371,P00501,Urology,Hospital_C,OR_06,2025-11-18,11:30,103,5,0,Completed
+S01372,P00745,ENT,Hospital_A,OR_07,2025-05-06,10:30,103,50,0,Completed
+S01373,P00372,General Surgery,Hospital_B,OR_01,2025-06-14,15:45,54,11,0,Completed
+S01374,P00832,ENT,Hospital_C,OR_01,2025-06-03,17:15,92,28,0,Completed
+S01375,P00600,Cardiology,Hospital_B,OR_04,2025-11-20,15:45,104,45,0,Completed
+S01376,P00363,Orthopedics,Hospital_A,OR_01,2025-12-17,07:15,64,44,0,Completed
+S01377,P00636,Cardiology,Hospital_B,OR_03,2025-12-18,14:15,91,42,0,Completed
+S01378,P00404,Orthopedics,Hospital_A,OR_02,2025-10-02,08:30,120,33,0,Completed
+S01379,P00681,Orthopedics,Hospital_B,OR_08,2025-07-03,11:30,88,41,0,Completed
+S01380,P00884,Orthopedics,Hospital_B,OR_06,2025-07-17,07:00,138,53,0,Completed
+S01381,P00709,General Surgery,Hospital_C,OR_01,2025-12-24,13:45,48,36,0,Completed
+S01382,P00128,Cardiology,Hospital_C,OR_05,2025-04-14,14:45,62,0,0,Completed
+S01383,P00065,ENT,Hospital_C,OR_06,2025-05-07,16:15,118,18,0,Completed
+S01384,P00727,Gynecology,Hospital_C,OR_03,2025-11-24,08:30,120,41,0,Completed
+S01385,P00762,Cardiology,Hospital_A,OR_08,2025-05-22,13:45,94,17,0,Completed
+S01386,P00510,Orthopedics,Hospital_C,OR_08,2025-03-27,12:45,120,57,0,Completed
+S01387,P00221,Cardiology,Hospital_B,OR_08,2025-07-24,16:30,206,27,0,Completed
+S01388,P00792,General Surgery,Hospital_C,OR_01,2025-04-29,13:00,111,30,0,Completed
+S01389,P00404,Urology,Hospital_A,OR_04,2025-11-22,15:30,111,48,0,Completed
+S01390,P00263,General Surgery,Hospital_B,OR_07,2025-11-28,16:00,144,25,0,Completed
+S01391,P00330,Gynecology,Hospital_A,OR_04,2025-04-22,08:30,64,31,0,Completed
+S01392,P00267,Urology,Hospital_B,OR_04,2025-07-13,12:30,106,44,0,Completed
+S01393,P00254,Cardiology,Hospital_A,OR_03,2025-12-26,11:30,139,1,0,Completed
+S01394,P00293,Urology,Hospital_A,OR_04,2025-09-28,14:00,95,23,0,Completed
+S01395,P00607,Orthopedics,Hospital_A,OR_06,2025-03-20,15:15,103,43,0,Completed
+S01396,P00015,ENT,Hospital_A,OR_01,2025-08-04,13:30,72,29,0,Completed
+S01397,P00327,Gynecology,Hospital_C,OR_07,2025-08-15,15:15,86,54,0,Completed
+S01398,P00153,Urology,Hospital_C,OR_06,2025-08-27,07:00,70,0,0,Completed
+S01399,P00583,Gynecology,Hospital_A,OR_02,2025-01-10,17:00,115,0,0,Completed
+S01400,P00895,Urology,Hospital_C,OR_07,2025-04-20,09:45,72,42,0,Completed
+S01401,P00709,ENT,Hospital_B,OR_05,2025-11-08,09:15,64,44,0,Completed
+S01402,P00224,Orthopedics,Hospital_A,OR_03,2025-03-30,11:30,107,25,0,Completed
+S01403,P00462,Urology,Hospital_C,OR_04,2025-04-20,13:30,120,35,0,Completed
+S01404,P00018,Urology,Hospital_A,OR_05,2025-04-28,12:45,47,41,0,Completed
+S01405,P00372,Cardiology,Hospital_A,OR_02,2025-03-06,13:30,196,13,0,Completed
+S01406,P00251,ENT,Hospital_A,OR_05,2025-02-26,16:00,54,15,0,Completed
+S01407,P00452,Orthopedics,Hospital_A,OR_06,2025-05-07,16:00,191,31,0,Completed
+S01408,P00368,Cardiology,Hospital_B,OR_03,2025-11-16,10:00,117,44,0,Completed
+S01409,P00614,General Surgery,Hospital_A,OR_04,2025-01-01,13:45,93,7,0,Completed
+S01410,P00493,General Surgery,Hospital_A,OR_05,2025-04-14,11:30,197,24,0,Completed
+S01411,P00845,Urology,Hospital_B,OR_05,2025-01-23,11:45,94,24,0,Completed
+S01412,P00062,Orthopedics,Hospital_B,OR_04,2025-07-24,17:30,192,36,0,Completed
+S01413,P00850,Orthopedics,Hospital_C,OR_08,2025-04-02,10:45,122,28,0,Completed
+S01414,P00711,Orthopedics,Hospital_A,OR_08,2025-10-17,07:45,141,18,0,Completed
+S01415,P00641,Cardiology,Hospital_B,OR_04,2025-08-02,16:30,144,50,0,Completed
+S01416,P00743,Urology,Hospital_A,OR_06,2025-10-14,13:15,145,18,0,Completed
+S01417,P00046,ENT,Hospital_C,OR_07,2025-08-20,11:00,54,23,0,Completed
+S01418,P00192,General Surgery,Hospital_A,OR_01,2025-06-10,10:30,65,0,0,Completed
+S01419,P00001,Cardiology,Hospital_C,OR_05,2025-11-11,10:45,110,15,0,Completed
+S01420,P00718,Cardiology,Hospital_C,OR_07,2025-06-23,16:30,145,37,0,Completed
+S01421,P00319,Gynecology,Hospital_A,OR_01,2025-12-13,10:15,78,34,0,Completed
+S01422,P00325,Cardiology,Hospital_A,OR_03,2025-12-30,13:30,183,39,0,Completed
+S01423,P00549,Orthopedics,Hospital_A,OR_07,2025-08-03,08:15,197,38,0,Completed
+S01424,P00381,Cardiology,Hospital_B,OR_08,2025-09-04,11:15,97,66,0,Completed
+S01425,P00573,Gynecology,Hospital_B,OR_08,2025-04-04,09:45,64,15,0,Completed
+S01426,P00842,Cardiology,Hospital_B,OR_05,2025-10-25,11:30,81,0,0,Completed
+S01427,P00299,Cardiology,Hospital_B,OR_01,2025-09-03,07:15,303,9,0,Completed
+S01428,P00802,Urology,Hospital_C,OR_01,2025-11-26,09:15,118,27,1,Completed
+S01429,P00479,Urology,Hospital_B,OR_07,2025-04-08,16:30,126,10,0,Completed
+S01430,P00338,Orthopedics,Hospital_A,OR_06,2025-10-15,16:15,72,30,0,Completed
+S01431,P00827,Urology,Hospital_A,OR_02,2025-06-21,15:00,105,51,0,Completed
+S01432,P00439,Urology,Hospital_C,OR_02,2025-03-09,15:30,127,56,0,Completed
+S01433,P00115,General Surgery,Hospital_A,OR_02,2025-03-04,07:30,86,37,0,Completed
+S01434,P00258,Gynecology,Hospital_A,OR_08,2025-07-25,12:00,128,67,0,Completed
+S01435,P00761,Orthopedics,Hospital_A,OR_07,2025-04-27,16:30,289,22,0,Completed
+S01436,P00464,Gynecology,Hospital_B,OR_08,2025-02-07,13:30,59,0,0,Completed
+S01437,P00504,General Surgery,Hospital_A,OR_01,2025-06-05,07:15,64,59,1,Completed
+S01438,P00614,Gynecology,Hospital_B,OR_06,2025-08-27,14:15,61,0,0,Completed
+S01439,P00175,Orthopedics,Hospital_C,OR_08,2025-04-27,16:15,221,14,0,Completed
+S01440,P00084,Cardiology,Hospital_C,OR_05,2025-12-15,12:15,208,49,1,Completed
+S01441,P00396,ENT,Hospital_B,OR_07,2025-10-12,07:45,66,26,0,Completed
+S01442,P00827,Orthopedics,Hospital_C,OR_05,2025-07-07,08:15,122,25,0,Completed
+S01443,P00115,Urology,Hospital_B,OR_01,2025-12-08,16:45,77,7,0,Completed
+S01444,P00647,ENT,Hospital_C,OR_04,2025-06-08,09:15,98,28,0,Completed
+S01445,P00881,Urology,Hospital_A,OR_03,2025-02-20,13:30,91,46,0,Completed
+S01446,P00087,General Surgery,Hospital_C,OR_01,2025-01-14,09:30,86,40,1,Cancelled
+S01447,P00120,Urology,Hospital_A,OR_05,2025-12-09,16:45,132,13,0,Completed
+S01448,P00782,General Surgery,Hospital_A,OR_08,2025-12-17,16:45,88,6,0,Completed
+S01449,P00098,Orthopedics,Hospital_A,OR_01,2025-09-27,16:30,110,13,0,Completed
+S01450,P00669,Urology,Hospital_B,OR_03,2025-02-07,17:15,105,35,0,Completed
+S01451,P00717,Gynecology,Hospital_B,OR_06,2025-04-18,14:45,115,34,0,Completed
+S01452,P00282,Cardiology,Hospital_A,OR_03,2025-01-15,07:45,262,14,0,Completed
+S01453,P00263,Orthopedics,Hospital_C,OR_01,2025-01-19,16:45,150,0,1,Completed
+S01454,P00469,Urology,Hospital_A,OR_02,2025-03-31,15:00,142,36,0,Completed
+S01455,P00456,Gynecology,Hospital_B,OR_01,2025-07-28,10:00,79,12,0,Completed
+S01456,P00774,Cardiology,Hospital_B,OR_08,2025-01-24,13:15,107,40,0,Completed
+S01457,P00533,ENT,Hospital_B,OR_04,2025-12-26,12:30,90,14,0,Completed
+S01458,P00871,General Surgery,Hospital_C,OR_08,2025-06-16,16:00,101,22,1,Completed
+S01459,P00216,General Surgery,Hospital_C,OR_06,2025-04-07,17:15,55,31,0,Completed
+S01460,P00253,Gynecology,Hospital_C,OR_03,2025-07-08,15:30,75,70,0,Completed
+S01461,P00217,ENT,Hospital_C,OR_08,2025-10-16,11:00,68,41,0,Completed
+S01462,P00585,Orthopedics,Hospital_C,OR_03,2025-04-25,09:30,99,30,0,Completed
+S01463,P00031,Orthopedics,Hospital_B,OR_02,2025-01-18,10:00,211,34,0,Completed
+S01464,P00774,General Surgery,Hospital_B,OR_07,2025-01-19,07:45,114,0,0,Completed
+S01465,P00694,Urology,Hospital_A,OR_05,2025-11-07,11:15,177,8,0,Completed
+S01466,P00889,General Surgery,Hospital_C,OR_04,2025-02-10,11:30,105,0,0,Completed
+S01467,P00862,Cardiology,Hospital_C,OR_05,2025-08-20,12:30,144,59,0,Completed
+S01468,P00064,ENT,Hospital_C,OR_08,2025-05-21,10:15,49,55,0,Completed
+S01469,P00673,General Surgery,Hospital_C,OR_03,2025-10-11,16:15,95,35,0,Cancelled
+S01470,P00453,Cardiology,Hospital_C,OR_08,2025-01-23,17:45,141,42,1,Completed
+S01471,P00662,Cardiology,Hospital_C,OR_08,2025-11-24,14:30,83,0,0,Completed
+S01472,P00786,Urology,Hospital_A,OR_07,2025-09-12,16:00,86,24,0,Completed
+S01473,P00525,Orthopedics,Hospital_A,OR_02,2025-06-13,12:30,106,60,0,Completed
+S01474,P00003,Orthopedics,Hospital_B,OR_01,2025-03-17,08:00,140,30,0,Completed
+S01475,P00778,General Surgery,Hospital_B,OR_01,2025-12-23,07:15,113,18,0,Completed
+S01476,P00394,Urology,Hospital_C,OR_06,2025-04-21,12:15,84,0,0,Completed
+S01477,P00413,Urology,Hospital_C,OR_04,2025-06-29,07:15,125,53,0,Completed
+S01478,P00526,General Surgery,Hospital_C,OR_08,2025-05-24,16:00,89,27,0,Completed
+S01479,P00820,Orthopedics,Hospital_C,OR_01,2025-03-26,15:15,40,0,0,Completed
+S01480,P00474,ENT,Hospital_A,OR_03,2025-06-02,07:00,58,11,0,Completed
+S01481,P00187,General Surgery,Hospital_B,OR_03,2025-02-25,07:15,143,5,0,Cancelled
+S01482,P00659,Orthopedics,Hospital_A,OR_08,2025-01-01,12:30,63,26,0,Completed
+S01483,P00570,Cardiology,Hospital_B,OR_01,2025-04-16,07:30,146,32,0,Completed
+S01484,P00059,Orthopedics,Hospital_B,OR_04,2025-02-10,15:00,219,19,0,Completed
+S01485,P00479,Orthopedics,Hospital_C,OR_07,2025-06-01,14:00,90,42,0,Completed
+S01486,P00707,Cardiology,Hospital_A,OR_08,2025-11-11,11:30,140,29,0,Completed
+S01487,P00795,General Surgery,Hospital_B,OR_08,2025-03-01,16:30,58,47,0,Completed
+S01488,P00255,Cardiology,Hospital_C,OR_06,2025-01-01,11:45,260,22,0,Completed
+S01489,P00470,Gynecology,Hospital_B,OR_02,2025-02-10,09:00,82,83,0,Completed
+S01490,P00741,Cardiology,Hospital_A,OR_01,2025-07-05,12:00,143,18,0,Completed
+S01491,P00525,General Surgery,Hospital_A,OR_04,2025-04-11,07:15,159,12,0,Completed
+S01492,P00378,Urology,Hospital_B,OR_04,2025-06-28,08:30,135,10,0,Completed
+S01493,P00166,General Surgery,Hospital_B,OR_05,2025-01-11,13:15,68,36,1,Completed
+S01494,P00039,Urology,Hospital_C,OR_01,2025-05-02,12:00,82,0,0,Completed
+S01495,P00621,Orthopedics,Hospital_B,OR_06,2025-05-30,11:00,145,33,0,Completed
+S01496,P00867,Urology,Hospital_B,OR_04,2025-06-07,10:30,83,0,0,Completed
+S01497,P00541,General Surgery,Hospital_B,OR_01,2025-07-21,17:15,42,31,0,Completed
+S01498,P00702,General Surgery,Hospital_A,OR_08,2025-10-12,09:30,93,4,0,Completed
+S01499,P00609,Cardiology,Hospital_A,OR_03,2025-06-20,17:15,80,21,0,Completed
+S01500,P00313,General Surgery,Hospital_B,OR_02,2025-11-04,16:15,176,39,0,Completed
+S01501,P00471,General Surgery,Hospital_C,OR_04,2025-07-13,14:00,102,69,0,Completed
+S01502,P00243,Gynecology,Hospital_B,OR_08,2025-04-06,09:45,60,9,0,Completed
+S01503,P00201,Urology,Hospital_A,OR_07,2025-03-25,11:00,81,37,1,Completed
+S01504,P00530,General Surgery,Hospital_C,OR_01,2025-04-28,15:00,46,15,0,Completed
+S01505,P00581,ENT,Hospital_A,OR_06,2025-08-07,08:45,46,12,0,Completed
+S01506,P00888,Urology,Hospital_C,OR_06,2025-03-30,10:00,154,15,0,Completed
+S01507,P00213,Urology,Hospital_C,OR_08,2025-11-30,17:15,245,43,0,Completed
+S01508,P00261,Gynecology,Hospital_C,OR_08,2025-06-25,13:15,112,19,0,Completed
+S01509,P00150,Gynecology,Hospital_A,OR_06,2025-11-12,13:30,82,80,1,Completed
+S01510,P00853,Cardiology,Hospital_A,OR_06,2025-09-07,15:15,119,35,0,Completed
+S01511,P00703,Gynecology,Hospital_B,OR_03,2025-05-02,13:45,59,10,0,Completed
+S01512,P00298,ENT,Hospital_C,OR_08,2025-03-25,16:30,153,21,0,Completed
+S01513,P00872,General Surgery,Hospital_C,OR_08,2025-09-29,11:30,88,14,0,Completed
+S01514,P00633,Orthopedics,Hospital_B,OR_08,2025-05-01,17:00,268,42,0,Completed
+S01515,P00429,General Surgery,Hospital_A,OR_08,2025-04-01,14:45,161,11,1,Completed
+S01516,P00344,ENT,Hospital_C,OR_06,2025-12-06,12:45,36,4,0,Completed
+S01517,P00512,Cardiology,Hospital_C,OR_08,2025-06-26,11:45,109,17,0,Completed
+S01518,P00077,Gynecology,Hospital_B,OR_07,2025-01-18,14:00,66,40,0,Completed
+S01519,P00155,Urology,Hospital_B,OR_02,2025-06-30,16:30,102,50,0,Completed
+S01520,P00842,ENT,Hospital_A,OR_01,2025-06-18,09:30,68,53,0,Completed
+S01521,P00186,General Surgery,Hospital_C,OR_08,2025-11-12,12:45,297,38,0,Completed
+S01522,P00148,Urology,Hospital_A,OR_04,2025-09-17,10:15,70,27,0,Completed
+S01523,P00774,ENT,Hospital_C,OR_07,2025-03-11,07:45,76,42,0,Completed
+S01524,P00850,General Surgery,Hospital_C,OR_03,2025-02-24,17:30,120,7,0,Completed
+S01525,P00736,Urology,Hospital_C,OR_03,2025-08-09,11:45,105,0,0,Completed
+S01526,P00093,Orthopedics,Hospital_C,OR_07,2025-01-18,09:30,125,36,0,Completed
+S01527,P00755,Gynecology,Hospital_C,OR_05,2025-04-27,13:45,57,10,0,Completed
+S01528,P00240,Cardiology,Hospital_A,OR_06,2025-02-20,17:15,146,27,0,Completed
+S01529,P00010,Orthopedics,Hospital_B,OR_03,2025-01-08,08:00,146,30,0,Completed
+S01530,P00828,General Surgery,Hospital_B,OR_05,2025-12-02,15:15,108,32,0,Completed
+S01531,P00241,General Surgery,Hospital_C,OR_04,2025-02-02,08:45,118,45,0,Completed
+S01532,P00593,General Surgery,Hospital_C,OR_08,2025-01-04,14:00,162,43,0,Completed
+S01533,P00067,Gynecology,Hospital_B,OR_04,2025-12-07,14:30,121,32,0,Cancelled
+S01534,P00171,Orthopedics,Hospital_B,OR_01,2025-03-10,17:45,123,20,0,Completed
+S01535,P00792,General Surgery,Hospital_A,OR_06,2025-10-26,17:45,61,30,0,Completed
+S01536,P00533,Gynecology,Hospital_A,OR_08,2025-01-12,15:30,68,17,0,Completed
+S01537,P00898,Gynecology,Hospital_B,OR_08,2025-02-26,12:45,78,24,0,Completed
+S01538,P00163,Cardiology,Hospital_C,OR_01,2025-02-10,17:00,154,75,0,Completed
+S01539,P00801,ENT,Hospital_C,OR_08,2025-09-15,08:15,58,31,0,Completed
+S01540,P00787,Orthopedics,Hospital_B,OR_03,2025-08-15,10:30,84,36,0,Completed
+S01541,P00831,Urology,Hospital_A,OR_07,2025-06-23,10:45,67,15,0,Completed
+S01542,P00045,General Surgery,Hospital_C,OR_06,2025-03-30,16:15,51,46,0,Completed
+S01543,P00094,Gynecology,Hospital_B,OR_08,2025-02-02,15:00,78,42,0,Completed
+S01544,P00477,ENT,Hospital_B,OR_03,2025-07-27,15:30,40,42,0,Completed
+S01545,P00105,Urology,Hospital_B,OR_05,2025-03-26,14:15,72,32,0,Completed
+S01546,P00058,Cardiology,Hospital_C,OR_06,2025-08-04,08:45,121,47,0,Completed
+S01547,P00730,Gynecology,Hospital_A,OR_02,2025-09-08,08:15,51,51,0,Completed
+S01548,P00625,Orthopedics,Hospital_A,OR_07,2025-11-07,08:45,139,33,0,Completed
+S01549,P00759,Gynecology,Hospital_A,OR_02,2025-06-30,13:30,113,26,0,Completed
+S01550,P00842,Urology,Hospital_C,OR_07,2025-01-02,10:45,85,44,0,Completed
+S01551,P00129,ENT,Hospital_A,OR_02,2025-04-13,09:30,59,12,0,Completed
+S01552,P00748,Cardiology,Hospital_A,OR_02,2025-11-08,17:15,172,15,0,Completed
+S01553,P00040,General Surgery,Hospital_B,OR_04,2025-07-14,14:15,72,27,0,Completed
+S01554,P00335,Gynecology,Hospital_C,OR_02,2025-08-14,17:45,63,0,0,Completed
+S01555,P00268,General Surgery,Hospital_B,OR_01,2025-06-17,10:00,150,43,0,Completed
+S01556,P00213,Orthopedics,Hospital_C,OR_01,2025-03-01,07:30,168,11,0,Completed
+S01557,P00646,Orthopedics,Hospital_C,OR_03,2025-11-24,17:00,151,20,0,Completed
+S01558,P00109,Gynecology,Hospital_B,OR_04,2025-10-10,15:45,121,24,0,Completed
+S01559,P00728,General Surgery,Hospital_B,OR_01,2025-12-30,12:00,45,29,0,Completed
+S01560,P00786,General Surgery,Hospital_B,OR_02,2025-11-09,14:30,159,22,0,Completed
+S01561,P00599,General Surgery,Hospital_C,OR_05,2025-04-17,15:30,110,27,0,Completed
+S01562,P00073,Urology,Hospital_A,OR_03,2025-04-03,07:00,154,27,0,Completed
+S01563,P00537,Gynecology,Hospital_C,OR_07,2025-04-01,11:15,98,32,1,Completed
+S01564,P00566,General Surgery,Hospital_B,OR_07,2025-12-02,10:45,97,26,1,Cancelled
+S01565,P00336,General Surgery,Hospital_C,OR_01,2025-07-23,10:30,86,47,0,Completed
+S01566,P00331,Cardiology,Hospital_B,OR_08,2025-06-15,10:45,161,0,0,Completed
+S01567,P00422,Orthopedics,Hospital_C,OR_06,2025-12-20,17:45,107,24,0,Completed
+S01568,P00896,Gynecology,Hospital_A,OR_07,2025-08-09,15:30,118,20,0,Completed
+S01569,P00004,Orthopedics,Hospital_A,OR_04,2025-11-28,13:30,66,36,0,Completed
+S01570,P00458,ENT,Hospital_A,OR_01,2025-12-26,07:45,57,2,0,Completed
+S01571,P00285,Orthopedics,Hospital_C,OR_08,2025-01-29,17:30,261,19,0,Completed
+S01572,P00494,Gynecology,Hospital_C,OR_05,2025-05-12,16:15,67,26,0,Completed
+S01573,P00004,General Surgery,Hospital_C,OR_01,2025-09-25,08:45,87,47,0,Completed
+S01574,P00826,ENT,Hospital_A,OR_02,2025-10-24,12:45,50,34,0,Completed
+S01575,P00411,ENT,Hospital_A,OR_02,2025-02-24,09:15,80,7,0,Completed
+S01576,P00872,Gynecology,Hospital_B,OR_04,2025-04-27,14:00,64,31,1,Completed
+S01577,P00139,Cardiology,Hospital_C,OR_04,2025-07-20,17:30,130,44,0,Completed
+S01578,P00525,General Surgery,Hospital_A,OR_04,2025-10-19,08:30,131,6,0,Completed
+S01579,P00612,Urology,Hospital_B,OR_07,2025-02-11,16:15,81,27,0,Completed
+S01580,P00716,Gynecology,Hospital_B,OR_08,2025-08-08,13:30,115,28,0,Completed
+S01581,P00009,General Surgery,Hospital_B,OR_06,2025-04-19,08:30,130,21,0,Completed
+S01582,P00571,Cardiology,Hospital_B,OR_06,2025-03-20,13:15,209,77,0,Completed
+S01583,P00133,Cardiology,Hospital_B,OR_07,2025-07-08,10:30,148,33,1,Completed
+S01584,P00385,Urology,Hospital_C,OR_03,2025-06-01,15:15,360,36,0,Completed
+S01585,P00048,Gynecology,Hospital_A,OR_05,2025-08-21,08:45,127,14,0,Completed
+S01586,P00052,Gynecology,Hospital_B,OR_06,2025-04-26,08:00,96,37,0,Completed
+S01587,P00689,Gynecology,Hospital_A,OR_03,2025-10-28,10:45,61,56,1,Completed
+S01588,P00646,Orthopedics,Hospital_A,OR_08,2025-01-29,15:15,116,17,0,Cancelled
+S01589,P00805,Orthopedics,Hospital_B,OR_02,2025-11-11,12:45,206,39,1,Completed
+S01590,P00630,General Surgery,Hospital_B,OR_01,2025-01-11,14:45,182,12,0,Completed
+S01591,P00536,Urology,Hospital_A,OR_03,2025-09-26,07:00,184,7,0,Completed
+S01592,P00105,Orthopedics,Hospital_A,OR_07,2025-05-07,08:45,162,47,0,Completed
+S01593,P00688,Orthopedics,Hospital_C,OR_03,2025-05-20,10:15,74,18,0,Completed
+S01594,P00207,Orthopedics,Hospital_C,OR_02,2025-01-07,13:30,144,0,0,Completed
+S01595,P00096,General Surgery,Hospital_C,OR_07,2025-09-14,07:45,59,72,1,Completed
+S01596,P00659,Gynecology,Hospital_A,OR_02,2025-03-02,11:45,48,14,0,Completed
+S01597,P00529,General Surgery,Hospital_A,OR_02,2025-08-29,15:30,104,24,0,Completed
+S01598,P00135,General Surgery,Hospital_A,OR_08,2025-09-22,14:45,116,58,0,Completed
+S01599,P00494,Urology,Hospital_A,OR_03,2025-11-05,10:15,148,37,1,Completed
+S01600,P00622,Orthopedics,Hospital_B,OR_01,2025-09-16,14:00,145,37,1,Completed
+S01601,P00449,Orthopedics,Hospital_B,OR_04,2025-04-21,15:00,147,18,1,Completed
+S01602,P00646,Orthopedics,Hospital_A,OR_06,2025-09-27,16:15,83,0,0,Completed
+S01603,P00454,Urology,Hospital_B,OR_07,2025-10-29,07:30,101,37,1,Completed
+S01604,P00318,Orthopedics,Hospital_B,OR_01,2025-04-26,10:15,68,35,0,Completed
+S01605,P00201,Urology,Hospital_A,OR_03,2025-02-15,12:30,49,33,0,Completed
+S01606,P00233,ENT,Hospital_B,OR_05,2025-11-21,08:00,93,19,0,Completed
+S01607,P00728,Gynecology,Hospital_B,OR_06,2025-02-23,12:15,64,28,0,Completed
+S01608,P00336,Orthopedics,Hospital_C,OR_05,2025-08-05,13:30,167,0,0,Completed
+S01609,P00644,Urology,Hospital_A,OR_03,2025-03-28,13:00,160,36,0,Completed
+S01610,P00323,Cardiology,Hospital_A,OR_07,2025-02-15,17:30,111,31,0,Completed
+S01611,P00473,Orthopedics,Hospital_C,OR_01,2025-10-11,07:45,150,64,0,Completed
+S01612,P00546,Cardiology,Hospital_B,OR_07,2025-02-22,16:30,109,28,0,Completed
+S01613,P00430,Orthopedics,Hospital_B,OR_08,2025-09-02,16:45,60,11,0,Completed
+S01614,P00669,General Surgery,Hospital_C,OR_06,2025-09-10,17:45,100,27,0,Completed
+S01615,P00831,Orthopedics,Hospital_C,OR_04,2025-01-22,09:00,100,22,0,Completed
+S01616,P00775,General Surgery,Hospital_A,OR_04,2025-03-05,14:30,80,36,0,Completed
+S01617,P00829,Orthopedics,Hospital_C,OR_04,2025-10-17,13:00,254,28,0,Completed
+S01618,P00027,Cardiology,Hospital_B,OR_02,2025-07-05,17:15,78,5,0,Completed
+S01619,P00683,ENT,Hospital_B,OR_02,2025-02-14,15:30,81,0,0,Completed
+S01620,P00654,General Surgery,Hospital_C,OR_06,2025-12-28,16:30,65,33,0,Completed
+S01621,P00371,Gynecology,Hospital_A,OR_05,2025-04-07,13:45,120,53,0,Completed
+S01622,P00283,Cardiology,Hospital_C,OR_04,2025-01-02,07:30,157,29,0,Completed
+S01623,P00048,General Surgery,Hospital_B,OR_04,2025-12-04,13:45,110,43,0,Completed
+S01624,P00754,Orthopedics,Hospital_C,OR_01,2025-01-07,09:30,84,46,0,Completed
+S01625,P00756,General Surgery,Hospital_B,OR_07,2025-07-21,10:00,71,33,0,Completed
+S01626,P00069,General Surgery,Hospital_C,OR_08,2025-12-29,13:00,135,13,0,Completed
+S01627,P00524,Orthopedics,Hospital_B,OR_02,2025-07-30,08:30,235,32,0,Completed
+S01628,P00496,Orthopedics,Hospital_B,OR_03,2025-08-02,16:30,144,50,0,Completed
+S01629,P00155,Cardiology,Hospital_B,OR_06,2025-05-22,07:00,100,38,0,Completed
+S01630,P00494,General Surgery,Hospital_C,OR_01,2025-02-16,11:15,108,41,0,Completed
+S01631,P00730,General Surgery,Hospital_C,OR_01,2025-07-29,07:15,239,32,1,Completed
+S01632,P00294,General Surgery,Hospital_A,OR_08,2025-11-24,08:30,99,24,0,Completed
+S01633,P00653,Cardiology,Hospital_C,OR_02,2025-02-03,14:15,244,26,0,Completed
+S01634,P00873,Orthopedics,Hospital_B,OR_05,2025-11-18,13:00,91,39,1,Completed
+S01635,P00409,Cardiology,Hospital_A,OR_08,2025-06-01,16:00,138,49,0,Completed
+S01636,P00097,General Surgery,Hospital_C,OR_06,2025-07-15,12:15,120,0,0,Completed
+S01637,P00268,General Surgery,Hospital_A,OR_03,2025-03-02,11:30,110,41,1,Completed
+S01638,P00123,ENT,Hospital_C,OR_02,2025-08-15,14:45,52,27,0,Completed
+S01639,P00318,General Surgery,Hospital_B,OR_06,2025-03-08,13:00,70,3,0,Completed
+S01640,P00580,General Surgery,Hospital_C,OR_04,2025-04-10,12:30,138,40,0,Completed
+S01641,P00183,General Surgery,Hospital_B,OR_08,2025-09-21,16:30,149,15,0,Completed
+S01642,P00463,ENT,Hospital_A,OR_06,2025-01-19,16:30,124,22,0,Cancelled
+S01643,P00898,Gynecology,Hospital_C,OR_01,2025-06-13,13:15,169,61,0,Completed
+S01644,P00238,Gynecology,Hospital_C,OR_03,2025-08-06,09:00,89,58,1,Completed
+S01645,P00792,ENT,Hospital_A,OR_06,2025-02-18,13:45,62,38,0,Completed
+S01646,P00274,General Surgery,Hospital_A,OR_06,2025-04-18,07:45,159,35,0,Completed
+S01647,P00553,ENT,Hospital_C,OR_06,2025-05-06,16:15,92,25,0,Completed
+S01648,P00142,General Surgery,Hospital_C,OR_02,2025-08-31,10:30,65,64,0,Completed
+S01649,P00242,Gynecology,Hospital_A,OR_02,2025-12-23,16:00,57,42,0,Completed
+S01650,P00781,Orthopedics,Hospital_C,OR_02,2025-11-02,11:00,145,15,0,Completed
+S01651,P00531,Orthopedics,Hospital_A,OR_06,2025-03-11,14:00,112,3,0,Completed
+S01652,P00512,ENT,Hospital_A,OR_01,2025-01-07,10:30,69,38,0,Completed
+S01653,P00460,General Surgery,Hospital_B,OR_07,2025-01-19,15:00,143,27,0,Completed
+S01654,P00221,ENT,Hospital_C,OR_03,2025-08-06,12:00,93,2,0,Completed
+S01655,P00836,Orthopedics,Hospital_C,OR_04,2025-02-27,13:00,199,36,0,Completed
+S01656,P00354,Gynecology,Hospital_B,OR_02,2025-03-26,15:00,41,23,0,Completed
+S01657,P00011,ENT,Hospital_A,OR_04,2025-11-06,13:15,77,38,0,Completed
+S01658,P00816,General Surgery,Hospital_B,OR_07,2025-11-15,09:30,124,36,0,Completed
+S01659,P00042,ENT,Hospital_C,OR_02,2025-11-03,08:30,39,17,0,Completed
+S01660,P00798,Cardiology,Hospital_C,OR_05,2025-04-03,14:15,109,51,1,Completed
+S01661,P00240,Gynecology,Hospital_A,OR_01,2025-08-15,10:15,62,19,0,Completed
+S01662,P00063,General Surgery,Hospital_B,OR_02,2025-08-11,17:45,96,32,1,Completed
+S01663,P00199,Cardiology,Hospital_B,OR_06,2025-03-09,07:15,260,30,1,Completed
+S01664,P00589,Gynecology,Hospital_B,OR_05,2025-07-22,07:00,183,48,0,Completed
+S01665,P00491,Cardiology,Hospital_A,OR_05,2025-07-11,15:45,103,23,0,Completed
+S01666,P00138,General Surgery,Hospital_A,OR_02,2025-05-25,12:30,116,65,1,Completed
+S01667,P00270,Orthopedics,Hospital_B,OR_02,2025-10-02,11:15,148,72,1,Completed
+S01668,P00190,Urology,Hospital_A,OR_04,2025-09-05,16:15,122,27,1,Completed
+S01669,P00588,General Surgery,Hospital_B,OR_02,2025-07-14,10:00,111,0,0,Cancelled
+S01670,P00777,Gynecology,Hospital_A,OR_08,2025-09-22,09:00,95,47,0,Cancelled
+S01671,P00230,ENT,Hospital_C,OR_03,2025-10-06,15:45,133,34,1,Completed
+S01672,P00805,General Surgery,Hospital_A,OR_06,2025-07-26,11:30,144,24,1,Completed
+S01673,P00367,General Surgery,Hospital_B,OR_02,2025-04-08,09:00,63,17,0,Completed
+S01674,P00075,Gynecology,Hospital_B,OR_06,2025-10-04,12:00,115,21,0,Cancelled
+S01675,P00290,General Surgery,Hospital_B,OR_02,2025-09-19,16:15,133,51,0,Completed
+S01676,P00786,Gynecology,Hospital_B,OR_03,2025-12-25,15:15,96,43,1,Completed
+S01677,P00727,Gynecology,Hospital_B,OR_04,2025-02-24,08:30,131,51,0,Completed
+S01678,P00655,Gynecology,Hospital_C,OR_01,2025-06-03,09:15,91,37,0,Cancelled
+S01679,P00359,Orthopedics,Hospital_C,OR_01,2025-12-04,10:45,129,22,0,Completed
+S01680,P00698,Gynecology,Hospital_A,OR_07,2025-07-07,12:30,89,21,0,Completed
+S01681,P00639,Gynecology,Hospital_C,OR_03,2025-12-11,13:45,39,38,0,Completed
+S01682,P00712,General Surgery,Hospital_B,OR_05,2025-01-05,11:45,92,43,0,Completed
+S01683,P00502,Cardiology,Hospital_A,OR_06,2025-01-13,16:45,109,46,0,Completed
+S01684,P00457,ENT,Hospital_C,OR_05,2025-10-18,14:45,45,35,1,Completed
+S01685,P00870,Gynecology,Hospital_C,OR_06,2025-05-11,15:15,147,31,0,Completed
+S01686,P00852,Cardiology,Hospital_A,OR_08,2025-07-09,08:00,170,51,1,Completed
+S01687,P00483,Orthopedics,Hospital_A,OR_06,2025-06-06,13:00,119,21,0,Completed
+S01688,P00181,General Surgery,Hospital_B,OR_03,2025-05-29,09:30,77,8,0,Completed
+S01689,P00368,Orthopedics,Hospital_C,OR_03,2025-12-09,10:30,134,13,0,Completed
+S01690,P00454,General Surgery,Hospital_A,OR_07,2025-02-04,17:00,138,24,0,Completed
+S01691,P00609,ENT,Hospital_B,OR_04,2025-10-09,14:45,51,40,0,Completed
+S01692,P00287,General Surgery,Hospital_B,OR_05,2025-11-21,08:45,95,51,0,Completed
+S01693,P00041,Urology,Hospital_C,OR_07,2025-08-28,12:30,146,4,0,Cancelled
+S01694,P00740,General Surgery,Hospital_C,OR_02,2025-05-25,07:15,46,17,0,Completed
+S01695,P00854,Orthopedics,Hospital_C,OR_02,2025-02-28,11:00,117,34,1,Completed
+S01696,P00075,Orthopedics,Hospital_A,OR_01,2025-09-07,15:30,102,42,0,Completed
+S01697,P00287,Orthopedics,Hospital_C,OR_01,2025-06-21,16:00,114,18,0,Completed
+S01698,P00390,Urology,Hospital_B,OR_05,2025-02-24,15:30,87,20,0,Completed
+S01699,P00684,ENT,Hospital_B,OR_05,2025-05-12,14:15,74,3,0,Completed
+S01700,P00696,Urology,Hospital_C,OR_03,2025-12-17,14:00,218,37,0,Completed
+S01701,P00309,General Surgery,Hospital_C,OR_02,2025-04-07,15:15,84,25,0,Completed
+S01702,P00281,Urology,Hospital_A,OR_06,2025-03-07,12:30,117,16,0,Completed
+S01703,P00365,General Surgery,Hospital_A,OR_01,2025-09-06,07:15,203,23,0,Completed
+S01704,P00217,ENT,Hospital_C,OR_06,2025-03-14,09:45,57,48,0,Completed
+S01705,P00393,Cardiology,Hospital_C,OR_08,2025-12-02,11:00,279,10,0,Completed
+S01706,P00237,Orthopedics,Hospital_B,OR_04,2025-11-10,07:45,120,13,0,Completed
+S01707,P00055,General Surgery,Hospital_A,OR_04,2025-12-25,08:00,187,63,1,Completed
+S01708,P00642,General Surgery,Hospital_A,OR_05,2025-11-30,09:00,126,29,0,Completed
+S01709,P00708,Orthopedics,Hospital_C,OR_01,2025-03-30,07:45,135,40,0,Cancelled
+S01710,P00258,ENT,Hospital_C,OR_06,2025-03-19,07:30,68,35,0,Completed
+S01711,P00361,Urology,Hospital_C,OR_03,2025-05-06,16:30,83,27,0,Completed
+S01712,P00363,ENT,Hospital_B,OR_04,2025-06-21,08:30,72,22,0,Completed
+S01713,P00020,General Surgery,Hospital_B,OR_01,2025-11-18,10:15,134,55,1,Completed
+S01714,P00491,Gynecology,Hospital_A,OR_08,2025-09-25,09:45,85,49,0,Completed
+S01715,P00413,Orthopedics,Hospital_C,OR_03,2025-08-24,13:00,106,48,0,Completed
+S01716,P00846,Cardiology,Hospital_C,OR_01,2025-11-17,11:45,127,7,0,Completed
+S01717,P00335,Orthopedics,Hospital_A,OR_07,2025-08-24,17:45,175,51,0,Completed
+S01718,P00715,Orthopedics,Hospital_B,OR_08,2025-05-19,08:45,191,22,0,Completed
+S01719,P00352,Cardiology,Hospital_B,OR_05,2025-05-31,13:30,109,14,0,Completed
+S01720,P00167,General Surgery,Hospital_C,OR_01,2025-07-08,11:30,74,25,0,Completed
+S01721,P00314,Cardiology,Hospital_C,OR_08,2025-02-02,09:30,162,43,0,Completed
+S01722,P00794,Gynecology,Hospital_A,OR_02,2025-09-28,09:15,152,38,0,Completed
+S01723,P00231,General Surgery,Hospital_C,OR_02,2025-08-27,11:45,147,23,0,Completed
+S01724,P00760,ENT,Hospital_A,OR_06,2025-09-24,13:30,44,43,0,Completed
+S01725,P00599,Cardiology,Hospital_C,OR_03,2025-07-14,10:15,127,31,0,Completed
+S01726,P00670,Urology,Hospital_C,OR_01,2025-10-13,12:45,74,18,0,Completed
+S01727,P00677,Gynecology,Hospital_A,OR_06,2025-12-13,09:00,77,15,0,Completed
+S01728,P00465,Gynecology,Hospital_C,OR_03,2025-07-28,12:45,156,35,0,Completed
+S01729,P00542,Gynecology,Hospital_A,OR_07,2025-06-12,15:45,50,39,1,Completed
+S01730,P00063,Urology,Hospital_A,OR_02,2025-02-08,11:00,57,3,0,Completed
+S01731,P00629,Gynecology,Hospital_A,OR_08,2025-10-12,14:00,62,43,0,Completed
+S01732,P00640,Orthopedics,Hospital_C,OR_06,2025-11-26,16:30,134,31,1,Completed
+S01733,P00094,General Surgery,Hospital_C,OR_02,2025-09-13,12:00,120,57,0,Completed
+S01734,P00466,Gynecology,Hospital_B,OR_05,2025-11-12,09:45,100,3,0,Completed
+S01735,P00458,General Surgery,Hospital_C,OR_08,2025-11-11,07:00,149,25,0,Completed
+S01736,P00279,Orthopedics,Hospital_B,OR_01,2025-10-19,10:00,61,15,0,Completed
+S01737,P00060,General Surgery,Hospital_B,OR_07,2025-07-03,14:00,149,22,1,Completed
+S01738,P00009,Cardiology,Hospital_C,OR_04,2025-02-06,15:45,124,19,0,Completed
+S01739,P00188,General Surgery,Hospital_B,OR_08,2025-01-02,09:30,125,72,1,Completed
+S01740,P00208,Gynecology,Hospital_B,OR_02,2025-03-16,14:45,51,31,0,Completed
+S01741,P00191,Urology,Hospital_A,OR_06,2025-06-07,15:45,105,14,0,Completed
+S01742,P00545,Urology,Hospital_B,OR_08,2025-09-29,08:30,115,0,0,Completed
+S01743,P00379,Orthopedics,Hospital_C,OR_03,2025-06-16,15:00,186,0,0,Completed
+S01744,P00101,Cardiology,Hospital_C,OR_01,2025-01-09,09:00,77,30,1,Completed
+S01745,P00076,Cardiology,Hospital_A,OR_04,2025-03-18,17:45,142,17,0,Completed
+S01746,P00590,Cardiology,Hospital_B,OR_05,2025-12-24,08:00,93,24,0,Completed
+S01747,P00841,Gynecology,Hospital_B,OR_06,2025-12-27,12:45,103,0,0,Completed
+S01748,P00737,General Surgery,Hospital_C,OR_04,2025-05-18,16:45,128,26,0,Completed
+S01749,P00682,ENT,Hospital_C,OR_08,2025-10-21,16:30,114,58,1,Completed
+S01750,P00287,General Surgery,Hospital_C,OR_05,2025-09-20,10:30,78,57,0,Completed
+S01751,P00633,Urology,Hospital_C,OR_06,2025-12-06,12:45,149,0,0,Completed
+S01752,P00074,Gynecology,Hospital_B,OR_08,2025-11-20,11:45,143,14,0,Completed
+S01753,P00155,Orthopedics,Hospital_B,OR_08,2025-08-18,08:30,64,13,0,Completed
+S01754,P00126,Urology,Hospital_B,OR_03,2025-05-25,11:15,133,43,1,Completed
+S01755,P00166,General Surgery,Hospital_B,OR_03,2025-08-17,15:15,137,6,0,Completed
+S01756,P00322,Urology,Hospital_C,OR_06,2025-04-27,07:15,95,58,0,Completed
+S01757,P00040,Gynecology,Hospital_C,OR_05,2025-05-08,17:45,54,29,0,Completed
+S01758,P00732,General Surgery,Hospital_C,OR_04,2025-08-11,13:30,136,26,0,Completed
+S01759,P00643,General Surgery,Hospital_B,OR_06,2025-07-28,09:45,60,69,1,Completed
+S01760,P00571,Urology,Hospital_A,OR_06,2025-08-01,13:00,98,28,0,Completed
+S01761,P00158,Orthopedics,Hospital_A,OR_08,2025-05-21,17:45,118,35,0,Completed
+S01762,P00781,ENT,Hospital_A,OR_03,2025-05-30,07:15,92,14,0,Completed
+S01763,P00006,Urology,Hospital_B,OR_07,2025-01-04,15:30,83,15,1,Completed
+S01764,P00894,Gynecology,Hospital_B,OR_02,2025-08-08,08:00,66,29,1,Completed
+S01765,P00654,Orthopedics,Hospital_B,OR_08,2025-07-30,17:45,125,67,0,Completed
+S01766,P00183,Gynecology,Hospital_C,OR_01,2025-12-08,15:30,125,39,0,Completed
+S01767,P00177,ENT,Hospital_B,OR_07,2025-07-04,14:15,167,33,0,Completed
+S01768,P00625,General Surgery,Hospital_C,OR_01,2025-06-20,14:15,54,10,0,Completed
+S01769,P00727,Orthopedics,Hospital_B,OR_08,2025-01-25,07:15,135,44,0,Completed
+S01770,P00420,General Surgery,Hospital_C,OR_08,2025-03-13,10:15,63,4,0,Completed
+S01771,P00055,Orthopedics,Hospital_A,OR_07,2025-05-04,12:00,177,12,1,Completed
+S01772,P00444,Urology,Hospital_A,OR_07,2025-05-18,11:15,74,18,0,Completed
+S01773,P00432,Cardiology,Hospital_C,OR_04,2025-05-13,09:15,108,63,0,Completed
+S01774,P00293,Cardiology,Hospital_C,OR_02,2025-05-24,14:15,112,62,0,Completed
+S01775,P00812,Orthopedics,Hospital_B,OR_08,2025-10-08,07:30,117,20,0,Completed
+S01776,P00308,General Surgery,Hospital_A,OR_05,2025-02-17,13:15,107,16,0,Cancelled
+S01777,P00219,Orthopedics,Hospital_A,OR_07,2025-05-02,07:00,144,0,0,Completed
+S01778,P00608,Urology,Hospital_B,OR_06,2025-03-01,07:45,105,41,1,Completed
+S01779,P00556,Gynecology,Hospital_C,OR_06,2025-04-23,10:15,51,31,0,Completed
+S01780,P00559,Orthopedics,Hospital_B,OR_03,2025-09-07,14:30,158,42,0,Completed
+S01781,P00454,Urology,Hospital_C,OR_04,2025-01-18,07:45,103,44,0,Completed
+S01782,P00287,General Surgery,Hospital_B,OR_04,2025-05-04,09:45,148,24,0,Completed
+S01783,P00232,Orthopedics,Hospital_A,OR_05,2025-01-09,16:30,92,38,0,Completed
+S01784,P00107,General Surgery,Hospital_B,OR_06,2025-12-15,08:30,52,27,1,Completed
+S01785,P00167,ENT,Hospital_B,OR_02,2025-09-23,09:45,69,38,0,Completed
+S01786,P00520,Gynecology,Hospital_A,OR_02,2025-03-30,15:45,139,19,0,Completed
+S01787,P00366,Gynecology,Hospital_C,OR_01,2025-03-14,16:00,90,36,0,Completed
+S01788,P00665,General Surgery,Hospital_A,OR_05,2025-02-06,07:30,88,35,0,Completed
+S01789,P00724,General Surgery,Hospital_C,OR_06,2025-06-22,13:45,68,29,0,Completed
+S01790,P00503,Gynecology,Hospital_C,OR_02,2025-10-03,14:45,166,42,0,Completed
+S01791,P00095,Orthopedics,Hospital_C,OR_06,2025-08-02,10:00,81,0,0,Completed
+S01792,P00004,ENT,Hospital_A,OR_01,2025-11-18,07:15,53,9,0,Completed
+S01793,P00206,Urology,Hospital_C,OR_07,2025-05-06,07:30,130,23,0,Completed
+S01794,P00254,Cardiology,Hospital_B,OR_06,2025-04-12,11:15,69,2,0,Completed
+S01795,P00067,Urology,Hospital_C,OR_06,2025-06-24,13:30,170,21,0,Completed
+S01796,P00700,ENT,Hospital_A,OR_06,2025-03-15,07:15,89,21,0,Completed
+S01797,P00331,Cardiology,Hospital_C,OR_03,2025-12-23,17:15,197,64,1,Completed
+S01798,P00668,Gynecology,Hospital_A,OR_08,2025-03-09,15:15,105,31,0,Completed
+S01799,P00188,ENT,Hospital_C,OR_06,2025-06-24,09:45,66,47,0,Completed
+S01800,P00010,Orthopedics,Hospital_A,OR_02,2025-07-10,10:45,80,45,1,Cancelled
+S01801,P00124,ENT,Hospital_C,OR_08,2025-01-21,14:45,66,18,0,Completed
+S01802,P00423,General Surgery,Hospital_C,OR_06,2025-06-20,15:45,66,30,0,Completed
+S01803,P00432,Gynecology,Hospital_B,OR_03,2025-06-15,13:45,102,41,0,Completed
+S01804,P00394,Urology,Hospital_B,OR_08,2025-04-05,07:15,143,49,0,Completed
+S01805,P00863,Gynecology,Hospital_A,OR_02,2025-02-16,11:00,149,26,0,Completed
+S01806,P00587,Cardiology,Hospital_A,OR_06,2025-01-17,16:45,161,0,0,Completed
+S01807,P00659,Gynecology,Hospital_C,OR_06,2025-01-04,15:30,121,0,0,Completed
+S01808,P00113,General Surgery,Hospital_C,OR_08,2025-06-25,13:15,85,22,0,Completed
+S01809,P00419,General Surgery,Hospital_C,OR_05,2025-02-02,14:45,79,0,1,Cancelled
+S01810,P00559,Orthopedics,Hospital_A,OR_08,2025-12-17,09:15,144,60,0,Completed
+S01811,P00526,Gynecology,Hospital_A,OR_03,2025-03-31,08:45,73,39,0,Completed
+S01812,P00852,Cardiology,Hospital_C,OR_07,2025-08-27,12:30,155,17,0,Completed
+S01813,P00428,Orthopedics,Hospital_B,OR_02,2025-09-03,09:00,80,8,0,Completed
+S01814,P00335,ENT,Hospital_A,OR_08,2025-06-30,15:45,50,47,0,Completed
+S01815,P00849,Orthopedics,Hospital_A,OR_07,2025-11-19,10:45,153,8,0,Completed
+S01816,P00304,Cardiology,Hospital_C,OR_06,2025-02-10,13:30,196,22,1,Completed
+S01817,P00513,Orthopedics,Hospital_C,OR_01,2025-03-27,08:30,83,14,0,Completed
+S01818,P00026,General Surgery,Hospital_A,OR_04,2025-04-03,08:00,123,30,0,Completed
+S01819,P00149,Gynecology,Hospital_C,OR_02,2025-02-19,10:00,69,39,0,Completed
+S01820,P00052,Cardiology,Hospital_B,OR_08,2025-04-18,17:00,141,49,0,Completed
+S01821,P00376,General Surgery,Hospital_C,OR_04,2025-04-25,16:00,163,47,0,Cancelled
+S01822,P00838,ENT,Hospital_B,OR_07,2025-10-07,16:15,95,28,0,Completed
+S01823,P00065,Urology,Hospital_C,OR_08,2025-04-21,17:30,142,46,0,Completed
+S01824,P00877,Gynecology,Hospital_B,OR_01,2025-11-16,12:00,176,16,0,Completed
+S01825,P00782,Urology,Hospital_C,OR_07,2025-10-10,11:30,80,0,0,Completed
+S01826,P00006,ENT,Hospital_C,OR_03,2025-11-26,17:15,48,16,0,Completed
+S01827,P00014,Orthopedics,Hospital_B,OR_01,2025-02-08,07:15,91,13,0,Completed
+S01828,P00810,Gynecology,Hospital_A,OR_03,2025-12-26,09:45,77,17,0,Completed
+S01829,P00527,Gynecology,Hospital_A,OR_05,2025-08-13,08:45,35,11,0,Completed
+S01830,P00157,Orthopedics,Hospital_B,OR_07,2025-12-25,08:45,111,20,0,Completed
+S01831,P00858,General Surgery,Hospital_B,OR_06,2025-05-10,11:00,77,39,0,Completed
+S01832,P00505,General Surgery,Hospital_C,OR_02,2025-12-14,13:30,128,59,0,Completed
+S01833,P00572,Gynecology,Hospital_A,OR_03,2025-08-03,16:00,97,0,0,Completed
+S01834,P00610,Urology,Hospital_C,OR_03,2025-01-27,13:30,84,5,0,Completed
+S01835,P00182,Urology,Hospital_A,OR_06,2025-05-30,11:45,131,14,0,Completed
+S01836,P00323,Orthopedics,Hospital_B,OR_05,2025-02-20,11:15,158,42,0,Completed
+S01837,P00116,General Surgery,Hospital_B,OR_01,2025-12-10,12:45,71,24,0,Completed
+S01838,P00476,Cardiology,Hospital_B,OR_01,2025-04-22,16:30,116,27,1,Completed
+S01839,P00888,Cardiology,Hospital_A,OR_01,2025-03-23,07:15,60,41,0,Completed
+S01840,P00565,ENT,Hospital_C,OR_08,2025-07-21,07:00,46,57,1,Completed
+S01841,P00623,Urology,Hospital_A,OR_05,2025-06-05,16:45,79,28,0,Completed
+S01842,P00175,ENT,Hospital_C,OR_04,2025-02-05,08:15,72,13,0,Completed
+S01843,P00488,Urology,Hospital_B,OR_07,2025-10-26,10:00,73,33,0,Completed
+S01844,P00894,ENT,Hospital_C,OR_02,2025-11-05,11:00,58,24,0,Completed
+S01845,P00080,Cardiology,Hospital_C,OR_01,2025-09-29,15:45,88,24,0,Completed
+S01846,P00184,General Surgery,Hospital_C,OR_03,2025-08-14,11:00,101,19,0,Completed
+S01847,P00648,General Surgery,Hospital_B,OR_02,2025-05-27,12:45,112,45,0,Completed
+S01848,P00010,Orthopedics,Hospital_B,OR_07,2025-07-17,08:30,140,32,0,Completed
+S01849,P00186,Orthopedics,Hospital_B,OR_07,2025-07-10,08:15,121,47,0,Completed
+S01850,P00849,General Surgery,Hospital_B,OR_06,2025-03-02,11:15,53,52,0,Completed
+S01851,P00018,ENT,Hospital_C,OR_08,2025-01-30,08:45,55,36,0,Completed
+S01852,P00386,General Surgery,Hospital_B,OR_04,2025-04-03,14:15,81,31,1,Completed
+S01853,P00297,ENT,Hospital_B,OR_02,2025-06-15,11:00,60,47,0,Completed
+S01854,P00359,Urology,Hospital_A,OR_03,2025-02-28,14:00,108,36,0,Completed
+S01855,P00232,Gynecology,Hospital_A,OR_02,2025-02-08,10:45,146,87,1,Completed
+S01856,P00248,Gynecology,Hospital_C,OR_08,2025-11-07,14:30,116,34,0,Completed
+S01857,P00684,Orthopedics,Hospital_C,OR_05,2025-05-17,09:30,82,41,0,Completed
+S01858,P00024,Gynecology,Hospital_B,OR_07,2025-08-02,07:00,110,33,0,Completed
+S01859,P00117,General Surgery,Hospital_B,OR_03,2025-07-11,15:15,121,26,0,Completed
+S01860,P00238,ENT,Hospital_A,OR_06,2025-09-26,13:45,52,35,1,Completed
+S01861,P00744,Orthopedics,Hospital_A,OR_03,2025-09-28,17:00,166,33,0,Completed
+S01862,P00354,Orthopedics,Hospital_C,OR_04,2025-04-19,13:45,113,37,0,Completed
+S01863,P00032,Gynecology,Hospital_B,OR_06,2025-11-06,09:45,50,49,0,Completed
+S01864,P00468,Gynecology,Hospital_A,OR_08,2025-05-16,13:15,101,34,0,Completed
+S01865,P00564,Cardiology,Hospital_A,OR_05,2025-11-01,15:45,152,20,0,Completed
+S01866,P00412,Gynecology,Hospital_A,OR_06,2025-05-28,08:30,78,22,0,Completed
+S01867,P00080,General Surgery,Hospital_C,OR_05,2025-02-10,17:30,94,4,0,Completed
+S01868,P00791,Gynecology,Hospital_B,OR_04,2025-10-05,13:00,65,58,0,Completed
+S01869,P00772,Orthopedics,Hospital_A,OR_08,2025-01-12,11:45,151,18,0,Completed
+S01870,P00820,Orthopedics,Hospital_C,OR_08,2025-10-09,15:15,118,57,1,Completed
+S01871,P00867,General Surgery,Hospital_C,OR_03,2025-01-16,10:45,101,33,0,Completed
+S01872,P00286,Orthopedics,Hospital_B,OR_08,2025-03-17,17:15,137,33,0,Cancelled
+S01873,P00380,Orthopedics,Hospital_A,OR_04,2025-08-09,15:15,77,26,0,Completed
+S01874,P00863,Cardiology,Hospital_A,OR_06,2025-12-10,16:45,100,14,0,Completed
+S01875,P00405,General Surgery,Hospital_C,OR_05,2025-05-30,14:15,41,11,0,Completed
+S01876,P00778,General Surgery,Hospital_B,OR_07,2025-02-14,10:00,118,59,0,Cancelled
+S01877,P00583,Cardiology,Hospital_B,OR_07,2025-03-27,07:45,88,30,0,Completed
+S01878,P00834,General Surgery,Hospital_A,OR_04,2025-11-24,14:00,100,60,1,Completed
+S01879,P00010,Gynecology,Hospital_C,OR_06,2025-09-23,13:45,98,65,1,Completed
+S01880,P00635,ENT,Hospital_C,OR_05,2025-02-06,14:45,88,21,0,Completed
+S01881,P00720,Orthopedics,Hospital_B,OR_07,2025-05-21,08:00,76,36,0,Completed
+S01882,P00179,ENT,Hospital_A,OR_02,2025-04-07,14:30,68,29,0,Completed
+S01883,P00662,General Surgery,Hospital_B,OR_06,2025-03-06,14:45,179,7,0,Completed
+S01884,P00176,General Surgery,Hospital_C,OR_05,2025-11-05,08:45,182,25,0,Completed
+S01885,P00814,Gynecology,Hospital_B,OR_04,2025-08-14,07:30,124,39,0,Completed
+S01886,P00817,Urology,Hospital_A,OR_03,2025-03-07,16:30,119,31,1,Completed
+S01887,P00004,Urology,Hospital_A,OR_06,2025-08-26,09:30,72,22,0,Completed
+S01888,P00456,General Surgery,Hospital_A,OR_03,2025-05-31,16:00,125,25,0,Completed
+S01889,P00344,Urology,Hospital_B,OR_01,2025-01-23,17:30,99,66,0,Completed
+S01890,P00801,Orthopedics,Hospital_B,OR_08,2025-06-14,07:15,148,0,0,Completed
+S01891,P00288,Orthopedics,Hospital_B,OR_04,2025-03-09,16:15,94,37,0,Completed
+S01892,P00648,General Surgery,Hospital_C,OR_02,2025-03-31,17:15,89,23,0,Completed
+S01893,P00105,ENT,Hospital_A,OR_02,2025-11-17,10:45,75,16,0,Completed
+S01894,P00192,General Surgery,Hospital_C,OR_07,2025-09-17,15:00,104,35,1,Completed
+S01895,P00886,Urology,Hospital_A,OR_03,2025-02-18,15:15,127,40,0,Completed
+S01896,P00346,Gynecology,Hospital_B,OR_03,2025-11-07,16:00,68,53,1,Completed
+S01897,P00689,Gynecology,Hospital_A,OR_04,2025-07-29,14:00,51,31,0,Completed
+S01898,P00871,Gynecology,Hospital_B,OR_01,2025-11-16,14:45,158,48,0,Completed
+S01899,P00868,Urology,Hospital_C,OR_05,2025-09-30,14:15,270,51,0,Completed
+S01900,P00018,General Surgery,Hospital_A,OR_01,2025-05-04,16:00,113,43,0,Completed
+S01901,P00210,General Surgery,Hospital_B,OR_07,2025-07-15,12:45,57,18,0,Completed
+S01902,P00643,Gynecology,Hospital_B,OR_04,2025-07-13,10:00,63,37,0,Completed
+S01903,P00834,Orthopedics,Hospital_B,OR_02,2025-09-20,11:15,146,37,0,Completed
+S01904,P00880,General Surgery,Hospital_B,OR_04,2025-04-01,15:45,158,13,0,Completed
+S01905,P00648,General Surgery,Hospital_B,OR_02,2025-05-02,10:45,60,0,0,Completed
+S01906,P00094,Orthopedics,Hospital_C,OR_03,2025-03-31,08:00,114,0,0,Completed
+S01907,P00668,General Surgery,Hospital_A,OR_02,2025-04-19,13:30,102,29,0,Cancelled
+S01908,P00245,General Surgery,Hospital_B,OR_06,2025-02-28,15:30,132,45,1,Completed
+S01909,P00727,ENT,Hospital_B,OR_08,2025-01-14,08:30,61,7,0,Completed
+S01910,P00492,Orthopedics,Hospital_C,OR_04,2025-12-10,11:15,66,47,0,Completed
+S01911,P00166,ENT,Hospital_C,OR_01,2025-01-28,10:45,89,31,0,Completed
+S01912,P00759,ENT,Hospital_C,OR_01,2025-11-21,08:30,107,52,0,Cancelled
+S01913,P00889,General Surgery,Hospital_A,OR_07,2025-01-02,07:30,92,47,1,Completed
+S01914,P00456,Gynecology,Hospital_A,OR_03,2025-10-11,08:45,99,9,0,Cancelled
+S01915,P00731,Gynecology,Hospital_B,OR_03,2025-04-30,16:45,71,36,0,Completed
+S01916,P00054,Gynecology,Hospital_B,OR_01,2025-07-08,10:45,62,40,0,Completed
+S01917,P00244,General Surgery,Hospital_A,OR_06,2025-04-14,08:15,140,30,1,Cancelled
+S01918,P00115,General Surgery,Hospital_C,OR_01,2025-06-29,08:00,110,2,0,Completed
+S01919,P00256,General Surgery,Hospital_C,OR_08,2025-06-14,11:30,114,42,1,Cancelled
+S01920,P00338,Gynecology,Hospital_B,OR_02,2025-07-13,16:00,150,10,0,Completed
+S01921,P00388,ENT,Hospital_C,OR_01,2025-05-24,11:30,47,60,1,Completed
+S01922,P00290,Gynecology,Hospital_B,OR_06,2025-07-15,09:30,69,21,0,Completed
+S01923,P00490,Gynecology,Hospital_B,OR_03,2025-10-29,13:30,90,59,0,Completed
+S01924,P00198,ENT,Hospital_C,OR_06,2025-06-08,08:00,56,0,0,Completed
+S01925,P00313,Gynecology,Hospital_A,OR_01,2025-05-12,16:45,114,30,0,Completed
+S01926,P00756,General Surgery,Hospital_A,OR_07,2025-02-18,11:30,88,66,1,Completed
+S01927,P00506,Urology,Hospital_B,OR_03,2025-05-12,12:30,72,24,1,Completed
+S01928,P00025,Orthopedics,Hospital_C,OR_07,2025-02-15,14:30,123,25,0,Completed
+S01929,P00296,General Surgery,Hospital_B,OR_08,2025-03-08,08:00,101,33,1,Completed
+S01930,P00746,Cardiology,Hospital_B,OR_05,2025-12-14,16:30,200,16,0,Completed
+S01931,P00162,ENT,Hospital_A,OR_03,2025-02-02,09:00,81,32,0,Completed
+S01932,P00829,Orthopedics,Hospital_B,OR_03,2025-06-25,09:30,143,5,0,Cancelled
+S01933,P00266,Cardiology,Hospital_A,OR_06,2025-11-01,13:00,158,26,0,Completed
+S01934,P00567,General Surgery,Hospital_A,OR_01,2025-12-14,08:00,88,37,0,Completed
+S01935,P00428,General Surgery,Hospital_C,OR_02,2025-02-23,11:00,72,24,0,Completed
+S01936,P00563,General Surgery,Hospital_B,OR_06,2025-03-01,12:00,106,10,0,Completed
+S01937,P00717,Gynecology,Hospital_A,OR_01,2025-05-16,17:45,75,47,0,Completed
+S01938,P00134,Urology,Hospital_A,OR_03,2025-07-22,10:45,200,41,0,Completed
+S01939,P00317,General Surgery,Hospital_B,OR_06,2025-12-17,12:00,158,9,0,Completed
+S01940,P00511,Orthopedics,Hospital_A,OR_03,2025-03-17,10:00,153,5,0,Completed
+S01941,P00235,General Surgery,Hospital_B,OR_08,2025-03-02,14:45,110,11,0,Completed
+S01942,P00338,General Surgery,Hospital_B,OR_08,2025-04-03,13:00,92,38,0,Completed
+S01943,P00797,Cardiology,Hospital_C,OR_01,2025-11-16,09:15,87,33,0,Completed
+S01944,P00206,Gynecology,Hospital_B,OR_02,2025-01-11,08:00,78,42,0,Completed
+S01945,P00171,Gynecology,Hospital_A,OR_08,2025-05-19,10:30,88,22,0,Completed
+S01946,P00525,Orthopedics,Hospital_B,OR_01,2025-02-13,07:45,131,11,0,Completed
+S01947,P00090,Cardiology,Hospital_B,OR_04,2025-02-27,12:00,167,45,0,Completed
+S01948,P00002,General Surgery,Hospital_A,OR_08,2025-12-01,07:45,135,30,1,Completed
+S01949,P00782,General Surgery,Hospital_A,OR_05,2025-01-01,13:45,73,31,0,Completed
+S01950,P00249,ENT,Hospital_A,OR_03,2025-04-28,15:45,54,12,1,Completed
+S01951,P00109,Urology,Hospital_C,OR_01,2025-12-01,16:45,182,30,1,Completed
+S01952,P00590,ENT,Hospital_A,OR_04,2025-08-10,16:45,94,46,0,Completed
+S01953,P00433,ENT,Hospital_C,OR_05,2025-01-27,09:30,60,15,0,Cancelled
+S01954,P00410,Gynecology,Hospital_B,OR_01,2025-06-19,17:45,82,43,0,Completed
+S01955,P00395,ENT,Hospital_C,OR_05,2025-12-21,08:00,67,0,0,Completed
+S01956,P00131,Orthopedics,Hospital_A,OR_04,2025-05-27,09:30,121,18,0,Completed
+S01957,P00772,General Surgery,Hospital_B,OR_03,2025-07-12,11:30,114,37,1,Completed
+S01958,P00002,General Surgery,Hospital_A,OR_08,2025-07-14,08:00,249,59,0,Completed
+S01959,P00435,General Surgery,Hospital_C,OR_08,2025-08-30,15:15,102,7,0,Completed
+S01960,P00244,General Surgery,Hospital_B,OR_06,2025-03-10,07:00,122,40,0,Completed
+S01961,P00577,Orthopedics,Hospital_A,OR_05,2025-11-03,10:15,63,47,0,Completed
+S01962,P00494,Gynecology,Hospital_C,OR_04,2025-12-27,16:00,71,15,0,Completed
+S01963,P00346,Urology,Hospital_C,OR_01,2025-02-22,13:15,167,33,1,Completed
+S01964,P00481,Gynecology,Hospital_C,OR_03,2025-10-26,12:15,99,31,0,Completed
+S01965,P00205,General Surgery,Hospital_C,OR_01,2025-10-26,10:30,20,1,0,Completed
+S01966,P00118,Urology,Hospital_A,OR_03,2025-09-28,13:00,136,20,0,Completed
+S01967,P00814,Orthopedics,Hospital_B,OR_04,2025-05-16,08:00,249,51,0,Completed
+S01968,P00552,General Surgery,Hospital_C,OR_05,2025-06-21,16:15,44,37,0,Completed
+S01969,P00588,Orthopedics,Hospital_B,OR_03,2025-11-03,13:15,214,25,0,Completed
+S01970,P00899,Orthopedics,Hospital_B,OR_03,2025-02-25,10:00,42,30,0,Completed
+S01971,P00813,Orthopedics,Hospital_C,OR_06,2025-10-30,11:45,171,38,0,Completed
+S01972,P00526,Urology,Hospital_B,OR_02,2025-12-03,17:15,105,54,1,Completed
+S01973,P00713,Urology,Hospital_A,OR_02,2025-09-06,12:15,43,18,0,Completed
+S01974,P00475,Gynecology,Hospital_A,OR_06,2025-05-05,17:30,101,56,0,Completed
+S01975,P00214,General Surgery,Hospital_C,OR_05,2025-07-24,17:45,147,52,0,Completed
+S01976,P00560,Urology,Hospital_A,OR_07,2025-01-19,10:15,121,52,1,Completed
+S01977,P00821,Gynecology,Hospital_B,OR_06,2025-12-07,13:00,106,13,0,Completed
+S01978,P00791,General Surgery,Hospital_B,OR_08,2025-05-05,16:30,81,10,0,Completed
+S01979,P00455,Gynecology,Hospital_B,OR_06,2025-01-21,09:15,42,22,0,Completed
+S01980,P00851,Cardiology,Hospital_A,OR_07,2025-10-17,16:15,182,29,0,Completed
+S01981,P00178,Orthopedics,Hospital_A,OR_02,2025-08-29,14:45,233,0,0,Completed
+S01982,P00037,General Surgery,Hospital_C,OR_05,2025-08-16,10:45,146,37,0,Completed
+S01983,P00363,Cardiology,Hospital_A,OR_08,2025-01-20,11:30,66,51,0,Completed
+S01984,P00185,General Surgery,Hospital_A,OR_07,2025-10-02,15:00,53,38,0,Completed
+S01985,P00861,General Surgery,Hospital_C,OR_04,2025-08-21,14:30,69,16,0,Completed
+S01986,P00105,General Surgery,Hospital_A,OR_08,2025-10-17,14:45,52,14,0,Completed
+S01987,P00481,ENT,Hospital_B,OR_03,2025-10-29,12:45,71,33,0,Completed
+S01988,P00695,Orthopedics,Hospital_A,OR_01,2025-03-19,13:00,139,25,0,Completed
+S01989,P00100,Orthopedics,Hospital_C,OR_07,2025-03-18,14:00,70,36,0,Completed
+S01990,P00041,Orthopedics,Hospital_A,OR_04,2025-12-04,16:00,161,39,0,Completed
+S01991,P00498,ENT,Hospital_B,OR_01,2025-07-13,12:45,88,48,0,Completed
+S01992,P00812,Cardiology,Hospital_B,OR_02,2025-06-09,07:15,114,8,0,Completed
+S01993,P00015,ENT,Hospital_C,OR_01,2025-04-15,12:15,66,32,0,Cancelled
+S01994,P00019,Orthopedics,Hospital_A,OR_08,2025-08-22,14:15,57,33,1,Completed
+S01995,P00833,General Surgery,Hospital_B,OR_07,2025-10-03,11:15,84,38,1,Completed
+S01996,P00542,Cardiology,Hospital_B,OR_08,2025-01-01,13:45,140,44,0,Completed
+S01997,P00631,Orthopedics,Hospital_A,OR_02,2025-07-21,08:15,128,46,0,Completed
+S01998,P00248,Urology,Hospital_A,OR_07,2025-12-29,09:00,121,53,0,Completed
+S01999,P00281,Urology,Hospital_C,OR_05,2025-04-13,17:30,115,36,0,Completed
+S02000,P00424,Cardiology,Hospital_B,OR_03,2025-04-13,17:30,127,26,0,Completed
+S02001,P00193,ENT,Hospital_B,OR_06,2025-11-17,14:30,78,35,1,Completed
+S02002,P00398,Cardiology,Hospital_C,OR_08,2025-01-23,14:45,205,0,0,Completed
+S02003,P00858,Orthopedics,Hospital_B,OR_04,2025-05-26,10:00,116,52,0,Completed
+S02004,P00674,Cardiology,Hospital_C,OR_01,2025-06-17,12:00,158,22,0,Completed
+S02005,P00782,General Surgery,Hospital_C,OR_07,2025-10-19,07:00,89,37,0,Completed
+S02006,P00447,Urology,Hospital_B,OR_02,2025-02-17,07:30,82,40,0,Completed
+S02007,P00708,General Surgery,Hospital_A,OR_02,2025-06-08,13:45,116,6,0,Completed
+S02008,P00379,Orthopedics,Hospital_B,OR_05,2025-02-25,10:15,97,23,1,Completed
+S02009,P00556,Cardiology,Hospital_A,OR_07,2025-10-15,12:45,162,56,0,Completed
+S02010,P00657,General Surgery,Hospital_C,OR_07,2025-08-19,17:30,96,33,0,Completed
+S02011,P00742,General Surgery,Hospital_A,OR_07,2025-07-01,12:45,85,18,0,Completed
+S02012,P00833,Gynecology,Hospital_C,OR_08,2025-05-24,08:15,75,26,0,Completed
+S02013,P00095,General Surgery,Hospital_B,OR_02,2025-02-25,09:00,78,48,0,Completed
+S02014,P00714,Cardiology,Hospital_B,OR_03,2025-12-03,11:45,75,45,0,Completed
+S02015,P00638,Orthopedics,Hospital_A,OR_06,2025-08-25,10:45,139,2,0,Completed
+S02016,P00663,General Surgery,Hospital_A,OR_04,2025-04-27,13:30,104,57,0,Completed
+S02017,P00014,General Surgery,Hospital_C,OR_06,2025-06-01,09:45,131,45,0,Completed
+S02018,P00439,Urology,Hospital_C,OR_04,2025-09-23,09:15,86,25,0,Completed
+S02019,P00864,ENT,Hospital_A,OR_04,2025-09-20,15:30,144,7,0,Cancelled
+S02020,P00810,General Surgery,Hospital_A,OR_01,2025-06-18,10:15,82,47,0,Completed
+S02021,P00208,ENT,Hospital_A,OR_05,2025-04-21,11:15,50,37,0,Completed
+S02022,P00438,Gynecology,Hospital_C,OR_07,2025-08-29,07:00,58,2,0,Completed
+S02023,P00777,Gynecology,Hospital_B,OR_07,2025-08-29,08:00,44,24,0,Completed
+S02024,P00837,Gynecology,Hospital_A,OR_03,2025-08-07,10:00,152,84,0,Completed
+S02025,P00298,Gynecology,Hospital_A,OR_06,2025-01-27,14:30,143,28,0,Completed
+S02026,P00722,Urology,Hospital_A,OR_02,2025-06-22,09:45,132,15,0,Completed
+S02027,P00751,Cardiology,Hospital_C,OR_06,2025-08-13,13:15,100,10,0,Completed
+S02028,P00136,Cardiology,Hospital_C,OR_04,2025-12-13,09:15,279,60,0,Completed
+S02029,P00029,Orthopedics,Hospital_B,OR_08,2025-07-11,17:00,105,43,0,Completed
+S02030,P00043,General Surgery,Hospital_C,OR_06,2025-05-06,07:15,86,53,0,Completed
+S02031,P00131,Gynecology,Hospital_A,OR_01,2025-07-22,17:15,147,32,0,Completed
+S02032,P00667,General Surgery,Hospital_B,OR_07,2025-03-06,15:30,122,51,0,Completed
+S02033,P00351,Orthopedics,Hospital_A,OR_06,2025-02-03,09:45,277,13,0,Completed
+S02034,P00617,General Surgery,Hospital_C,OR_02,2025-09-05,08:30,104,31,0,Completed
+S02035,P00081,General Surgery,Hospital_B,OR_03,2025-12-26,14:30,82,45,1,Completed
+S02036,P00542,Gynecology,Hospital_C,OR_02,2025-11-05,16:30,67,65,1,Completed
+S02037,P00670,Gynecology,Hospital_B,OR_03,2025-08-02,14:00,42,34,0,Completed
+S02038,P00878,Orthopedics,Hospital_B,OR_08,2025-01-15,10:15,108,17,0,Completed
+S02039,P00288,General Surgery,Hospital_C,OR_08,2025-12-27,11:00,147,29,0,Completed
+S02040,P00491,Orthopedics,Hospital_C,OR_05,2025-06-14,08:15,151,0,0,Completed
+S02041,P00435,Orthopedics,Hospital_B,OR_03,2025-04-16,14:45,121,0,0,Completed
+S02042,P00313,Gynecology,Hospital_B,OR_03,2025-11-22,17:15,58,43,0,Completed
+S02043,P00576,Cardiology,Hospital_B,OR_08,2025-09-30,16:15,153,33,1,Completed
+S02044,P00508,Cardiology,Hospital_A,OR_02,2025-10-01,12:00,206,23,0,Completed
+S02045,P00749,Cardiology,Hospital_B,OR_07,2025-04-12,13:15,165,43,0,Completed
+S02046,P00026,ENT,Hospital_C,OR_08,2025-12-29,12:45,75,65,1,Completed
+S02047,P00200,Urology,Hospital_C,OR_07,2025-06-15,13:15,78,38,0,Completed
+S02048,P00521,Cardiology,Hospital_B,OR_06,2025-07-13,14:30,195,63,0,Completed
+S02049,P00516,Cardiology,Hospital_B,OR_08,2025-10-02,13:00,43,37,0,Completed
+S02050,P00812,General Surgery,Hospital_C,OR_02,2025-08-29,09:00,110,45,1,Completed
+S02051,P00607,ENT,Hospital_A,OR_08,2025-03-04,17:15,186,32,0,Completed
+S02052,P00004,Orthopedics,Hospital_A,OR_01,2025-04-21,12:45,68,5,0,Cancelled
+S02053,P00440,Orthopedics,Hospital_A,OR_01,2025-05-12,17:00,109,45,0,Completed
+S02054,P00760,ENT,Hospital_A,OR_02,2025-12-12,16:30,70,0,0,Completed
+S02055,P00785,Gynecology,Hospital_C,OR_05,2025-09-18,13:00,71,17,0,Completed
+S02056,P00721,General Surgery,Hospital_A,OR_02,2025-05-14,14:30,141,28,0,Cancelled
+S02057,P00430,General Surgery,Hospital_A,OR_06,2025-09-26,11:30,114,14,0,Completed
+S02058,P00096,General Surgery,Hospital_B,OR_01,2025-09-27,09:30,101,20,0,Completed
+S02059,P00192,Gynecology,Hospital_B,OR_06,2025-05-24,08:15,115,61,0,Cancelled
+S02060,P00762,General Surgery,Hospital_C,OR_02,2025-05-28,12:00,96,48,0,Cancelled
+S02061,P00307,ENT,Hospital_C,OR_05,2025-11-23,17:45,234,16,0,Completed
+S02062,P00687,ENT,Hospital_B,OR_01,2025-07-25,12:30,74,20,0,Completed
+S02063,P00033,Cardiology,Hospital_A,OR_08,2025-02-24,10:00,151,5,0,Completed
+S02064,P00442,Gynecology,Hospital_A,OR_04,2025-09-20,17:15,44,41,0,Completed
+S02065,P00855,Orthopedics,Hospital_C,OR_05,2025-08-04,17:00,98,24,0,Completed
+S02066,P00221,General Surgery,Hospital_B,OR_04,2025-07-05,08:15,147,0,0,Completed
+S02067,P00028,Gynecology,Hospital_C,OR_05,2025-09-22,15:15,51,30,0,Completed
+S02068,P00260,General Surgery,Hospital_B,OR_04,2025-11-28,16:00,42,36,0,Completed
+S02069,P00057,General Surgery,Hospital_C,OR_01,2025-05-01,16:15,96,45,0,Completed
+S02070,P00551,Orthopedics,Hospital_B,OR_07,2025-06-03,10:30,202,27,0,Completed
+S02071,P00173,General Surgery,Hospital_C,OR_06,2025-03-11,15:45,97,33,1,Completed
+S02072,P00222,Orthopedics,Hospital_B,OR_03,2025-08-25,07:30,106,64,0,Completed
+S02073,P00529,Gynecology,Hospital_A,OR_01,2025-05-27,10:30,42,28,0,Completed
+S02074,P00293,Urology,Hospital_A,OR_08,2025-05-05,12:45,125,41,0,Completed
+S02075,P00585,Gynecology,Hospital_A,OR_03,2025-09-12,11:15,109,18,0,Completed
+S02076,P00837,Urology,Hospital_B,OR_08,2025-05-29,12:30,53,40,0,Completed
+S02077,P00838,Orthopedics,Hospital_C,OR_07,2025-06-19,16:00,185,2,0,Completed
+S02078,P00656,Urology,Hospital_B,OR_08,2025-06-10,13:00,140,20,0,Completed
+S02079,P00871,Cardiology,Hospital_C,OR_06,2025-04-05,13:30,215,6,0,Completed
+S02080,P00662,General Surgery,Hospital_A,OR_02,2025-02-15,16:00,119,17,0,Completed
+S02081,P00062,ENT,Hospital_B,OR_01,2025-10-29,15:30,90,51,0,Completed
+S02082,P00860,Orthopedics,Hospital_B,OR_02,2025-02-03,14:30,146,17,0,Completed
+S02083,P00510,General Surgery,Hospital_A,OR_04,2025-04-29,13:00,132,53,1,Completed
+S02084,P00006,Orthopedics,Hospital_B,OR_05,2025-09-01,15:15,60,55,0,Completed
+S02085,P00558,Orthopedics,Hospital_B,OR_08,2025-02-17,08:30,68,28,0,Completed
+S02086,P00220,Orthopedics,Hospital_B,OR_02,2025-08-28,17:30,91,46,0,Completed
+S02087,P00481,Cardiology,Hospital_B,OR_06,2025-09-25,09:45,133,38,0,Completed
+S02088,P00592,ENT,Hospital_A,OR_01,2025-08-30,16:15,81,30,0,Completed
+S02089,P00025,Orthopedics,Hospital_C,OR_04,2025-04-22,12:45,136,54,1,Completed
+S02090,P00395,Cardiology,Hospital_A,OR_01,2025-01-08,08:15,214,61,0,Completed
+S02091,P00050,Orthopedics,Hospital_C,OR_03,2025-11-20,12:00,186,17,0,Completed
+S02092,P00102,Urology,Hospital_C,OR_05,2025-04-30,08:30,75,11,0,Completed
+S02093,P00190,General Surgery,Hospital_A,OR_06,2025-10-21,09:00,104,22,1,Completed
+S02094,P00703,General Surgery,Hospital_A,OR_07,2025-03-14,10:00,69,46,0,Completed
+S02095,P00372,Cardiology,Hospital_B,OR_05,2025-03-01,14:15,130,48,0,Completed
+S02096,P00043,Gynecology,Hospital_C,OR_03,2025-10-12,14:45,96,18,0,Completed
+S02097,P00672,Urology,Hospital_B,OR_08,2025-12-10,12:45,29,0,0,Completed
+S02098,P00489,Gynecology,Hospital_B,OR_08,2025-11-11,09:45,212,16,0,Completed
+S02099,P00128,Urology,Hospital_C,OR_08,2025-10-02,10:15,130,38,0,Completed
+S02100,P00506,Orthopedics,Hospital_B,OR_07,2025-04-01,17:15,96,27,0,Completed
+S02101,P00224,General Surgery,Hospital_C,OR_07,2025-11-30,15:45,198,43,1,Completed
+S02102,P00572,General Surgery,Hospital_C,OR_01,2025-09-01,11:15,83,19,0,Completed
+S02103,P00852,General Surgery,Hospital_A,OR_05,2025-03-04,12:15,100,46,0,Completed
+S02104,P00284,Orthopedics,Hospital_B,OR_04,2025-02-17,11:00,100,34,0,Completed
+S02105,P00671,Cardiology,Hospital_A,OR_03,2025-11-14,17:30,262,39,0,Completed
+S02106,P00022,Orthopedics,Hospital_A,OR_01,2025-04-11,15:30,115,31,0,Completed
+S02107,P00367,Cardiology,Hospital_A,OR_02,2025-10-07,10:15,148,37,0,Completed
+S02108,P00800,Cardiology,Hospital_A,OR_08,2025-02-20,17:00,221,48,1,Completed
+S02109,P00068,Gynecology,Hospital_A,OR_08,2025-04-13,10:30,106,11,0,Completed
+S02110,P00836,Gynecology,Hospital_C,OR_06,2025-04-14,13:30,83,35,0,Completed
+S02111,P00085,Orthopedics,Hospital_B,OR_01,2025-04-13,07:00,183,42,0,Completed
+S02112,P00434,Orthopedics,Hospital_B,OR_06,2025-09-04,13:15,315,49,0,Completed
+S02113,P00163,Gynecology,Hospital_C,OR_02,2025-11-30,12:45,96,47,1,Completed
+S02114,P00019,Gynecology,Hospital_C,OR_06,2025-11-29,14:30,89,11,0,Completed
+S02115,P00315,Orthopedics,Hospital_B,OR_01,2025-09-28,09:30,128,13,0,Completed
+S02116,P00523,Orthopedics,Hospital_B,OR_03,2025-03-15,17:30,197,20,0,Completed
+S02117,P00650,Gynecology,Hospital_B,OR_01,2025-12-17,15:45,68,43,1,Completed
+S02118,P00285,Gynecology,Hospital_B,OR_08,2025-07-17,16:15,76,26,0,Completed
+S02119,P00443,General Surgery,Hospital_B,OR_05,2025-07-19,10:15,53,8,0,Cancelled
+S02120,P00165,Cardiology,Hospital_A,OR_08,2025-09-14,15:15,89,8,0,Completed
+S02121,P00656,ENT,Hospital_A,OR_01,2025-10-08,16:45,57,0,0,Completed
+S02122,P00152,General Surgery,Hospital_A,OR_06,2025-12-14,14:00,93,0,0,Completed
+S02123,P00775,Urology,Hospital_B,OR_04,2025-08-01,14:00,206,38,1,Completed
+S02124,P00162,General Surgery,Hospital_C,OR_04,2025-08-11,13:00,116,70,0,Completed
+S02125,P00597,Cardiology,Hospital_B,OR_07,2025-09-30,07:30,99,60,0,Completed
+S02126,P00298,Orthopedics,Hospital_A,OR_01,2025-04-04,11:30,91,10,0,Completed
+S02127,P00896,General Surgery,Hospital_B,OR_08,2025-04-23,12:15,160,31,0,Completed
+S02128,P00253,ENT,Hospital_C,OR_01,2025-08-17,07:15,107,2,0,Completed
+S02129,P00853,Cardiology,Hospital_B,OR_03,2025-01-24,16:45,142,4,0,Completed
+S02130,P00752,ENT,Hospital_A,OR_02,2025-04-27,12:00,59,6,0,Completed
+S02131,P00421,Orthopedics,Hospital_A,OR_05,2025-09-20,17:30,184,24,0,Completed
+S02132,P00446,Urology,Hospital_B,OR_05,2025-12-23,07:00,72,25,0,Completed
+S02133,P00319,ENT,Hospital_C,OR_06,2025-07-09,08:45,81,33,0,Completed
+S02134,P00385,Cardiology,Hospital_A,OR_07,2025-05-26,17:15,332,40,0,Completed
+S02135,P00419,General Surgery,Hospital_C,OR_07,2025-06-10,08:30,103,34,1,Completed
+S02136,P00132,Gynecology,Hospital_C,OR_08,2025-09-08,09:00,63,29,0,Completed
+S02137,P00291,Cardiology,Hospital_A,OR_04,2025-07-18,09:15,164,8,0,Completed
+S02138,P00788,ENT,Hospital_A,OR_02,2025-01-09,07:30,59,16,1,Completed
+S02139,P00881,Orthopedics,Hospital_A,OR_02,2025-07-16,10:30,71,1,0,Completed
+S02140,P00050,Orthopedics,Hospital_B,OR_03,2025-05-27,13:45,157,40,0,Completed
+S02141,P00659,General Surgery,Hospital_A,OR_05,2025-09-13,15:30,145,34,1,Completed
+S02142,P00216,Gynecology,Hospital_C,OR_01,2025-11-16,16:30,76,6,1,Completed
+S02143,P00588,ENT,Hospital_A,OR_08,2025-12-18,07:45,61,27,0,Completed
+S02144,P00559,General Surgery,Hospital_B,OR_08,2025-08-11,15:15,66,6,0,Completed
+S02145,P00791,Urology,Hospital_C,OR_02,2025-05-13,11:45,99,70,1,Completed
+S02146,P00632,ENT,Hospital_A,OR_07,2025-06-12,11:15,57,18,0,Completed
+S02147,P00741,General Surgery,Hospital_A,OR_05,2025-03-06,15:15,65,40,0,Completed
+S02148,P00721,General Surgery,Hospital_C,OR_04,2025-12-08,11:45,195,48,0,Completed
+S02149,P00583,Gynecology,Hospital_A,OR_06,2025-11-06,09:00,101,11,0,Completed
+S02150,P00369,Gynecology,Hospital_B,OR_05,2025-11-08,10:00,106,29,0,Completed
+S02151,P00304,General Surgery,Hospital_A,OR_03,2025-04-30,10:00,133,38,0,Completed
+S02152,P00312,Urology,Hospital_A,OR_05,2025-04-28,13:30,141,30,0,Completed
+S02153,P00323,Cardiology,Hospital_B,OR_02,2025-11-09,09:30,120,34,0,Completed
+S02154,P00260,ENT,Hospital_B,OR_03,2025-07-18,08:00,78,4,0,Completed
+S02155,P00280,Urology,Hospital_B,OR_08,2025-09-15,12:00,95,38,0,Completed
+S02156,P00511,Urology,Hospital_C,OR_02,2025-06-28,16:15,124,19,0,Completed
+S02157,P00243,Cardiology,Hospital_A,OR_05,2025-06-11,11:15,159,34,0,Completed
+S02158,P00314,Orthopedics,Hospital_B,OR_03,2025-08-19,11:00,104,45,0,Completed
+S02159,P00638,Cardiology,Hospital_A,OR_04,2025-10-24,17:00,84,40,0,Completed
+S02160,P00295,General Surgery,Hospital_C,OR_02,2025-05-02,11:45,100,34,0,Completed
+S02161,P00096,Gynecology,Hospital_B,OR_05,2025-10-23,11:30,79,40,0,Completed
+S02162,P00016,General Surgery,Hospital_C,OR_05,2025-03-31,07:15,46,40,0,Completed
+S02163,P00688,Cardiology,Hospital_A,OR_05,2025-05-28,15:15,170,55,0,Completed
+S02164,P00853,General Surgery,Hospital_B,OR_03,2025-11-30,11:00,137,27,0,Completed
+S02165,P00614,Orthopedics,Hospital_A,OR_05,2025-12-15,12:15,314,31,0,Completed
+S02166,P00055,General Surgery,Hospital_A,OR_06,2025-12-04,16:15,82,45,0,Completed
+S02167,P00507,Gynecology,Hospital_C,OR_06,2025-04-26,16:45,69,19,0,Completed
+S02168,P00244,Urology,Hospital_C,OR_05,2025-11-04,16:30,69,4,0,Completed
+S02169,P00289,General Surgery,Hospital_A,OR_03,2025-12-08,13:15,103,37,0,Completed
+S02170,P00829,Urology,Hospital_B,OR_05,2025-12-24,07:00,113,24,0,Completed
+S02171,P00742,Urology,Hospital_C,OR_05,2025-01-08,11:30,77,18,1,Cancelled
+S02172,P00662,Orthopedics,Hospital_A,OR_08,2025-09-29,07:45,112,37,0,Completed
+S02173,P00451,Gynecology,Hospital_C,OR_04,2025-12-30,17:00,40,54,0,Completed
+S02174,P00520,Orthopedics,Hospital_A,OR_03,2025-10-07,08:45,171,0,0,Completed
+S02175,P00824,General Surgery,Hospital_B,OR_06,2025-03-27,09:00,71,46,0,Completed
+S02176,P00595,Cardiology,Hospital_C,OR_06,2025-10-06,09:30,138,0,1,Cancelled
+S02177,P00521,General Surgery,Hospital_C,OR_04,2025-02-08,08:00,55,21,0,Completed
+S02178,P00088,Urology,Hospital_A,OR_01,2025-06-25,11:30,84,73,1,Completed
+S02179,P00896,ENT,Hospital_A,OR_06,2025-08-17,17:00,63,22,0,Completed
+S02180,P00727,Urology,Hospital_A,OR_06,2025-06-16,09:30,105,30,0,Completed
+S02181,P00328,Cardiology,Hospital_B,OR_08,2025-09-13,11:30,168,42,0,Completed
+S02182,P00225,Cardiology,Hospital_A,OR_05,2025-03-29,09:30,242,9,1,Completed
+S02183,P00871,ENT,Hospital_C,OR_05,2025-08-10,17:30,92,29,0,Cancelled
+S02184,P00860,Orthopedics,Hospital_A,OR_02,2025-08-24,15:00,173,29,0,Completed
+S02185,P00378,General Surgery,Hospital_B,OR_04,2025-08-20,16:30,165,62,0,Completed
+S02186,P00209,Cardiology,Hospital_C,OR_01,2025-04-16,13:00,174,6,0,Completed
+S02187,P00718,Orthopedics,Hospital_B,OR_05,2025-04-22,13:30,118,21,0,Cancelled
+S02188,P00563,Orthopedics,Hospital_B,OR_06,2025-04-05,13:00,176,11,0,Completed
+S02189,P00810,General Surgery,Hospital_A,OR_07,2025-06-18,07:15,143,9,0,Completed
+S02190,P00491,Gynecology,Hospital_C,OR_06,2025-08-02,14:15,109,48,0,Completed
+S02191,P00497,Orthopedics,Hospital_C,OR_07,2025-05-13,14:45,69,28,0,Completed
+S02192,P00129,General Surgery,Hospital_C,OR_06,2025-05-30,16:30,69,18,0,Completed
+S02193,P00543,General Surgery,Hospital_A,OR_07,2025-04-15,15:00,86,31,1,Completed
+S02194,P00327,Orthopedics,Hospital_B,OR_04,2025-03-21,07:30,161,18,0,Completed
+S02195,P00185,Urology,Hospital_C,OR_05,2025-08-28,15:00,104,19,0,Completed
+S02196,P00703,Orthopedics,Hospital_C,OR_06,2025-10-25,13:15,185,5,0,Completed
+S02197,P00311,Gynecology,Hospital_B,OR_05,2025-04-17,08:15,140,23,0,Completed
+S02198,P00192,Urology,Hospital_C,OR_05,2025-11-11,11:45,166,34,1,Completed
+S02199,P00864,Orthopedics,Hospital_A,OR_07,2025-07-28,16:45,190,14,0,Completed
+S02200,P00866,Urology,Hospital_C,OR_02,2025-03-03,08:45,71,31,0,Completed
+S02201,P00445,Gynecology,Hospital_B,OR_03,2025-05-14,12:00,102,44,1,Completed
+S02202,P00266,Cardiology,Hospital_C,OR_05,2025-01-03,14:00,111,18,0,Cancelled
+S02203,P00146,General Surgery,Hospital_B,OR_06,2025-01-15,12:45,51,25,0,Completed
+S02204,P00564,General Surgery,Hospital_B,OR_05,2025-05-03,17:15,85,67,0,Completed
+S02205,P00550,ENT,Hospital_C,OR_02,2025-06-15,08:30,116,66,0,Completed
+S02206,P00557,Urology,Hospital_C,OR_07,2025-10-19,08:45,125,9,0,Completed
+S02207,P00691,ENT,Hospital_C,OR_05,2025-02-19,10:00,151,24,1,Cancelled
+S02208,P00424,ENT,Hospital_A,OR_04,2025-11-03,09:15,75,9,0,Completed
+S02209,P00615,General Surgery,Hospital_B,OR_08,2025-03-27,15:45,241,47,0,Completed
+S02210,P00590,Urology,Hospital_C,OR_04,2025-02-20,15:30,112,21,0,Completed
+S02211,P00716,Cardiology,Hospital_C,OR_02,2025-09-13,09:45,141,32,0,Completed
+S02212,P00669,Urology,Hospital_B,OR_08,2025-10-10,17:30,65,64,0,Completed
+S02213,P00033,General Surgery,Hospital_C,OR_04,2025-08-09,15:15,145,28,0,Completed
+S02214,P00557,Orthopedics,Hospital_B,OR_08,2025-02-12,11:45,99,41,0,Completed
+S02215,P00877,Urology,Hospital_A,OR_05,2025-02-12,11:45,82,37,0,Cancelled
+S02216,P00504,Urology,Hospital_C,OR_02,2025-05-23,16:45,171,17,0,Completed
+S02217,P00477,Gynecology,Hospital_B,OR_04,2025-06-14,10:15,132,47,0,Completed
+S02218,P00546,Orthopedics,Hospital_B,OR_08,2025-12-31,11:30,185,25,1,Completed
+S02219,P00504,Orthopedics,Hospital_A,OR_08,2025-04-15,15:15,105,52,0,Completed
+S02220,P00362,ENT,Hospital_A,OR_02,2025-03-12,09:15,69,17,0,Completed
+S02221,P00894,Orthopedics,Hospital_B,OR_08,2025-12-12,15:45,117,19,0,Completed
+S02222,P00064,Cardiology,Hospital_C,OR_07,2025-02-26,08:45,188,20,1,Completed
+S02223,P00733,Cardiology,Hospital_A,OR_06,2025-01-10,07:30,253,11,0,Completed
+S02224,P00144,Orthopedics,Hospital_C,OR_02,2025-06-04,08:45,138,20,0,Completed
+S02225,P00186,Cardiology,Hospital_C,OR_05,2025-05-27,15:15,297,0,0,Completed
+S02226,P00546,Orthopedics,Hospital_B,OR_04,2025-08-15,14:45,169,24,0,Completed
+S02227,P00574,Urology,Hospital_C,OR_01,2025-11-17,09:30,96,19,0,Completed
+S02228,P00834,ENT,Hospital_C,OR_08,2025-12-07,10:30,96,54,1,Completed
+S02229,P00265,ENT,Hospital_C,OR_05,2025-04-16,13:30,134,36,0,Completed
+S02230,P00024,Cardiology,Hospital_C,OR_01,2025-12-24,14:30,299,15,0,Completed
+S02231,P00230,Cardiology,Hospital_C,OR_03,2025-08-19,07:45,220,20,0,Completed
+S02232,P00490,Gynecology,Hospital_C,OR_07,2025-01-26,08:15,86,24,0,Completed
+S02233,P00322,Urology,Hospital_A,OR_04,2025-12-09,12:45,97,55,0,Completed
+S02234,P00227,Cardiology,Hospital_B,OR_04,2025-02-20,13:00,174,13,0,Completed
+S02235,P00822,Gynecology,Hospital_C,OR_02,2025-08-03,10:00,161,15,0,Completed
+S02236,P00506,Urology,Hospital_B,OR_01,2025-10-16,13:30,124,8,0,Completed
+S02237,P00605,Gynecology,Hospital_A,OR_08,2025-04-02,14:45,101,1,0,Cancelled
+S02238,P00674,Urology,Hospital_C,OR_08,2025-04-09,14:45,107,34,0,Completed
+S02239,P00368,General Surgery,Hospital_B,OR_01,2025-06-23,16:15,84,32,0,Completed
+S02240,P00662,Cardiology,Hospital_C,OR_05,2025-11-19,10:00,132,51,0,Completed
+S02241,P00867,Gynecology,Hospital_A,OR_06,2025-03-23,09:30,89,47,0,Completed
+S02242,P00652,General Surgery,Hospital_A,OR_08,2025-08-31,14:45,183,71,0,Completed
+S02243,P00267,Urology,Hospital_B,OR_05,2025-06-15,13:45,96,27,0,Completed
+S02244,P00701,Gynecology,Hospital_A,OR_07,2025-02-10,13:45,87,23,0,Completed
+S02245,P00213,General Surgery,Hospital_B,OR_01,2025-09-17,15:15,68,5,0,Completed
+S02246,P00066,Urology,Hospital_B,OR_01,2025-10-31,16:45,138,41,0,Completed
+S02247,P00400,Gynecology,Hospital_A,OR_04,2025-07-30,10:00,143,30,0,Cancelled
+S02248,P00459,Urology,Hospital_C,OR_03,2025-03-06,08:45,195,40,0,Completed
+S02249,P00423,Orthopedics,Hospital_A,OR_07,2025-02-26,11:30,130,7,0,Completed
+S02250,P00236,Urology,Hospital_C,OR_03,2025-06-04,10:15,131,34,0,Completed
+S02251,P00246,Orthopedics,Hospital_A,OR_04,2025-07-04,11:30,113,44,1,Completed
+S02252,P00829,Cardiology,Hospital_B,OR_05,2025-07-21,08:45,171,31,0,Completed
+S02253,P00263,General Surgery,Hospital_C,OR_08,2025-03-30,11:00,107,16,0,Cancelled
+S02254,P00704,Gynecology,Hospital_A,OR_01,2025-07-02,07:00,87,49,0,Completed
+S02255,P00232,Gynecology,Hospital_C,OR_05,2025-04-18,09:30,90,65,0,Completed
+S02256,P00097,Cardiology,Hospital_A,OR_04,2025-09-08,16:45,166,20,1,Completed
+S02257,P00057,Cardiology,Hospital_C,OR_01,2025-10-18,10:30,125,41,0,Completed
+S02258,P00219,Urology,Hospital_C,OR_07,2025-08-27,09:00,96,0,0,Completed
+S02259,P00757,Gynecology,Hospital_A,OR_08,2025-01-01,12:30,163,52,1,Completed
+S02260,P00410,Orthopedics,Hospital_B,OR_02,2025-12-29,15:00,336,0,0,Completed
+S02261,P00625,ENT,Hospital_C,OR_07,2025-01-09,15:15,44,19,0,Completed
+S02262,P00866,Gynecology,Hospital_A,OR_06,2025-12-31,10:00,53,4,0,Completed
+S02263,P00044,ENT,Hospital_A,OR_06,2025-01-12,09:15,49,24,0,Completed
+S02264,P00099,ENT,Hospital_A,OR_04,2025-07-08,09:15,67,43,0,Completed
+S02265,P00828,ENT,Hospital_B,OR_03,2025-02-08,12:00,98,0,0,Completed
+S02266,P00511,Urology,Hospital_C,OR_01,2025-02-04,16:15,131,22,0,Completed
+S02267,P00556,Gynecology,Hospital_B,OR_01,2025-09-07,15:30,91,19,0,Completed
+S02268,P00307,General Surgery,Hospital_B,OR_02,2025-09-23,15:15,116,56,0,Completed
+S02269,P00744,Cardiology,Hospital_C,OR_05,2025-02-13,08:00,108,36,0,Completed
+S02270,P00582,Urology,Hospital_A,OR_02,2025-12-23,09:30,96,7,0,Completed
+S02271,P00232,Cardiology,Hospital_C,OR_06,2025-04-27,13:45,139,20,0,Completed
+S02272,P00584,Urology,Hospital_A,OR_05,2025-04-27,17:45,58,56,0,Completed
+S02273,P00004,General Surgery,Hospital_A,OR_03,2025-04-19,10:15,61,41,0,Completed
+S02274,P00217,Orthopedics,Hospital_C,OR_01,2025-06-18,17:30,78,11,0,Completed
+S02275,P00184,Cardiology,Hospital_B,OR_05,2025-03-06,11:45,187,23,0,Completed
+S02276,P00707,Orthopedics,Hospital_B,OR_07,2025-06-05,08:30,132,24,0,Completed
+S02277,P00661,General Surgery,Hospital_A,OR_04,2025-03-18,17:30,120,18,0,Completed
+S02278,P00083,General Surgery,Hospital_B,OR_07,2025-01-19,13:00,47,0,0,Completed
+S02279,P00815,Urology,Hospital_C,OR_03,2025-05-15,13:15,60,16,0,Completed
+S02280,P00736,Cardiology,Hospital_A,OR_01,2025-09-03,17:15,180,53,0,Completed
+S02281,P00391,General Surgery,Hospital_A,OR_06,2025-10-06,10:15,33,21,0,Completed
+S02282,P00191,General Surgery,Hospital_A,OR_08,2025-05-09,14:45,151,26,0,Completed
+S02283,P00378,Cardiology,Hospital_B,OR_08,2025-04-29,10:00,70,31,0,Completed
+S02284,P00531,General Surgery,Hospital_C,OR_08,2025-10-15,15:30,131,68,0,Completed
+S02285,P00567,Gynecology,Hospital_A,OR_01,2025-09-06,12:45,61,28,0,Completed
+S02286,P00313,Urology,Hospital_C,OR_01,2025-10-31,12:30,156,48,0,Cancelled
+S02287,P00092,General Surgery,Hospital_C,OR_05,2025-11-27,17:00,321,17,0,Completed
+S02288,P00549,Gynecology,Hospital_B,OR_08,2025-10-27,16:45,36,35,1,Completed
+S02289,P00634,General Surgery,Hospital_C,OR_08,2025-12-08,12:15,124,28,0,Completed
+S02290,P00241,Orthopedics,Hospital_C,OR_03,2025-06-02,08:00,60,14,0,Completed
+S02291,P00575,ENT,Hospital_C,OR_04,2025-05-25,17:15,82,24,0,Completed
+S02292,P00512,Cardiology,Hospital_B,OR_06,2025-04-28,14:00,129,44,0,Completed
+S02293,P00451,ENT,Hospital_A,OR_08,2025-03-27,10:45,74,14,0,Completed
+S02294,P00008,General Surgery,Hospital_C,OR_02,2025-10-01,14:00,67,28,0,Completed
+S02295,P00277,Orthopedics,Hospital_B,OR_08,2025-09-18,07:45,161,41,0,Completed
+S02296,P00337,Cardiology,Hospital_A,OR_07,2025-10-20,07:00,81,13,0,Completed
+S02297,P00750,Cardiology,Hospital_C,OR_01,2025-03-03,10:45,224,48,0,Completed
+S02298,P00743,ENT,Hospital_B,OR_07,2025-06-29,14:00,60,29,0,Completed
+S02299,P00786,General Surgery,Hospital_C,OR_06,2025-03-23,17:45,56,25,0,Completed
+S02300,P00417,Urology,Hospital_C,OR_08,2025-11-22,14:00,192,0,0,Completed
+S02301,P00294,Urology,Hospital_A,OR_02,2025-04-08,07:45,102,21,0,Completed
+S02302,P00449,Cardiology,Hospital_C,OR_08,2025-02-22,16:45,289,35,0,Completed
+S02303,P00712,Orthopedics,Hospital_C,OR_01,2025-07-28,12:30,191,59,0,Completed
+S02304,P00559,Cardiology,Hospital_C,OR_01,2025-11-17,08:00,103,38,0,Completed
+S02305,P00541,Orthopedics,Hospital_A,OR_04,2025-12-01,09:30,116,60,1,Cancelled
+S02306,P00391,Urology,Hospital_C,OR_06,2025-02-05,11:30,110,6,0,Completed
+S02307,P00627,Cardiology,Hospital_C,OR_02,2025-04-29,11:30,250,26,0,Completed
+S02308,P00780,ENT,Hospital_C,OR_03,2025-02-26,17:30,83,50,0,Completed
+S02309,P00601,Gynecology,Hospital_B,OR_04,2025-04-23,17:45,91,12,0,Completed
+S02310,P00363,Cardiology,Hospital_C,OR_02,2025-07-14,13:45,130,45,0,Completed
+S02311,P00756,Gynecology,Hospital_B,OR_02,2025-04-13,09:30,83,41,0,Completed
+S02312,P00848,Cardiology,Hospital_A,OR_02,2025-01-25,07:00,230,45,1,Completed
+S02313,P00717,ENT,Hospital_C,OR_08,2025-07-06,08:00,70,22,0,Completed
+S02314,P00789,General Surgery,Hospital_B,OR_08,2025-01-20,11:30,82,10,0,Completed
+S02315,P00239,ENT,Hospital_A,OR_06,2025-03-24,17:45,56,60,0,Completed
+S02316,P00379,Urology,Hospital_B,OR_06,2025-01-01,08:15,85,39,0,Completed
+S02317,P00225,Urology,Hospital_A,OR_02,2025-02-01,11:00,62,34,0,Completed
+S02318,P00329,Cardiology,Hospital_B,OR_01,2025-06-09,07:15,105,21,0,Completed
+S02319,P00660,Urology,Hospital_B,OR_04,2025-11-07,16:15,186,29,0,Completed
+S02320,P00609,Orthopedics,Hospital_C,OR_08,2025-10-10,11:45,111,31,0,Completed
+S02321,P00003,Urology,Hospital_C,OR_04,2025-02-06,11:30,137,35,0,Completed
+S02322,P00680,General Surgery,Hospital_B,OR_07,2025-01-13,17:00,37,41,0,Completed
+S02323,P00173,Orthopedics,Hospital_C,OR_03,2025-05-04,12:15,149,14,0,Completed
+S02324,P00168,Cardiology,Hospital_A,OR_03,2025-08-27,08:00,132,2,0,Completed
+S02325,P00489,Orthopedics,Hospital_C,OR_07,2025-09-30,14:30,100,30,0,Completed
+S02326,P00217,Orthopedics,Hospital_A,OR_04,2025-10-28,13:30,129,9,1,Completed
+S02327,P00866,Urology,Hospital_C,OR_06,2025-05-05,14:00,87,22,0,Completed
+S02328,P00132,Orthopedics,Hospital_C,OR_06,2025-03-03,07:15,54,19,0,Completed
+S02329,P00137,Urology,Hospital_A,OR_06,2025-01-10,13:45,149,37,0,Completed
+S02330,P00684,General Surgery,Hospital_A,OR_06,2025-02-23,17:45,104,64,0,Completed
+S02331,P00258,Urology,Hospital_C,OR_07,2025-01-24,10:30,93,0,0,Completed
+S02332,P00643,Urology,Hospital_C,OR_04,2025-11-11,08:15,73,69,0,Completed
+S02333,P00613,Orthopedics,Hospital_C,OR_03,2025-04-08,08:45,69,24,0,Completed
+S02334,P00170,Gynecology,Hospital_A,OR_05,2025-10-28,11:30,93,34,0,Completed
+S02335,P00522,ENT,Hospital_B,OR_03,2025-07-21,08:45,129,3,0,Completed
+S02336,P00483,Urology,Hospital_B,OR_01,2025-07-16,12:00,113,58,1,Completed
+S02337,P00086,Orthopedics,Hospital_C,OR_03,2025-06-15,11:00,71,41,1,Completed
+S02338,P00688,Cardiology,Hospital_C,OR_05,2025-10-27,07:00,153,27,0,Completed
+S02339,P00771,Urology,Hospital_C,OR_05,2025-01-16,14:45,103,0,0,Completed
+S02340,P00852,Orthopedics,Hospital_B,OR_03,2025-02-03,14:30,167,29,0,Completed
+S02341,P00080,Urology,Hospital_A,OR_06,2025-06-04,07:00,132,43,0,Completed
+S02342,P00161,Orthopedics,Hospital_C,OR_03,2025-05-24,07:45,39,24,0,Cancelled
+S02343,P00742,Urology,Hospital_A,OR_06,2025-07-19,15:45,129,49,0,Completed
+S02344,P00274,General Surgery,Hospital_A,OR_03,2025-09-27,16:00,65,48,0,Completed
+S02345,P00563,General Surgery,Hospital_A,OR_08,2025-08-03,12:30,55,16,0,Completed
+S02346,P00314,ENT,Hospital_B,OR_06,2025-04-04,15:30,65,57,0,Completed
+S02347,P00196,Urology,Hospital_A,OR_05,2025-04-30,11:00,123,41,1,Completed
+S02348,P00562,ENT,Hospital_B,OR_04,2025-10-02,17:30,38,41,1,Completed
+S02349,P00185,ENT,Hospital_A,OR_07,2025-03-15,16:00,91,30,0,Completed
+S02350,P00123,Orthopedics,Hospital_C,OR_04,2025-07-04,08:45,160,29,0,Completed
+S02351,P00477,Orthopedics,Hospital_B,OR_07,2025-07-16,15:45,122,0,0,Completed
+S02352,P00174,General Surgery,Hospital_A,OR_02,2025-10-01,11:45,68,25,0,Completed
+S02353,P00173,Cardiology,Hospital_C,OR_07,2025-09-18,09:45,96,3,0,Completed
+S02354,P00702,General Surgery,Hospital_B,OR_08,2025-06-19,12:00,140,69,1,Completed
+S02355,P00476,ENT,Hospital_A,OR_02,2025-04-23,14:15,39,57,0,Cancelled
+S02356,P00488,General Surgery,Hospital_B,OR_02,2025-05-15,08:30,142,43,0,Completed
+S02357,P00129,General Surgery,Hospital_C,OR_08,2025-05-31,15:15,89,36,1,Completed
+S02358,P00145,Orthopedics,Hospital_C,OR_04,2025-03-22,17:30,116,10,0,Completed
+S02359,P00352,General Surgery,Hospital_B,OR_06,2025-08-17,07:15,50,16,0,Completed
+S02360,P00350,General Surgery,Hospital_C,OR_02,2025-03-18,17:00,90,63,0,Completed
+S02361,P00407,Gynecology,Hospital_A,OR_04,2025-08-25,17:30,107,16,0,Completed
+S02362,P00121,Orthopedics,Hospital_C,OR_06,2025-10-02,14:30,72,0,0,Completed
+S02363,P00808,Gynecology,Hospital_C,OR_08,2025-12-18,12:30,103,47,0,Completed
+S02364,P00327,ENT,Hospital_B,OR_04,2025-02-13,13:30,72,55,0,Completed
+S02365,P00734,Gynecology,Hospital_B,OR_01,2025-10-05,15:15,67,58,0,Completed
+S02366,P00360,Gynecology,Hospital_B,OR_04,2025-02-01,11:45,118,47,0,Completed
+S02367,P00425,Orthopedics,Hospital_A,OR_06,2025-05-04,15:30,52,50,0,Completed
+S02368,P00101,General Surgery,Hospital_C,OR_08,2025-03-06,12:30,108,29,0,Completed
+S02369,P00609,Orthopedics,Hospital_C,OR_07,2025-03-01,13:15,222,0,0,Completed
+S02370,P00054,ENT,Hospital_C,OR_07,2025-03-06,08:30,121,29,0,Completed
+S02371,P00673,Gynecology,Hospital_A,OR_02,2025-01-17,11:00,99,39,0,Completed
+S02372,P00793,Orthopedics,Hospital_C,OR_05,2025-10-28,17:30,107,26,0,Completed
+S02373,P00326,Cardiology,Hospital_B,OR_05,2025-01-23,08:00,110,25,0,Completed
+S02374,P00798,Urology,Hospital_C,OR_04,2025-05-26,13:45,94,11,0,Completed
+S02375,P00629,Gynecology,Hospital_C,OR_08,2025-09-13,12:45,105,10,0,Completed
+S02376,P00003,Cardiology,Hospital_C,OR_08,2025-12-28,08:30,103,61,0,Completed
+S02377,P00183,ENT,Hospital_C,OR_02,2025-11-08,16:45,93,62,0,Completed
+S02378,P00577,Gynecology,Hospital_A,OR_08,2025-02-20,09:30,191,28,0,Completed
+S02379,P00631,Gynecology,Hospital_A,OR_07,2025-12-27,07:00,83,33,0,Completed
+S02380,P00085,General Surgery,Hospital_A,OR_06,2025-08-27,16:30,57,10,0,Completed
+S02381,P00616,General Surgery,Hospital_B,OR_04,2025-03-07,09:45,57,40,0,Completed
+S02382,P00729,ENT,Hospital_C,OR_07,2025-06-13,17:00,94,60,0,Completed
+S02383,P00083,Gynecology,Hospital_C,OR_05,2025-12-02,07:00,83,0,0,Completed
+S02384,P00791,Orthopedics,Hospital_B,OR_08,2025-05-24,15:30,167,36,0,Completed
+S02385,P00480,Gynecology,Hospital_C,OR_06,2025-03-09,12:15,69,38,0,Completed
+S02386,P00555,General Surgery,Hospital_A,OR_08,2025-11-16,12:30,130,37,0,Completed
+S02387,P00046,Urology,Hospital_B,OR_04,2025-12-14,07:30,99,58,0,Completed
+S02388,P00552,General Surgery,Hospital_B,OR_01,2025-12-23,09:45,72,65,0,Completed
+S02389,P00409,Urology,Hospital_A,OR_04,2025-12-15,09:00,90,24,0,Completed
+S02390,P00334,Cardiology,Hospital_B,OR_08,2025-11-15,11:15,89,40,0,Completed
+S02391,P00702,Orthopedics,Hospital_C,OR_06,2025-06-15,12:45,256,30,0,Completed
+S02392,P00225,General Surgery,Hospital_C,OR_06,2025-03-12,14:15,92,17,0,Completed
+S02393,P00054,Urology,Hospital_C,OR_06,2025-08-14,14:30,134,33,0,Completed
+S02394,P00449,General Surgery,Hospital_C,OR_05,2025-03-22,09:00,77,40,0,Completed
+S02395,P00669,General Surgery,Hospital_B,OR_01,2025-06-22,07:00,64,32,0,Completed
+S02396,P00121,Urology,Hospital_A,OR_04,2025-08-28,16:15,96,12,0,Completed
+S02397,P00886,Orthopedics,Hospital_C,OR_01,2025-12-12,11:15,182,20,0,Completed
+S02398,P00605,Orthopedics,Hospital_B,OR_03,2025-04-16,09:30,98,20,0,Completed
+S02399,P00840,Orthopedics,Hospital_B,OR_06,2025-04-02,07:30,86,13,0,Completed
+S02400,P00423,Urology,Hospital_A,OR_07,2025-09-26,17:45,111,34,0,Cancelled
+S02401,P00111,Orthopedics,Hospital_C,OR_02,2025-01-03,11:45,145,36,0,Completed
+S02402,P00160,General Surgery,Hospital_C,OR_06,2025-07-26,09:00,177,46,0,Completed
+S02403,P00451,Orthopedics,Hospital_C,OR_02,2025-09-30,10:00,137,13,0,Completed
+S02404,P00529,General Surgery,Hospital_A,OR_02,2025-07-21,09:45,121,18,0,Completed
+S02405,P00660,Orthopedics,Hospital_C,OR_08,2025-05-21,15:15,158,56,0,Completed
+S02406,P00715,General Surgery,Hospital_B,OR_05,2025-10-30,10:15,61,25,0,Completed
+S02407,P00686,General Surgery,Hospital_A,OR_02,2025-05-16,08:00,66,29,0,Completed
+S02408,P00530,Orthopedics,Hospital_B,OR_02,2025-09-17,17:30,79,25,0,Completed
+S02409,P00017,Urology,Hospital_B,OR_01,2025-06-19,14:15,63,48,0,Completed
+S02410,P00477,General Surgery,Hospital_B,OR_04,2025-01-10,16:00,129,61,1,Completed
+S02411,P00737,General Surgery,Hospital_A,OR_01,2025-07-13,17:30,106,60,1,Cancelled
+S02412,P00763,ENT,Hospital_B,OR_05,2025-01-19,10:45,72,28,0,Completed
+S02413,P00751,ENT,Hospital_C,OR_04,2025-12-06,11:15,26,12,0,Completed
+S02414,P00010,Gynecology,Hospital_C,OR_06,2025-08-08,14:30,186,63,0,Completed
+S02415,P00392,Orthopedics,Hospital_C,OR_02,2025-05-16,13:15,85,43,0,Completed
+S02416,P00555,Orthopedics,Hospital_B,OR_02,2025-06-27,10:15,262,20,0,Completed
+S02417,P00223,General Surgery,Hospital_C,OR_01,2025-08-15,16:15,55,54,0,Completed
+S02418,P00369,General Surgery,Hospital_A,OR_01,2025-04-05,17:00,70,18,0,Completed
+S02419,P00088,Orthopedics,Hospital_C,OR_01,2025-04-16,08:15,52,53,0,Completed
+S02420,P00175,Cardiology,Hospital_B,OR_03,2025-06-02,07:45,161,55,0,Completed
+S02421,P00006,Orthopedics,Hospital_B,OR_07,2025-04-05,10:00,79,11,0,Completed
+S02422,P00881,Gynecology,Hospital_B,OR_05,2025-10-04,13:45,57,38,0,Completed
+S02423,P00773,Orthopedics,Hospital_C,OR_03,2025-02-07,17:00,71,42,0,Completed
+S02424,P00364,Orthopedics,Hospital_A,OR_08,2025-10-29,15:15,161,75,0,Completed
+S02425,P00004,Urology,Hospital_B,OR_07,2025-05-08,16:30,138,15,0,Completed
+S02426,P00302,Urology,Hospital_C,OR_07,2025-07-24,15:45,209,54,0,Completed
+S02427,P00391,Orthopedics,Hospital_B,OR_08,2025-02-27,16:00,92,28,0,Completed
+S02428,P00152,Cardiology,Hospital_A,OR_06,2025-05-21,14:00,152,6,0,Completed
+S02429,P00595,Orthopedics,Hospital_B,OR_08,2025-10-03,17:30,74,26,0,Completed
+S02430,P00897,General Surgery,Hospital_C,OR_03,2025-04-09,09:15,84,28,0,Completed
+S02431,P00759,Gynecology,Hospital_C,OR_07,2025-02-18,16:30,70,9,0,Completed
+S02432,P00770,General Surgery,Hospital_A,OR_01,2025-07-10,09:45,113,34,0,Completed
+S02433,P00748,Orthopedics,Hospital_B,OR_03,2025-03-01,14:00,177,45,0,Completed
+S02434,P00063,Cardiology,Hospital_C,OR_08,2025-04-25,10:45,204,32,0,Completed
+S02435,P00496,General Surgery,Hospital_A,OR_02,2025-06-14,10:00,69,18,0,Completed
+S02436,P00509,General Surgery,Hospital_A,OR_05,2025-07-25,13:45,139,25,0,Completed
+S02437,P00091,Orthopedics,Hospital_A,OR_03,2025-08-22,13:45,118,28,0,Completed
+S02438,P00133,ENT,Hospital_B,OR_01,2025-09-04,08:30,62,32,0,Completed
+S02439,P00509,Gynecology,Hospital_B,OR_02,2025-11-05,14:45,65,48,0,Cancelled
+S02440,P00644,Orthopedics,Hospital_A,OR_05,2025-01-25,12:45,97,33,0,Completed
+S02441,P00188,General Surgery,Hospital_A,OR_06,2025-05-13,08:00,184,3,0,Completed
+S02442,P00436,Gynecology,Hospital_B,OR_06,2025-01-01,14:00,96,18,0,Completed
+S02443,P00068,General Surgery,Hospital_C,OR_02,2025-01-04,16:00,102,31,0,Completed
+S02444,P00100,Cardiology,Hospital_A,OR_03,2025-03-19,14:15,127,48,0,Completed
+S02445,P00522,Urology,Hospital_B,OR_01,2025-08-07,14:30,266,51,0,Cancelled
+S02446,P00501,Orthopedics,Hospital_C,OR_01,2025-11-23,11:15,197,60,0,Completed
+S02447,P00675,Orthopedics,Hospital_B,OR_04,2025-10-10,12:30,91,30,0,Completed
+S02448,P00819,General Surgery,Hospital_B,OR_05,2025-08-24,14:15,86,42,0,Completed
+S02449,P00171,General Surgery,Hospital_A,OR_03,2025-10-12,10:00,88,2,0,Completed
+S02450,P00307,Orthopedics,Hospital_C,OR_01,2025-03-04,15:00,127,36,0,Cancelled
+S02451,P00770,ENT,Hospital_C,OR_02,2025-11-03,11:45,54,9,0,Completed
+S02452,P00046,Orthopedics,Hospital_C,OR_04,2025-11-21,15:15,142,39,1,Completed
+S02453,P00745,Cardiology,Hospital_C,OR_03,2025-02-04,12:15,243,83,0,Completed
+S02454,P00850,Gynecology,Hospital_B,OR_07,2025-06-21,13:00,52,33,0,Completed
+S02455,P00090,General Surgery,Hospital_B,OR_05,2025-10-30,17:45,62,12,0,Completed
+S02456,P00128,General Surgery,Hospital_C,OR_08,2025-06-23,10:00,79,47,1,Completed
+S02457,P00616,Orthopedics,Hospital_A,OR_02,2025-11-03,12:30,102,19,0,Completed
+S02458,P00428,Gynecology,Hospital_A,OR_03,2025-12-08,14:00,182,11,0,Completed
+S02459,P00888,Orthopedics,Hospital_A,OR_01,2025-06-23,14:00,176,66,0,Completed
+S02460,P00490,Gynecology,Hospital_B,OR_01,2025-01-22,10:30,122,47,0,Completed
+S02461,P00589,Urology,Hospital_A,OR_08,2025-05-05,16:30,95,34,0,Completed
+S02462,P00214,Urology,Hospital_B,OR_04,2025-03-20,08:30,94,21,0,Completed
+S02463,P00292,ENT,Hospital_B,OR_06,2025-06-23,07:00,40,22,0,Completed
+S02464,P00160,Urology,Hospital_C,OR_03,2025-08-02,08:45,141,56,0,Completed
+S02465,P00133,Urology,Hospital_B,OR_01,2025-06-19,11:30,127,34,0,Completed
+S02466,P00102,Urology,Hospital_A,OR_08,2025-03-13,15:45,171,0,0,Completed
+S02467,P00803,Gynecology,Hospital_C,OR_06,2025-04-20,17:00,78,84,1,Completed
+S02468,P00063,Urology,Hospital_B,OR_06,2025-09-06,11:15,99,31,0,Completed
+S02469,P00465,ENT,Hospital_A,OR_05,2025-01-10,15:15,75,34,0,Completed
+S02470,P00457,Cardiology,Hospital_B,OR_04,2025-03-20,09:45,196,48,0,Completed
+S02471,P00051,Gynecology,Hospital_A,OR_04,2025-11-22,12:30,49,36,0,Completed
+S02472,P00757,Cardiology,Hospital_B,OR_07,2025-02-06,11:15,185,41,0,Completed
+S02473,P00451,Urology,Hospital_C,OR_02,2025-06-01,07:00,104,20,0,Completed
+S02474,P00114,Orthopedics,Hospital_A,OR_03,2025-03-17,07:00,80,6,0,Completed
+S02475,P00116,Urology,Hospital_C,OR_03,2025-02-08,10:00,48,45,1,Completed
+S02476,P00630,Urology,Hospital_B,OR_05,2025-06-04,08:45,100,54,0,Completed
+S02477,P00558,ENT,Hospital_C,OR_08,2025-07-10,16:15,121,16,0,Completed
+S02478,P00371,Orthopedics,Hospital_C,OR_08,2025-03-06,17:00,227,15,0,Completed
+S02479,P00365,Gynecology,Hospital_C,OR_05,2025-01-29,07:15,97,50,0,Completed
+S02480,P00032,Urology,Hospital_A,OR_02,2025-02-19,09:00,221,20,0,Completed
+S02481,P00029,ENT,Hospital_C,OR_08,2025-08-26,16:45,69,21,0,Completed
+S02482,P00482,ENT,Hospital_B,OR_03,2025-11-11,09:15,101,21,0,Completed
+S02483,P00327,Cardiology,Hospital_C,OR_03,2025-03-07,14:45,118,27,0,Completed
+S02484,P00227,Cardiology,Hospital_C,OR_08,2025-04-27,10:30,115,0,0,Completed
+S02485,P00341,General Surgery,Hospital_B,OR_03,2025-05-06,07:30,73,18,0,Completed
+S02486,P00545,ENT,Hospital_C,OR_04,2025-05-12,17:15,32,32,0,Completed
+S02487,P00264,Orthopedics,Hospital_B,OR_08,2025-03-31,14:30,196,32,0,Completed
+S02488,P00315,Gynecology,Hospital_A,OR_03,2025-01-21,13:30,67,49,0,Completed
+S02489,P00255,Urology,Hospital_C,OR_05,2025-07-11,16:00,77,61,0,Completed
+S02490,P00600,Cardiology,Hospital_B,OR_01,2025-05-11,16:45,89,55,0,Completed
+S02491,P00050,General Surgery,Hospital_A,OR_08,2025-05-05,16:15,88,44,0,Completed
+S02492,P00826,General Surgery,Hospital_A,OR_04,2025-04-07,13:15,186,25,0,Completed
+S02493,P00499,Urology,Hospital_C,OR_06,2025-12-06,16:15,233,29,1,Completed
+S02494,P00220,Cardiology,Hospital_C,OR_05,2025-08-11,10:30,74,40,1,Completed
+S02495,P00683,General Surgery,Hospital_C,OR_04,2025-06-02,07:15,83,39,0,Completed
+S02496,P00845,Gynecology,Hospital_B,OR_04,2025-03-16,09:15,57,55,1,Completed
+S02497,P00053,Orthopedics,Hospital_A,OR_01,2025-10-20,11:00,175,39,0,Completed
+S02498,P00184,Urology,Hospital_B,OR_03,2025-11-21,16:15,117,38,1,Completed
+S02499,P00130,Orthopedics,Hospital_A,OR_04,2025-01-12,10:00,94,54,1,Completed
+S02500,P00064,General Surgery,Hospital_A,OR_03,2025-12-06,17:45,98,51,0,Completed
