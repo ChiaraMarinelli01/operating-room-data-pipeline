@@ -1,153 +1,85 @@
 # Operating Room Data Pipeline & Analytics
 
-End-to-end portfolio project demonstrating **Python, ETL, SQL, PostgreSQL and dashboarding** on synthetic operating-room data.
+End-to-end Data Engineering portfolio project for processing and analysing synthetic operating-room data.
+
+The project demonstrates two complementary data processing pipelines:
+
+* a **Python/Pandas + PostgreSQL pipeline** for data ingestion, cleaning, relational storage and SQL analytics;
+* a **PySpark + Databricks pipeline** following a **Bronze/Silver/Gold (Medallion) architecture** for distributed data processing and analytical transformations.
+
+The project also includes data-quality validation, automated tests, Docker-based services and a Streamlit dashboard for data visualisation.
+
+## Project Overview
+
+The pipeline processes synthetic operating-room data from raw CSV files to cleaned datasets, analytical outputs and dashboard visualisations.
+
+The project demonstrates practical Data Engineering workflows including:
+
+* data ingestion and transformation;
+* data cleaning and validation;
+* relational database loading;
+* SQL-based analytics;
+* distributed processing with PySpark;
+* Medallion architecture with Bronze, Silver and Gold layers;
+* data-quality checks and automated testing;
+* containerisation with Docker;
+* analytical dashboard development with Streamlit.
 
 ## Architecture
 
-Raw CSV → Python/Pandas ETL → PostgreSQL → SQL analytics → Streamlit dashboard
-
-## Why this project?
-
-The project complements my MSc thesis in Applied Mathematics and Operations Research by focusing on the data-processing side of an operational analytics problem.
-
-It demonstrates:
-- data ingestion and cleaning
-- validation and transformation with Python/Pandas
-- relational database design with PostgreSQL
-- analytical SQL queries
-- reproducible ETL
-- dashboard development
-- basic testing
-
-## Tech stack
-
-Python · Pandas · NumPy · SQL · PostgreSQL · SQLAlchemy · Streamlit · Docker · pytest
-
-## Project structure
-
-```text
-.
-├── data/
-│   └── raw/
-├── dashboard/
-│   └── app.py
-├── sql/
-│   ├── schema.sql
-│   └── analysis.sql
-├── src/
-│   ├── analysis.py
-│   └── etl.py
-├── tests/
-│   └── test_etl.py
-├── docker-compose.yml
-├── requirements.txt
-└── README.md
-```
-
-## Run locally
-
-### 1. Create environment
-
-```bash
-python -m venv .venv
-# Windows:
-.venv\Scripts\activate
-# macOS/Linux:
-source .venv/bin/activate
-
-pip install -r requirements.txt
-```
-
-### 2. Start PostgreSQL
-
-```bash
-docker compose up -d
-```
-
-### 3. Run the ETL pipeline
-
-```bash
-python -m src.etl
-```
-
-This cleans the raw dataset, writes the processed data and loads the result into PostgreSQL.
-
-### 4. Run tests
-
-```bash
-pytest
-```
-
-### 5. Launch the dashboard
-
-```bash
-streamlit run dashboard/app.py
-```
-
-Open the local URL shown by Streamlit.
-
-## Data
-
-The included dataset is **synthetic** and generated for portfolio/educational purposes. It does not contain real patient information.
-
-## Roadmap
-
-- [x] Python ETL
-- [x] PostgreSQL database
-- [x] SQL analytics
-- [x] Dashboard
-- [x] Automated tests
-- [ ] PySpark implementation
-- [ ] Databricks implementation
-- [ ] CI/CD with GitHub Actions
-
-
-## Version 2 — PySpark & Databricks
-
-The project also includes a distributed-processing implementation:
+### Python / PostgreSQL pipeline
 
 ```text
 Raw CSV
-   ↓
+   |
+   v
+Python / Pandas ETL
+   |
+   v
+Cleaned data
+   |
+   v
+PostgreSQL
+   |
+   +---- SQL analytics
+   |
+   +---- Streamlit dashboard
+```
+
+### PySpark / Databricks pipeline
+
+```text
+Raw CSV
+   |
+   v
 PySpark
-   ↓
-Parquet
-   ↓
-Spark analytics
+   |
+   v
+Bronze
+   |
+   v
+Silver
+   |
+   v
+Gold
+   |
+   +---- Analytical aggregates
 ```
 
-and a Databricks-ready Bronze/Silver/Gold implementation using Delta tables.
+## Technologies
 
-### Run PySpark locally
+* Python
+* Pandas
+* PySpark
+* PostgreSQL
+* SQL
+* Databricks
+* Docker
+* Streamlit
+* pytest
 
-After installing the optional PySpark dependency:
+## Project Goal
 
-```bash
-pip install pyspark
-```
+The goal of the project is to demonstrate an end-to-end Data Engineering workflow using a realistic synthetic healthcare dataset, while comparing a traditional Python/relational approach with a distributed PySpark/Medallion architecture.
 
-Run:
-
-```bash
-spark-submit spark/spark_etl.py
-```
-
-Then run:
-
-```bash
-spark-submit spark/analytics.py
-```
-
-The Databricks implementation is in `databricks/01_bronze_silver_gold.py`.
-
-## Version 2 skills demonstrated
-
-- PySpark DataFrame API
-- Spark transformations and aggregations
-- Parquet
-- partitioning
-- Spark SQL concepts
-- Delta Lake
-- Databricks-ready ETL
-- Bronze / Silver / Gold architecture
-- separation of local and cloud execution
+The project is intended as a portfolio example showcasing data ingestion, transformation, validation, storage, analytics and visualisation.
